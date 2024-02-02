@@ -10,6 +10,7 @@ def process_file(input_file, output_file):
         content = file.read()
 
     processed_content = remove_non_english(content)
+    processed_content = processed_content.replace('\n',' ')
 
     with open(output_file, 'w', encoding='utf-8') as file:
         file.write(processed_content)

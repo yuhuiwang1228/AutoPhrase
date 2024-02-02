@@ -1,0 +1,79 @@
+0.9684189394	object oriented
+0.9529677489	data mining
+0.9495562410	programming language
+0.9382050505	logic programming
+0.9324598124	database systems
+0.9228740981	natural language
+0.9214895743	database design
+0.8386062410	query processing
+0.8227820346	range images
+0.8223562410	knowledge discovery
+0.7906145743	information systems
+0.7661240981	data model
+0.6358824315	object oriented database
+0.6090740981	range data
+0.5701828283	experimental results
+0.5656574315	range image
+0.5039873016	oriented database
+0.4875879870	paper presents
+0.4504567460	real time
+0.4099055556	an introduction
+0.3959817460	database system
+0.3402567460	three dimensional
+0.3210567460	an object oriented
+0.3020678571	the art
+0.2776333333	an overview
+0.2559567460	3 d
+0.2457500000	number of
+0.2426456349	this paper presents
+0.2385067460	this paper
+0.2343337302	based on
+0.2312067460	in order to
+0.2183678571	this chapter
+0.1954928571	this book
+0.1912623016	such as
+0.1779567460	as well as
+0.1631091270	shape from
+0.1587023810	introduction to
+0.1585912698	reconstruction from
+0.1562011905	3d model
+0.1483123016	3d models
+0.1453456349	a set of
+0.1361789683	3d reconstruction
+0.1343456349	the problem of
+0.1321448413	method for
+0.1256428571	the same
+0.1252678571	due to
+0.1193456349	the use of
+0.1099523810	approach to
+0.1062067460	a single
+0.1058734127	from multiple
+0.1045357143	techniques for
+0.1039523810	framework for
+0.1015357143	development of
+0.0951011905	a novel
+0.0922067460	the internet
+0.0882067460	the book
+0.0835357143	set of
+0.0815357143	reconstruction of
+0.0761234127	an object
+0.0732261905	a new
+0.0732023810	methods for
+0.0675357143	analysis of
+0.0662261905	used to
+0.0592067460	the object
+0.0566567460	by using
+0.0565357143	model for
+0.0522067460	the surface
+0.0497067460	the design
+0.0475357143	modeling of
+0.0452023810	algorithms for
+0.0433511905	the first
+0.0425357143	design of
+0.0425357143	model of
+0.0392023810	approach for
+0.0362067460	the method
+0.0342067460	the problem
+0.0317678571	as well
+0.0313511905	system for
+0.0133511905	use of

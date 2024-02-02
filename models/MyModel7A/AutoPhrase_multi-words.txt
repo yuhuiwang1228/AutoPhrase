@@ -1,0 +1,6 @@
+1.0000000000	favorite subject
+1.0000000000	the picture
+1.0000000000	the words
+1.0000000000	the things
+1.0000000000	listen and
+1.0000000000	| |
