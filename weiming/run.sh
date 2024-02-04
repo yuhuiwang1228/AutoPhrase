@@ -23,7 +23,7 @@ sudo docker run -v $PWD/data:/autophrase/data -v $PWD/models:/autophrase/models 
 sudo docker run -v $PWD/data:/autophrase/data -v $PWD/models:/autophrase/models -it \
     -e RAW_TRAIN=data/EN/textbook_grade7_termA_clean.txt \
     -e ENABLE_POS_TAGGING=1 \
-    -e MIN_SUP=30 -e THREAD=10 \
+    -e MIN_SUP=3 -e THREAD=10 \
     -e MODEL=models/MyModel7A \
     -e TEXT_TO_SEG=data/EN/textbook_grade7_termA_clean.txt \
     remenberl/autophrase
