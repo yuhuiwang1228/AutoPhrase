@@ -13,13 +13,6 @@ sudo docker run -v $PWD/models:/autophrase/models -it \
     -e MIN_SUP=30 -e THREAD=10 \
     remenberl/autophrase
 
-sudo docker run -v $PWD/data:/autophrase/data -v $PWD/models:/autophrase/models -it \
-    -e RAW_TRAIN=data/EN/DBLP.5K.txt \
-    -e ENABLE_POS_TAGGING=1 \
-    -e MIN_SUP=3 -e THREAD=10 \
-    -e MODEL=models/DBLP5K \
-    remenberl/autophrase
-
 sudo docker run \
     -v $PWD/weiming:/autophrase/data \
     -v $PWD/models:/autophrase/models \
@@ -33,3 +26,23 @@ sudo docker run \
     remenberl/autophrase
 
 ./auto_phrase.sh
+
+for file in "${!file_model_pairs[@]}"
+do
+    echo $file
+    model=${file_model_pairs[$file]}
+    echo "Processing file $file with model $model"
+    
+    sudo docker run \
+        -v $PWD/weiming:/autophrase/data \
+        -v $PWD/models:/autophrase/models  -it \
+        -e DATA_DIR=data \
+        -e RAW_TRAIN="$file" \
+        -e ENABLE_POS_TAGGING=1 \
+        -e MIN_SUP=3 -e THREAD=10 \
+        -e MODEL="$model" \
+        -e TEXT_TO_SEG="$file" \
+        remenberl/autophrase \
+        /bin/bash -c './auto_phrase.sh'
+
+done
