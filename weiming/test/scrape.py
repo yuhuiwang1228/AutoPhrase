@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-def check_phrase(phrase):
+def is_valid(phrase):
     formatted_phrase = phrase.replace(' ', '+')
     url = f"https://dictionary.cambridge.org/search/english/direct/?q={formatted_phrase}"
     headers = {

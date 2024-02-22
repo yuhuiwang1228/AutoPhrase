@@ -2,13 +2,11 @@ pip install -r requirements.txt
 
 python ./AutoPhrase/weiming/quality/batch_clean_txt.py -i ./K12-Vocab/cache -o ./AutoPhrase/weiming/clean`
 
-python ./process/docx_to_txt.py --d ./quality/小学英语词表.docx --t ./quality/primary.txt
-python ./process/docx_to_txt.py --d ./quality/初中英语词表.docx --t ./quality/junior.txt
-python ./process/docx_to_txt.py --d ./quality/高中英语词表.docx --t ./quality/senior.txt
+python ./weiming/process/docx_to_txt.py --d ./weiming/quality/小学英语词表.docx --t ./weiming/quality/primary.txt
 
 cp ./weiming/textbook_grade7_termA_clean.txt ./data/EN
 
-cat ./quality/primary.txt >> ./EN/junior.txt
+cat ./weiming/quality/primary.txt >> ./weiming/EN/junior.txt
 
 
 declare -A file_model_pairs=()
@@ -61,3 +59,5 @@ do
         /bin/bash -c './auto_phrase.sh'
 
 done
+
+python ./weiming/test/filter.py
