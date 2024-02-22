@@ -1,0 +1,155 @@
+0.9178597087	by train
+0.9163342401	by plane
+0.9066511052	go fishing
+0.9005237506	by bus
+0.8912175276	by car
+0.8540064683	by bike
+0.8456830305	by boat
+0.8404604083	by ship
+0.8374480198	play ping pong
+0.8300465566	by subway
+0.8172179253	go to school
+0.8154100831	no problem
+0.7971225340	play football
+0.7558618920	play computer games
+0.7196406251	computer games
+0.7111589481	on foot
+0.7061745233	@ listen and write
+0.7036997668	very much
+0.6948433573	wait for
+0.6867734861	play basketball
+0.6390674281	unit 6
+0.6211774193	@ listen and circle
+0.6154040636	wants to
+0.6150209342	_ _
+0.6116771613	unit 5
+0.6071894239	travel by
+0.6058374802	goes to school
+0.6043513798	listen and circle
+0.6003873316	unit 3
+0.5874383278	@ listen
+0.5846343854	safety rules
+0.5701905255	not today
+0.5664097901	by school bus
+0.5656061639	bus driver
+0.5643657177	read and write
+0.5454943151	unit 2
+0.5449025454	let's check
+0.5414081481	years old
+0.5323236515	police officer
+0.5286202032	listen and match
+0.5283899990	unit 1
+0.5060178154	let's read
+0.5059672428	the monkey wants to
+0.5042348792	@ let's sing
+0.5037854974	bad day
+0.5006534052	on saturday
+0.4990471480	usually go to school
+0.4975646085	point and say
+0.4974941591	taxi driver
+0.4886602347	bill plays computer games
+0.4798716447	want to bea
+0.4780506194	read again and write
+0.4766629347	@ read and write
+0.4736771965	favourite things
+0.4719823502	good at
+0.4719243860	jumping rope
+0.4687948117	on sunday
+0.4679113854	the stairs
+0.4673897071	listen and repeat
+0.4591738562	meeting place
+0.4580292539	~ ~
+0.4555130674	the green light
+0.4553765043	read and match
+0.4535733297	unit 4
+0.4506584978	the children need
+0.4504005869	@ self assessment
+0.4498378711	i'm using
+0.4479707446	pick fruit
+0.4410561269	need two teams
+0.4403519861	ping pong
+0.4389457485	school by school bus
+0.4367859928	often play basketball
+0.4359768778	the shops
+0.4356390317	fun time
+0.4319058284	point and repeat
+0.4298406628	new film
+0.4170390225	school on foot
+0.4153916885	climb on
+0.4132070874	information centre
+0.4127573272	a singer
+0.4127573272	a fireman
+0.4121678744	like sports
+0.4114638909	glue stick
+0.4114397034	a drawing club
+0.4064638909	roller skating
+0.4058274341	the monkey
+0.4019196545	@ look
+0.4002140722	the cinema
+0.3995340912	@ good to know
+0.3965589135	window ledge
+0.3954547334	delicious food
+0.3951859119	the monkey wants
+0.3900963920	play with fire
+0.3899527938	the sentences in order
+0.3896968097	want to
+0.3864038925	the light
+0.3827982613	plays computer
+0.3794510939	a word book
+0.3781350483	listen and
+0.3727630113	it's always fun
+0.3697639532	goes to work
+0.3666408111	can't find
+0.3651491368	for help
+0.3512618500	like ping pong
+0.3461429200	go to
+0.3445969686	to bea
+0.3166619893	@ let's make
+0.3142709142	often play
+0.3133410218	often goes
+0.3077679367	the sidewalk
+0.3048921960	the window
+0.3047604943	the window ledge
+0.3018955327	@ read
+0.2961009708	mary and
+0.2868269776	let's play
+0.2682478964	to play
+0.2672970334	often go
+0.2670240429	@ read and
+0.2648753494	the ball
+0.2606939968	goes to
+0.2600142308	to school
+0.2582833443	the park
+0.2558421935	dont climb
+0.2556714928	like basketball
+0.2482755269	dont run
+0.2415567168	| |
+0.2387947802	go to school on
+0.2379785727	usually go
+0.2370190907	a bad day
+0.2290882499	the dog
+0.2265858216	often go to
+0.2257227604	usually go to school by
+0.2235010564	going to
+0.2166353469	and write
+0.2112807382	often do
+0.2084536417	the lord
+0.2076981453	the green
+0.2073687889	a doctor
+0.2055066610	usually go to
+0.2021283493	the street
+0.2016547828	a cook
+0.2015058393	a dictionary
+0.1938043695	= 3
+0.1748008610	@ put
+0.1739224962	@ listen and
+0.1731419023	the lake
+0.1692013772	= =
+0.1683498311	4 1
+0.1663404925	and say
+0.1645630620	the children
+0.1542230175	@ let's
+0.1446308701	= |
+0.1434999253	| | |
+0.1192450970	do on
+0.0888121716	often on

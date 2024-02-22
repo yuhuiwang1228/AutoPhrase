@@ -1,0 +1,50 @@
+0.8571666667	come and see
+0.8315000000	@ do and say
+0.8258333333	put on
+0.7671666667	good for
+0.6983333333	@ let's
+0.6783333333	@ p
+0.6470000000	a & c
+0.6365000000	@ look
+0.6261666667	for baby and
+0.5845000000	story time
+0.5835000000	the way
+0.5356666667	listen and
+0.5125000000	and say
+0.5091666667	red apple
+0.5061666667	@ listen and chant again
+0.4928333333	green pencil
+0.4851666667	review & rewards
+0.4815000000	listen and repeat
+0.4745000000	listen and chant
+0.4573333333	@ listen and
+0.4541666667	t shirt
+0.4401666667	toy train
+0.4361666667	yellow skirt
+0.4270000000	im hungry
+0.4151666667	blue socks
+0.3970000000	red dress
+0.3960000000	letters in life
+0.3890000000	lesson 1
+0.3708333333	a &
+0.3701666667	unit 3
+0.3675000000	the schoolbag
+0.3660000000	@ letters in life
+0.3548333333	blue shirt
+0.3546666667	let's play
+0.3495000000	a cake
+0.3476666667	eee eee
+0.3381666667	eee eee eee
+0.3345000000	listen and chant again
+0.3191666667	unit 6
+0.3056666667	eee eee eee eee
+0.3036666667	want juice
+0.2975000000	the chair
+0.2760000000	4 abcdefghijklmnopqrstuvwxyz
+0.2745000000	the door
+0.2521666667	the light
+0.2361666667	@ listen and chant
+0.2341666667	want water
+0.2301666667	want noodles
+0.2108333333	the desk
+0.1638333333	a bear

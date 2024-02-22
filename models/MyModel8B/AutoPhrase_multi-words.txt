@@ -1,0 +1,1071 @@
+0.9158821241	last year
+0.9075809965	at least
+0.9071527014	give away
+0.9007365141	one day
+0.8979179463	even though
+0.8902311411	i'd like to
+0.8889072686	look at
+0.8873840868	fill in
+0.8843284118	full of
+0.8836753162	for example
+0.8809567677	every day
+0.8804973910	of course
+0.8768933553	look through
+0.8767481921	get enough sleep
+0.8703847554	right away
+0.8666480029	get into
+0.8623774016	as soon as
+0.8623338490	get good grades
+0.8591435680	any minute now
+0.8562774290	you're right
+0.8548949154	at first
+0.8464908291	in front of
+0.8447433521	take after
+0.8430159262	these days
+0.8427932646	last month
+0.8403161224	the rest of
+0.8388629742	all year round
+0.8388229937	take care of
+0.8362603762	next month
+0.8345481089	next to
+0.8340078372	a few
+0.8321191321	fall over
+0.8320801864	take breaks
+0.8267742013	no longer
+0.8264276013	once upon
+0.8263876116	at birth
+0.8254805691	walk into
+0.8244223139	as big as
+0.8201911814	many people
+0.8196034409	too much
+0.8175453075	talk about
+0.8161972751	thousands of
+0.8159273282	think about
+0.8130458063	ive never
+0.8109875290	right now
+0.8107423277	after school
+0.8106185096	in order to
+0.8099600077	a lot of
+0.8093770695	make ones way
+0.8082151198	an adult panda
+0.8075838919	get on with
+0.8015317973	so far
+0.7981410476	care for
+0.7963883578	this morning
+0.7951047851	clean up
+0.7938440408	more than
+0.7937290712	clean up day
+0.7936771503	a lot
+0.7873937151	three times
+0.7858869382	the side of
+0.7856480601	talk to
+0.7853581205	went there last year
+0.7830962176	say you're sorry
+0.7813780455	new york
+0.7774391401	fall down
+0.7772807033	part with
+0.7761153481	for three years
+0.7750174371	at night
+0.7749639423	depend on
+0.7744081464	agree with
+0.7739020436	in china
+0.7737032367	please clean
+0.7714023068	each other
+0.7712512690	a couple of
+0.7701192150	at school
+0.7686281446	the next day
+0.7676620763	most americans
+0.7676542859	die down
+0.7660992184	part of
+0.7646726737	go to sleep
+0.7643809948	thanks to
+0.7642557146	most people
+0.7632412757	going to
+0.7631205550	instead of
+0.7622374089	really good
+0.7617733741	go to
+0.7613505511	whats wrong
+0.7611673150	an old
+0.7599823708	even if
+0.7576782851	fix up
+0.7571118623	only two weeks from now
+0.7558989954	computer games
+0.7557569204	watch tv
+0.7538321409	an old man tried to move
+0.7530643012	some of
+0.7525041583	listen again
+0.7519407529	hand out
+0.7510512810	in fact
+0.7505814979	information from
+0.7495501507	for someone to
+0.7490230061	the other side
+0.7483949889	im going
+0.7474862400	the united states
+0.7463216178	many times
+0.7442016235	want to watch one
+0.7441397329	m n
+0.7437018694	take notes
+0.7435077221	new clothes
+0.7408363203	treasure island
+0.7402815707	the importance of
+0.7387808516	next week
+0.7384461614	going along zhonghua road
+0.7378987108	a rock and
+0.7367717925	close to
+0.7335742040	get something to drink after
+0.7321082549	ive already
+0.7300968904	some medicine on
+0.7297646564	much older than
+0.7290177770	junior high school
+0.7284580190	i've never
+0.7277192892	old bikes
+0.7264151798	went there
+0.7247180751	mean life or death
+0.7237291887	do housework
+0.7234475518	bus no
+0.7213430801	fall asleep
+0.7212095053	x ray
+0.7190870106	to tell people about
+0.7190407542	one of
+0.7189814095	able to
+0.7187296871	free time
+0.7186494553	4b fill in
+0.7181676688	no problem
+0.7170861127	this story
+0.7167242618	far as
+0.7166601610	at home
+0.7156269880	the us
+0.7153126808	in ones opinion
+0.7152668066	bigger than
+0.7150811712	although shes wrong
+0.7150695754	try to
+0.7147421161	talking about
+0.7127619353	live in
+0.7122499065	indian food
+0.7119025043	notes on
+0.7116824339	and expressions in
+0.7109586405	years old
+0.7086230687	last week
+0.7072227259	dont know
+0.7071351650	higher than
+0.7067719384	mountain climbing
+0.7061158920	homeless people
+0.7060657609	doing at eight
+0.7058917981	dont want to
+0.7053493007	very hot
+0.7053470707	cheer up
+0.7051803288	a little
+0.7044785931	the main character
+0.7044674394	ask hospitals to
+0.7043602205	give advice
+0.7039822992	in asia
+0.7020969970	lets go
+0.7017329156	a bandage on
+0.7012027822	play computer games
+0.6992206071	make conversations
+0.6988422594	in silence
+0.6982493587	the following
+0.6975675628	t for true
+0.6974524203	best friend
+0.6970450721	lived here
+0.6960790301	science fiction
+0.6951724497	waiting for
+0.6941794571	space museum
+0.6939182953	00 p.m
+0.6936763241	a conversation between
+0.6925486730	the blanks with
+0.6919874461	get married
+0.6915404942	these soft toys
+0.6910049125	trying to
+0.6909349743	make sure
+0.6901760537	something to drink
+0.6890386406	need to
+0.6886402545	want to keep
+0.6881306267	a good idea
+0.6880643226	because of
+0.6871043163	old toys
+0.6868785753	think of
+0.6826891794	+ +
+0.6824912966	the palace museum
+0.6813258521	an old man
+0.6812181499	this means
+0.6806226500	the verbs in
+0.6800314843	take down
+0.6791440357	wanted to
+0.6789714713	as for
+0.6788128037	soft toy
+0.6777031306	many things
+0.6775579201	bread maker
+0.6762918967	go home
+0.6752103527	much pressure
+0.6751453234	wait for
+0.6749083194	want to do
+0.6741623240	amusement park
+0.6721289624	at nine
+0.6718402611	the good old days
+0.6717892383	to do something
+0.6702949132	used to
+0.6700239103	words and expressions in
+0.6693922076	the face of
+0.6686157000	in 1a
+0.6676320672	& n
+0.6670951682	8,844.43 meters high
+0.6644022141	phrasal verbs
+0.6629864033	some signs
+0.6622986470	according to
+0.6619927243	the same
+0.6606926884	not easy
+0.6602191982	go there
+0.6593807003	section a
+0.6592630790	sore throat
+0.6588542514	$ 0
+0.6571538226	the article again and
+0.6565771739	the rainstorm came
+0.6561228668	listen and check
+0.6551355409	dont want to surprise
+0.6548565860	continue to move
+0.6544966839	got to
+0.6535547023	black and white
+0.6534664067	help others
+0.6533691750	help with
+0.6507348686	a fight with
+0.6500241411	the yellow river
+0.6499280581	little women
+0.6486359242	t f
+0.6479680611	most of
+0.6468908185	dear sir
+0.6459318439	like to do
+0.6452912070	went to
+0.6442956553	so many
+0.6436503274	a waste of
+0.6435565467	fa look at
+0.6431367298	section b
+0.6428710949	listen to
+0.6424673593	hansel and gretel
+0.6409675159	rain heavily
+0.6404144813	science museum
+0.6384059442	health problems
+0.6382106339	interested in
+0.6379097365	the international museum of toilets
+0.6374219741	old man tried to move
+0.6371005526	unit 7
+0.6348830312	| past tense | past participle
+0.6347733567	ive already read
+0.6335085633	some hot tea
+0.6322715201	unit 8
+0.6318071313	program in chengdu
+0.6312843096	show first
+0.6306911529	board game
+0.6303945302	this bike for three years
+0.6300292674	ever since
+0.6295416825	playing soccer
+0.6293558187	a baby panda
+0.6292253033	lives in
+0.6284016683	any other mountain
+0.6282638551	big deal
+0.6272048918	got hit
+0.6268484684	weighs many times more than
+0.6257567014	help people
+0.6252324054	did not want to
+0.6248921518	the ball game
+0.6248145149	to help
+0.6244823740	30 compare
+0.6242721301	book to write about
+0.6236747464	three years
+0.6228101104	want to go
+0.6223446039	wall guide
+0.6219889255	the correct forms of
+0.6219300333	other things
+0.6213152156	ever tried
+0.6210752640	come true
+0.6200244994	modal verbs
+0.6199651356	2d role play
+0.6194922248	tb listen
+0.6194445629	the highest mountain in
+0.6194142880	silk and gold
+0.6169929733	words and phrases
+0.6163253948	sentences with
+0.6159093311	i'm going to
+0.6153554439	read little women yet
+0.6151261719	a good way
+0.6145907832	tv program
+0.6143336606	two years
+0.6141811105	similar meanings
+0.6134102111	helping mary with
+0.6127601011	closer together
+0.6127245489	a day
+0.6119633181	00 a.m
+0.6099885223	read treasure island yet
+0.6095304948	about getting
+0.6093994593	the school basketball competition
+0.6085993192	sweet memories
+0.6075458271	came to
+0.6062633045	really tired
+0.6044217253	country music
+0.6043713827	other ways
+0.6029721131	listening to
+0.6026688877	any clothes
+0.6020235415	in time
+0.6018225559	different animals and objects
+0.6013228739	say anything
+0.6010739031	head down
+0.6008264793	the first
+0.6002988724	do chores
+0.5988046290	t v
+0.5987895372	unit 10
+0.5976048842	a difficult situation
+0.5974351419	tea art
+0.5974332893	to get
+0.5967386869	want to
+0.5960656498	unit 9
+0.5954802549	ever visited
+0.5951375860	made of bread
+0.5944435755	doing chores
+0.5934463954	asked in surprise
+0.5925809546	did not
+0.5916718317	a good university
+0.5910132704	do not
+0.5907023778	oliver twist
+0.5906476926	on april 26
+0.5906358907	the matter
+0.5897335247	possible for
+0.5895937732	singer writer
+0.5893264685	so much
+0.5885732623	cd player
+0.5884534645	kept on
+0.5881722298	last night
+0.5872150655	unit 3
+0.5871568998	each unit
+0.5863556595	the emperor isnt
+0.5862183065	but now
+0.5861964838	magic stick
+0.5851630585	main ideas
+0.5837990998	& v
+0.5820169010	held held
+0.5814608665	watch one show first
+0.5808595928	kids learn to
+0.5804829535	the ming great wall
+0.5801885892	disney characters
+0.5785905128	facts about
+0.5765203418	never do
+0.5758384908	make notes about
+0.5755639583	but unless
+0.5751723047	talk about past
+0.5748664013	help to
+0.5748352445	some money
+0.5735602021	a dream come true
+0.5734071485	home from school
+0.5728755556	9 cheer
+0.5727660010	agreed to go
+0.5723362737	but im
+0.5722062087	tv reporter
+0.5717244549	train and railway set
+0.5700153057	life because of accidents
+0.5699900284	many exciting
+0.5696504947	eee eee eee
+0.5660899381	time for
+0.5616127446	a bit
+0.5612080407	3b read
+0.5610710986	conversation 3
+0.5608854126	animal helpline
+0.5598682262	information in 2a and 2b
+0.5597198996	sad and thirteen
+0.5596395498	think twice
+0.5585759837	much more
+0.5579087095	and answer
+0.5575556406	run out
+0.5566382587	the sentences using
+0.5563355100	studied until midnight last night
+0.5554607752	the best
+0.5552773182	around for
+0.5549927431	after school classes
+0.5546358639	clean and tidy
+0.5545559297	the verbs in brackets
+0.5541510233	tried chinese food
+0.5532907195	unit 5
+0.5526101488	important event
+0.5522071193	write short answers to
+0.5520180811	dont think
+0.5513932985	2d read
+0.5501593433	old people
+0.5498213168	seem to
+0.5490812624	6 rock
+0.5474152263	the chart
+0.5463584681	not played
+0.5458157113	aron almost lost
+0.5455742606	for false
+0.5442549660	animal helpers
+0.5439312335	the conversation
+0.5432327274	listen and number
+0.5431446790	like to go
+0.5430296440	in control of
+0.5418141752	a very
+0.5417325302	in la
+0.5417325302	in april
+0.5416961720	this year
+0.5416267536	d v
+0.5409735833	any more
+0.5409218638	the other hand
+0.5406827037	harry potter
+0.5401072962	the space museum b
+0.5399793888	back to
+0.5398637239	1b listen and
+0.5380391588	a long time
+0.5375458891	for more than 10 years
+0.5373121786	not even
+0.5370236614	hit hit
+0.5363877597	information in 1b
+0.5359010361	doing something
+0.5350734652	accident or
+0.5345371362	kind of
+0.5328822208	yard sale
+0.5328333105	drinks and snacks
+0.5318291595	jenny doing while linda
+0.5300364934	world trade center
+0.5297777339	each paragraph
+0.5283743512	mom came
+0.5283504908	take out
+0.5283504908	didnt get
+0.5282889929	not very
+0.5279687219	again and answer
+0.5276353558	miss li
+0.5275983180	living in
+0.5267066139	the most
+0.5265456856	doing at
+0.5252227686	feel free
+0.5242175951	a clean and comfortable
+0.5241979480	the weather
+0.5240733976	to walk to
+0.5238366818	a new
+0.5234404425	get on
+0.5224709844	in singapore
+0.5224672716	unit 2
+0.5224626511	cake and candy
+0.5213306208	_ |
+0.5209479050	a hard place
+0.5209095496	oldest countries in
+0.5206014832	good at
+0.5201958609	the text
+0.5199740737	just as
+0.5188585370	words from
+0.5168874890	the words in brackets
+0.5163400569	even more
+0.5159040370	didnt think
+0.5145916675	present perfect tense
+0.5144692051	night safari
+0.5135374973	much more computers
+0.5134468809	do so many
+0.5133789464	to work in
+0.5124144274	but then
+0.5122947797	enough to
+0.5098582372	at 9
+0.5098368894	dont like
+0.5097398822	a great idea
+0.5096118855	people in
+0.5093834591	the birds nest
+0.5088238179	to make
+0.5085978958	no longer use
+0.5077091547	a shower
+0.5074110262	rrr rrr
+0.5072191019	not finished
+0.5071371721	kilos of
+0.5070961371	the house
+0.5067588102	because ive
+0.5055188716	a man
+0.5049520510	to do
+0.5048809873	of speech
+0.5047240354	amazon river
+0.5040172888	these people
+0.5037787825	8,844.43 meters
+0.5031095141	the questions with
+0.5027646838	girl 2
+0.5026888290	learned about
+0.5023237347	three days
+0.5020006309	simple past tense
+0.5018756221	some people
+0.5018341903	the mountains
+0.5007692355	pop music
+0.5003590683	tina read treasure island
+0.4997445821	to see
+0.4988472379	to help people
+0.4985968790	a very old man
+0.4976519119	longest river in
+0.4963134143	adult pandas
+0.4953485033	already read
+0.4952670146	favorite singer
+0.4949239785	kilometers long
+0.4944232029	boy 2
+0.4936967367	lie down
+0.4927779176	| | |
+0.4927371285	the movie
+0.4920246273	at eight
+0.4919143514	girl 1
+0.4918297740	this event
+0.4910502486	the hospital
+0.4910502486	the young
+0.4908400952	time to walk to
+0.4906291525	the terracotta army
+0.4904630664	water park
+0.4900098145	then make
+0.4895771666	tom sawyer
+0.4894952628	bad people
+0.4892289833	singer or
+0.4891456178	| |
+0.4888159404	about whales
+0.4874524654	unit 1
+0.4867430606	yangtze river
+0.4858065472	a short
+0.4855371073	finished reading
+0.4850605978	to relax
+0.4849080272	2b listen again
+0.4847298046	angry with
+0.4836530986	kinds of
+0.4832119874	favorite thing
+0.4821181025	the driver
+0.4813948413	different animals
+0.4813481568	clothes for
+0.4805426515	conversation 2
+0.4805116585	the monkey king
+0.4796619762	the caspian sea
+0.4794529902	most dangerous
+0.4783366791	making sure
+0.4781721220	2b listen again and
+0.4780953174	oo oo
+0.4778500383	boy 1
+0.4774680431	role play
+0.4774361875	this book
+0.4773181175	then ask
+0.4770403804	the article again and answer
+0.4761732976	the questions
+0.4759447970	the old man
+0.4756370333	baby pandas
+0.4753688484	more about
+0.4751895245	study for
+0.4746389048	rainstorm came
+0.4744292453	old things
+0.4743317065	these things
+0.4742840992	a partner
+0.4708616082	bus driver
+0.4700308949	man made
+0.4699714650	vocabulary index
+0.4696707475	like to
+0.4681601950	the pictures 1 5
+0.4677858379	the bus
+0.4675589515	74 board
+0.4675029894	the bus stop
+0.4674997205	the information in
+0.4671187555	two weeks
+0.4669103707	conversation 1
+0.4652941208	kind of music
+0.4649260639	chores at home
+0.4642224679	while linda
+0.4640778850	past progressive tense
+0.4637185588	the story begin
+0.4633806232	unit 4
+0.4627243919	a dog
+0.4626188131	the rain
+0.4624357396	put put
+0.4620266787	book report
+0.4613084109	symbol of
+0.4613084109	piece of
+0.4613084109	forms of
+0.4613084109	pieces of
+0.4603925623	74 soft
+0.4603038611	began to
+0.4602128442	2b read
+0.4599268357	martin luther king
+0.4586951370	unit 10 ive
+0.4584655340	the mountains unit 6
+0.4582207647	people like
+0.4575174232	a good
+0.4568475741	75 part
+0.4568257541	polite requests
+0.4557962631	the forest
+0.4556118884	to move
+0.4553635569	world trade
+0.4547208955	yu gong said
+0.4532326872	back in
+0.4520838594	the most popular
+0.4515887962	a very old
+0.4507463631	in surprise
+0.4499473181	_ _ _
+0.4496430127	of all
+0.4496011126	on april
+0.4488966014	8 8
+0.4487353782	to provide
+0.4483031761	the blanks
+0.4471155957	as far as
+0.4470789011	for more than
+0.4464219869	_ _ _ _
+0.4464121010	hangzhou national tea museum
+0.4459190705	the article
+0.4453474804	to go there
+0.4453333164	all day
+0.4449307285	get better
+0.4447943892	listen again and fill in
+0.4423615248	zhonghua road
+0.4419786155	these words
+0.4400171100	language goals
+0.4390541579	or so
+0.4388563245	the correct
+0.4383179062	fa match
+0.4380235640	a baby
+0.4379458388	arrived on
+0.4376604274	to play
+0.4375392121	the world
+0.4368041583	think children
+0.4364035004	conversations using
+0.4352421751	| 8
+0.4351848556	events in
+0.4348417326	the man
+0.4346318543	tried to
+0.4343364288	the emperor
+0.4342944542	the second
+0.4342147266	some chores
+0.4334843955	very good
+0.4326698244	a car
+0.4326214789	times more than
+0.4324821946	for two years
+0.4323029414	the place
+0.4316003663	led led
+0.4290221750	d n
+0.4274687146	almost as
+0.4257135328	the story
+0.4255730808	words in
+0.4253439493	chengdu research base
+0.4252443081	conversation 4
+0.4239540201	cm long
+0.4236510055	2e discuss
+0.4217188207	history museum
+0.4217054715	better grades
+0.4202375050	the water park
+0.4198562090	important for
+0.4194633077	the passage
+0.4180260415	the problems
+0.4174657511	the ones
+0.4164670000	wang ping
+0.4148864346	the toms
+0.4143629199	a young
+0.4143481011	phrases in
+0.4137949557	the sentences
+0.4136770699	cant work
+0.4130108684	the passage again
+0.4124338511	working in
+0.4100433762	the passengers
+0.4098189408	the past
+0.4086975167	in 3a
+0.4072120931	wonderful house
+0.4069012413	the bus driver
+0.4063729964	a story
+0.4053615551	the passage and answer
+0.4046544515	a shame
+0.4044345525	tv all
+0.4043124154	mark tina
+0.4038674796	the information in 2a
+0.4029748018	up to
+0.4017253551	the earth and stone
+0.4007344661	the party
+0.3999552940	a plan to
+0.3997402911	the phone
+0.3992143851	the living room
+0.3990679803	here since
+0.3987591141	robinson crusoe
+0.3980022024	a mountain
+0.3978594898	the top
+0.3976381643	countries in
+0.3969123293	years ago
+0.3965724628	the space
+0.3946378353	the one hand
+0.3930366321	forest with
+0.3929527431	yu gong
+0.3914178110	competition started
+0.3890169605	get something
+0.3888458533	the art museum
+0.3885591249	heard of
+0.3885250339	_ _ _ _ kate
+0.3882951518	again and complete
+0.3882379081	advice for
+0.3873783653	pl pl
+0.3869094012	the radio
+0.3862799792	mountains after
+0.3844955201	_ _
+0.3843799033	_ _ _ _ _
+0.3829368070	language goal
+0.3820355069	expressions in
+0.3818023929	a book called
+0.3817373322	a museum
+0.3814145376	a conversation
+0.3814145376	a movie
+0.3810533991	the city park clean up
+0.3799618542	a letter to
+0.3795190692	a party
+0.3785768070	zhong wei
+0.3777573039	want to surprise
+0.3769934737	wang ming
+0.3756860422	the space museum
+0.3749934737	wei ming
+0.3747332212	the yangtze river
+0.3745860605	way to
+0.3729461020	the numbers
+0.3726094336	write about
+0.3723861911	city park
+0.3689970796	the stick
+0.3677642204	make notes
+0.3664833295	to go to
+0.3664591696	the highest mountain
+0.3661577148	bike for three years
+0.3656143920	museum last year
+0.3650870896	museum last
+0.3646046540	the play
+0.3646046540	the heavy
+0.3644821867	the spirit of
+0.3638977699	high school
+0.3634389865	mei ling
+0.3616781315	agreed to
+0.3609846555	write about yet
+0.3606590892	a dress
+0.3603643851	a gift
+0.3602735226	do something
+0.3600526621	the world trade center
+0.3595378814	one hand
+0.3591336729	walking home
+0.3589038254	the statements
+0.3570401037	monkey king
+0.3569955560	some things
+0.3563714860	then write
+0.3519725848	the event
+0.3517286700	the news on
+0.3516157238	often do
+0.3514015172	the box
+0.3510657076	the storm
+0.3506536525	and circle
+0.3504524324	a year
+0.3502392899	the longest river in
+0.3499806682	the film
+0.3499806682	the pacific
+0.3482869615	know about
+0.3448984381	3b write
+0.3445053183	the new
+0.3437744939	decided to
+0.3437356413	for children
+0.3435707769	art museum
+0.3428534911	museum of toilets
+0.3421603260	the children to
+0.3416624024	the words in
+0.3405187124	a serious
+0.3385555810	the children
+0.3384998564	the tv
+0.3371088513	made of
+0.3359532369	great wall
+0.3355023719	already finished reading
+0.3344843544	the news
+0.3338833896	the rainstorm
+0.3333090641	the letter
+0.3321519032	for help
+0.3320907339	told yu gong
+0.3293340195	some parents
+0.3275078284	there once
+0.3261316186	the letters
+0.3256517642	eee eee
+0.3256044796	many times more
+0.3254433575	the great wall
+0.3249450085	and ask
+0.3241047829	the sahara
+0.3229712661	in love
+0.3222094114	the facts
+0.3214176086	to write about
+0.3211272724	hope things
+0.3204882738	in 2a
+0.3191678989	old man
+0.3171521176	unit 6
+0.3162147411	the stones
+0.3158257016	the earlier
+0.3151644522	present perfect tense with
+0.3126912980	of toilets
+0.3123289381	for permission
+0.3075326305	the accident
+0.3074443281	the subway
+0.3074443281	the terracotta
+0.3073340045	the pictures in
+0.3060569056	exciting things
+0.3056204985	_ _ _ _ aron
+0.3054478192	the blanks in
+0.3051502392	the oldest
+0.3050994320	the whole
+0.3038446410	below and
+0.3030723120	the words
+0.3005365615	t n
+0.2996262671	the day
+0.2992857459	a science museum
+0.2986181046	the sea
+0.2978900151	in 2a and
+0.2970680984	the countryside
+0.2961453124	listen again and
+0.2955992349	the two
+0.2955572771	the order
+0.2954159683	the baby pandas
+0.2951436098	to visit
+0.2941518385	the pictures 1
+0.2938774056	people to
+0.2938774056	to take
+0.2938351016	the oldest countries in
+0.2926847594	the picture
+0.2920758983	the forests
+0.2920758983	the newspaper
+0.2919057357	s n
+0.2915357441	the biggest
+0.2913084276	tb listen to
+0.2905174167	74 check
+0.2901886896	to animal helpers
+0.2893446956	and take notes
+0.2874424309	the passage again and
+0.2862270566	| 2
+0.2857045094	the night safari
+0.2854083275	an after school
+0.2844613105	p s1
+0.2841429691	and then
+0.2826235930	to rain heavily
+0.2803446168	the road
+0.2799064311	treasure island yet
+0.2791907495	p ll
+0.2787040179	the underlined
+0.2778562597	to wait for
+0.2776440906	of china
+0.2771571429	the deepest
+0.2768737508	the world unit
+0.2766484069	and other
+0.2748742903	hope to
+0.2736506341	the pictures
+0.2734309254	the wife
+0.2716569534	about singapore
+0.2704256050	spirit of
+0.2693625465	the hospital to
+0.2692222194	of music
+0.2688390965	the time
+0.2682464508	2 p
+0.2663986895	the himalayas
+0.2640257412	the store
+0.2633203864	the names
+0.2628176238	the better
+0.2616367157	| b
+0.2595076589	the nile
+0.2591191431	the next
+0.2575943536	a big deal
+0.2572665922	to fight
+0.2558128580	and never
+0.2544995571	for children to
+0.2543220946	the main
+0.2543220946	the ming
+0.2541965459	home from
+0.2530248349	to let
+0.2527573145	the longest
+0.2525534750	the yangtze
+0.2518523622	the tea
+0.2504092648	the highest
+0.2503271976	yu gong and
+0.2502765580	from china
+0.2475402548	about pandas
+0.2473079875	the money
+0.2470232699	| brought
+0.2468244988	the sky
+0.2463470587	in brackets
+0.2456116865	to tell
+0.2448351408	on tv
+0.2436009482	to come
+0.2401569011	the competition
+0.2396506932	the other
+0.2395549379	the things
+0.2393490989	the amazon
+0.2387940318	the clothes
+0.2387586426	the song
+0.2362991953	to go
+0.2362865897	problem and
+0.2356399619	mountain in
+0.2350583989	the places
+0.2337438643	for or
+0.2333235465	and didnt
+0.2323939792	list of
+0.2323174411	chinese food
+0.2318748234	a zoo
+0.2317861665	the dishes
+0.2317861665	the moon
+0.2283782395	a doctor
+0.2280434681	with friends
+0.2271224589	the united
+0.2271224589	the kitchen
+0.2271224589	the caspian
+0.2238451842	of money
+0.2210379114	the salt
+0.2207898063	the street
+0.2195532716	the babies
+0.2137293726	the kids
+0.2128387689	to study
+0.2115745926	| 3
+0.2107442275	the events
+0.2104037537	to call
+0.2081912873	the birds
+0.2078349253	take in
+0.2057722642	the passage and
+0.2057415038	2b boy
+0.2051661917	a yard sale
+0.2044433269	p l
+0.2029446755	a really
+0.2028594678	to find
+0.2002965182	thing about
+0.1996294417	the population
+0.1987727062	the girl
+0.1980668974	the people
+0.1974381819	feel free to
+0.1972280468	to talk to
+0.1970151693	to sell
+0.1963763380	sea and
+0.1960143967	the magazine
+0.1958214065	the school
+0.1955346610	river in
+0.1952678516	a child
+0.1940844973	the boy
+0.1903579734	_ _ china
+0.1897262917	a boy
+0.1893151312	the job
+0.1889368395	hard to
+0.1877401643	# 1
+0.1831439836	sister and
+0.1819948450	time to
+0.1815784617	to talk about
+0.1812071051	places in
+0.1810987625	in order
+0.1792591566	a stomachache
+0.1747853363	all of
+0.1739995413	to die
+0.1736171704	to cheer
+0.1706444501	letter to
+0.1702885937	people about
+0.1698218582	a letter
+0.1693572285	the pandas
+0.1690588431	article to
+0.1661063776	a place
+0.1652880175	to kill
+0.1645048415	a book
+0.1621266615	a science
+0.1618739909	p 70
+0.1612033905	do there
+0.1552313894	to work
+0.1551559260	volunteer in
+0.1549547029	the advice
+0.1546156274	food and
+0.1532219525	museum |
+0.1528854502	high and
+0.1522238940	important to
+0.1519245887	there on
+0.1517495766	a time
+0.1510414092	helped to
+0.1491746064	the museum
+0.1483940073	a cold
+0.1483240917	and objects
+0.1483119179	to wait
+0.1482806263	the information
+0.1481629988	| _
+0.1474492818	the book
+0.1471264039	and make
+0.1447532890	the last
+0.1447496408	a fever
+0.1447496408	a sore
+0.1443828248	the old
+0.1439612194	to learn
+0.1439539678	the bike
+0.1434574243	journey to
+0.1408594321	a small
+0.1407565019	_ 3
+0.1404415124	questions and
+0.1392528918	a week
+0.1388939836	and phrases
+0.1388242695	order to
+0.1358097589	a clean
+0.1323213459	= p
+0.1317182521	a big
+0.1296936172	to say
+0.1291647349	a special
+0.1275512781	the cut
+0.1271318840	for two
+0.1268810150	the dog
+0.1268810150	the idea
+0.1263540123	work in
+0.1261016503	_ _ 2
+0.1258182140	j p
+0.1257861605	things in
+0.1240323467	the city
+0.1237282329	a famous
+0.1228554771	a favorite
+0.1226662347	the b
+0.1215526003	to start
+0.1209751502	to understand
+0.1197275881	the library
+0.1191414704	to read
+0.1190562249	the water
+0.1186721950	to talk
+0.1184809648	the island
+0.1184809648	the town
+0.1184723649	a plan
+0.1153638555	p 60
+0.1151076757	the students
+0.1146662014	to put
+0.1130238965	and gold
+0.1127739406	n adj
+0.1126806843	the problem
+0.1122242832	continue to
+0.1122242832	answers to
+0.1108683409	a toothache
+0.1106171453	do to
+0.1099451346	animals and
+0.1092097620	to buy
+0.1090447406	a long
+0.1077335818	off p
+0.1072538033	if p
+0.1049776239	_ 4
+0.1035457128	the way
+0.1027310857	and dave
+0.1005478198	and complete
+0.0997305741	nurse and
+0.0996033436	to eat
+0.0973041217	day and
+0.0969390606	| 4
+0.0957895061	friends and
+0.0945107143	p 53
+0.0930396139	to keep
+0.0915584516	the big
+0.0914857966	to write
+0.0898128308	67 p
+0.0897249876	a walk
+0.0847806050	a great
+0.0783450485	the parents
+0.0775964630	home for
+0.0772429516	in 1b
+0.0770910744	to give
+0.0729504646	something to
+0.0706548464	the movies
+0.0694539482	to save
+0.0684646228	p 10
+0.0662002985	to ask
+0.0647005390	a p
+0.0636252020	p 6
+0.0627071419	place to
+0.0624946680	a bike
+0.0617533607	a fight
+0.0589067123	to change
+0.0564966689	not to
+0.0557481303	to clean
+0.0538815977	a hard
+0.0535606377	the monkey
+0.0535439775	time and
+0.0535439775	and get
+0.0513001193	job to
+0.0508987068	the good
+0.0491056615	_ 2
+0.0481516467	children in
+0.0472230136	to cut
+0.0437079961	and gretel
+0.0435987216	and write
+0.0427079961	a listen
+0.0413107598	listen and
+0.0392454830	the food
+0.0383861688	book to

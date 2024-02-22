@@ -1,0 +1,806 @@
+0.9238957214	fill in
+0.9174407351	look like
+0.9131013915	get up
+0.8968622397	come true
+0.8951289782	talk about
+0.8936681656	next to
+0.8935414891	by bus
+0.8904326918	school trip
+0.8863104607	host family
+0.8857931266	last year
+0.8841065726	look at
+0.8800511951	play basketball
+0.8786599251	go to school
+0.8758283235	every day
+0.8747274544	in front of
+0.8741063128	kind of
+0.8740036127	blow out
+0.8738720389	on weekends
+0.8710479341	i'd like
+0.8678270438	play soccer
+0.8643562245	after school
+0.8542298462	turn left
+0.8522389536	turn right
+0.8462551520	want to
+0.8439151760	get dressed
+0.8432763548	at home
+0.8431865122	speak english
+0.8423944015	sounds like
+0.8387142130	watch tv
+0.8345627191	play chess
+0.8316065062	enjoy reading
+0.8298577272	after dinner
+0.8295739511	so much fun
+0.8249518087	a lot of
+0.8236390703	fire station
+0.8219497456	go to bed
+0.8210850516	listen to music
+0.8203703686	boat races
+0.8197712915	post office
+0.8197712915	orange juice
+0.8183986307	not much
+0.8164725798	played badminton
+0.8093055420	at school
+0.8054422630	play volleyball
+0.8026864291	make friends
+0.8010874794	computer games
+0.8004255646	across from
+0.7977277505	think of
+0.7969895818	the back of
+0.7961782882	every morning
+0.7947044921	feed chickens
+0.7920501272	on saturday morning
+0.7916530805	half past
+0.7890735126	get to
+0.7882649891	playing basketball
+0.7820491130	a symbol of
+0.7817017785	any other night
+0.7816041787	at night
+0.7801356706	go along
+0.7791022392	on time
+0.7774819843	aunt sally
+0.7754229132	at least
+0.7751198961	let's see
+0.7746221032	sounds good
+0.7744593455	lots of
+0.7700688419	eat breakfast
+0.7683477520	went to
+0.7665346158	& pron
+0.7658015162	talk to
+0.7634193146	right now
+0.7631736926	notes on
+0.7621991285	by train
+0.7603022509	by bike
+0.7597359219	get lost
+0.7587790829	own conversations
+0.7586594574	that road
+0.7586299291	ask and answer questions about
+0.7574295716	get home from school
+0.7568502304	many trees
+0.7561030812	play computer games
+0.7550708306	every saturday
+0.7546732726	good luck
+0.7503970409	an elephant
+0.7421865741	around here
+0.7421486194	grow apples
+0.7419686183	police station
+0.7412544900	to get there
+0.7391079627	last weekend
+0.7387664381	lets see
+0.7381547670	clothes store
+0.7377016937	blonde hair
+0.7360429564	at seven
+0.7346074028	curly hair
+0.7344425381	left left
+0.7325985753	far from
+0.7323437948	many people
+0.7293849720	many people here on vacation
+0.7275060716	time for breakfast
+0.7271127660	drink tea
+0.7265586140	on school nights
+0.7246799315	pay phone
+0.7235866170	put put
+0.7229425045	of medium build
+0.7224863040	words and expressions in
+0.7222715563	want to join
+0.7220993107	made of
+0.7214689249	make conversations
+0.7205393725	some noodles
+0.7175104666	south africa
+0.7167944731	on bridge street
+0.7160487709	get to school
+0.7156858048	each unit
+0.7152265454	green tea
+0.7151830951	near here
+0.7149506322	stop stopped
+0.7138881410	help with sports
+0.7130664766	not bad
+0.7103834690	1a listen again
+0.7103483768	unit 11
+0.7086631424	an elephant never forgets
+0.7075701637	last week
+0.7074311193	because theyre
+0.7066263636	did not
+0.6999453247	a picture of
+0.6979441180	unit 12
+0.6978139502	time do
+0.6973289715	of medium height
+0.6962531542	the pictures
+0.6930466055	feel things moving
+0.6901743372	these students
+0.6894403029	last summer
+0.6885486350	usually eat
+0.6876418314	zrf afra
+0.6874628090	grandparents home
+0.6873321434	watching tv
+0.6862230730	the text
+0.6849714604	listen again
+0.6848597844	many people here on
+0.6835049518	2c read
+0.6823549299	an interesting job
+0.6817663093	in town
+0.6814592052	listen and complete
+0.6814337378	no problem
+0.6813135789	2b listen again
+0.6812881670	2b read
+0.6805414901	thats too bad
+0.6799516108	music club
+0.6794799638	best friend
+0.6789854377	a lot
+0.6772051179	* *
+0.6769687627	in class
+0.6767841074	go along long street
+0.6721964403	com 2a
+0.6704856162	school day
+0.6701189329	good with old people
+0.6694756605	wants to
+0.6692479155	in great danger
+0.6667826070	play with
+0.6641975794	ask for
+0.6636214237	dont know
+0.6632480037	train station
+0.6625928968	make breakfast
+0.6618702373	the information in
+0.6606301273	people say
+0.6605300516	on school days
+0.6603805280	fed fed
+0.6592825579	dad told
+0.6587938802	in china
+0.6582484552	fa match
+0.6523750898	very good
+0.6517261584	dont always
+0.6513089909	the conversation
+0.6509723665	prepositions of place
+0.6508850219	dont like
+0.6492817378	he's playing basketball
+0.6472291956	just tell
+0.6466294340	because they're
+0.6442296357	butterfly house
+0.6440019644	out of
+0.6436244440	six thirty
+0.6435807109	listen and write
+0.6431312195	the activities with
+0.6399637512	write at least five sentences
+0.6389427756	and cook food on
+0.6376505154	doing linda
+0.6368636569	then practice
+0.6356186608	uncle joe
+0.6338966940	the us
+0.6334780502	north street
+0.6329754162	dont eat in class
+0.6322835490	straight hair
+0.6320085632	very cute
+0.6303658776	brown eyes
+0.6281700557	subway station
+0.6274381359	radio station
+0.6273867559	go on
+0.6263695171	zrf fre http
+0.6259856228	2d role play
+0.6247907304	do last weekend
+0.6247812695	six o'clock
+0.6239676104	black hair
+0.6218470602	any other
+0.6210257750	the lake last month
+0.6205588680	a supermarket on
+0.6204577399	these questions
+0.6204328479	+ +
+0.6198964472	mutton noodles
+0.6198585332	a good time
+0.6186306010	studied for
+0.6182105648	sounds like you're
+0.6180193324	he's really
+0.6159030064	& n
+0.6154223602	the words and phrases
+0.6135372254	a birthday cake
+0.6132071416	dear dr
+0.6127045821	the river runs too
+0.6125230870	the chess club
+0.6114947224	not sure yet
+0.6110625087	see things
+0.6082250972	some ice on
+0.6079356107	listen and number
+0.6074353411	1b listen and write
+0.6071640342	a post office near here
+0.6067908032	any ice on
+0.6061347986	the words in
+0.6057982864	too bad
+0.6053750638	im watching tv
+0.6053005158	the words with
+0.6047479912	that road last year
+0.6047360673	on center street
+0.6027390171	late for
+0.6026317047	like tigers
+0.6025952537	in la
+0.6022465707	one large
+0.6018228315	the correct forms of
+0.6005123895	and never get lost
+0.5987509752	a hat in
+0.5965607479	about five
+0.5962764824	like pandas
+0.5947413440	shout at
+0.5940928526	at eight
+0.5926600391	tell stories
+0.5917352611	a long time
+0.5913120405	e mail
+0.5910756195	good at telling stories
+0.5901581201	this evening
+0.5900624301	the pay phone
+0.5899997712	theyre from
+0.5897454757	on tv
+0.5892690060	sleeping near
+0.5887689937	any photos
+0.5883196875	because theyre interesting
+0.5840748110	for dinner
+0.5838309701	listen to
+0.5838146555	wants to join
+0.5824579924	go now
+0.5820489421	on sunday
+0.5813915287	td like
+0.5805675528	people also
+0.5785778659	one of
+0.5776630041	listen and circle
+0.5775523848	the library
+0.5765986457	father mouse
+0.5759851639	get home
+0.5748074663	the box
+0.5728514884	theyre interesting
+0.5727087433	at nine
+0.5722797454	_ _ _
+0.5696989219	art club
+0.5678397135	about 20 minutes
+0.5676857637	the blanks with
+0.5668552131	in 1a
+0.5661581762	the verbs in
+0.5659096327	just go
+0.5653491900	new york
+0.5640944789	the park
+0.5639964192	the post office
+0.5635922584	tall or short
+0.5628331614	id like
+0.5619249720	adjectives of
+0.5605253083	sally and jim
+0.5593215049	uncle bill
+0.5592203713	went to sleep
+0.5591431298	don't arrive late for class
+0.5575241809	the gift shop
+0.5563720475	and expressions in
+0.5555791004	cece cece
+0.5550261148	work last week | did
+0.5549614092	doing right now
+0.5543860894	love to
+0.5536133828	like to eat
+0.5536070442	near here b
+0.5534778954	at six forty
+0.5533384333	section b
+0.5522377004	the lake
+0.5522077440	role play
+0.5517801446	spend time
+0.5512831155	zrf fra
+0.5506120548	the chart
+0.5503665599	listen and check
+0.5487430203	each box
+0.5486691970	at six
+0.5479086313	an x for
+0.5469373899	2a listen and
+0.5463104922	with sth
+0.5443724642	the weather
+0.5420141042	no questions and short answers
+0.5386466481	don't like
+0.5386326356	tb listen and
+0.5380968604	then use
+0.5376879972	easy to
+0.5371279468	some tomatoes
+0.5370757659	blonde blond
+0.5340579454	a little
+0.5303763727	at eight thirty
+0.5302385268	listen and read
+0.5279611728	then ask and answer
+0.5275921459	the passage
+0.5267529543	good at
+0.5257930558	the activities
+0.5256363178	unit 9
+0.5243881703	an interesting
+0.5238350345	never forgets
+0.5236403031	from julie
+0.5223582338	come to
+0.5214454970	listening to
+0.5187134316	work last
+0.5168909112	like beef and
+0.5166528050	the same way so
+0.5164928475	_ _ _ _
+0.5159359417	the stress and
+0.5158217652	11 year old boy
+0.5158050925	on page
+0.5150080981	because they're really scary
+0.5134563502	and answer
+0.5115920915	flew flu
+0.5084267720	goes to
+0.5081009673	@ zrf
+0.5076075307	unit 6
+0.5076054444	520pdf taobao.com
+0.5073226822	late on weekends
+0.5072299110	take ones order
+0.5067666020	write at least five
+0.5064579122	six forty
+0.5061905233	the weather in
+0.5057934850	any vegetables in
+0.5051441887	at five
+0.5050618932	the blanks
+0.5047796402	about two
+0.5045372376	some of
+0.5025808076	the correct
+0.5023936065	section a
+0.5017274261	at six thirty
+0.5012324045	eat dinner
+0.5006387841	to get
+0.5004380476	the zoo
+0.5003796089	things made of
+0.5002139160	ask and answer questions
+0.5000869454	to get to
+0.4982572694	get there
+0.4980421356	in ic
+0.4974625091	the same person
+0.4970077212	short hair
+0.4964363212	the words
+0.4963829263	ice cream
+0.4946024024	the door
+0.4940952266	the classroom
+0.4934656542	a quarter to
+0.4920099305	the guitar
+0.4892303599	the sentences with
+0.4879095367	to school by bike
+0.4877781149	conversation 3
+0.4858488475	unit 8
+0.4841897182	2b conversation 1
+0.4840111175	did last weekend
+0.4829902731	add more words in
+0.4828410498	the article again and
+0.4821578100	english speaking
+0.4800784388	520pdf.taobao.com 2a listen
+0.4797673028	conversation 2
+0.4795527599	prepositions of
+0.4794523408	unit 10
+0.4794005556	welcome to
+0.4791231818	going to
+0.4777439696	good for
+0.4776010085	small village in
+0.4774459070	the beef noodles
+0.4755391227	want to go
+0.4748696582	rick speaking
+0.4744232121	in 2a with
+0.4736388827	oo oo
+0.4717875462	homework first
+0.4717433039	not working
+0.4714941915	arrive late for class
+0.4712711174	a cd
+0.4705697189	to make
+0.4702967339	after breakfast
+0.4687407717	oo o
+0.4685230614	o o
+0.4684374569	student b
+0.4673558756	dont eat in
+0.4632975343	an x
+0.4628965433	about 15 minutes
+0.4608342025	write about
+0.4591017133	p ls
+0.4584581368	to call
+0.4577245355	howlong does
+0.4573050505	shout to
+0.4567367833	shes of medium
+0.4560681512	bring good luck to
+0.4559587245	more words in
+0.4558506894	the way
+0.4556149076	much fun
+0.4555295117	there isnt
+0.4530295618	like lions
+0.4526603381	the description words
+0.4508493171	work last week
+0.4504034500	along new street
+0.4486918293	hear in la
+0.4483051563	_ _ _ _ _
+0.4481947087	& adv
+0.4465337598	from here
+0.4458265851	know about
+0.4448076690	zrf afr
+0.4405719430	then make
+0.4401782281	or short
+0.4389760560	vacation last summer
+0.4385328810	p l4
+0.4377431160	questions and answers
+0.4373707204	& v
+0.4358363419	wanted for school
+0.4357347349	_ _
+0.4351546343	the phrases
+0.4325130000	im not sure
+0.4312954429	in different
+0.4278953805	zrf rfra
+0.4273233347	* * * * * *
+0.4270291936	* * *
+0.4267405064	the phone
+0.4267195174	not no
+0.4254659281	p ll
+0.4241768359	the same
+0.4240360379	good time
+0.4223787223	the chart with
+0.4223524796	seven o'clock
+0.4218802547	things moving
+0.4204870764	the fire
+0.4190344937	the animals
+0.4188315717	p.s1 p.s1
+0.4183841383	aton ip
+0.4178819683	zhu hui
+0.4174504368	he's playing
+0.4172149680	add more words
+0.4170387556	on saturday
+0.4169833861	street and turn
+0.4165772541	the stress
+0.4164642899	p.s0 p.s0
+0.4148409043	go by
+0.4137172867	the river to school
+0.4121686146	the farmers
+0.4103176160	gongbao chicken
+0.4093809515	3b write
+0.4092656465	23 follow
+0.4075449960	the united
+0.4075449960	the uk
+0.4068670341	49 p
+0.4063016795	hot in
+0.4057606267	the hotel
+0.4053750390	a fire
+0.4045687191	unit 7
+0.4035626298	food and water
+0.4031940589	animals do
+0.4030711635	s * *
+0.4022111578	dinner at
+0.4021902969	the same way
+0.4018098999	go to
+0.4015070696	conversation 1
+0.3985655165	five sentences
+0.3981441941	likes to
+0.3961859643	brown hair and
+0.3957864973	the music club
+0.3948937063	a conversation
+0.3948046519	gets to
+0.3946333377	and i'm
+0.3931853138	the rules in
+0.3919678419	very good at
+0.3916464459	old people
+0.3906109809	picture of
+0.3904493568	walk on
+0.3886363557	a hospital
+0.3885687113	the article again
+0.3879655530	photos of
+0.3865509128	so much
+0.3855895396	dont want
+0.3853091864	but elephants
+0.3849364111	the rules
+0.3843952946	like to
+0.3831964468	there many people here on vacation
+0.3824117858	then write
+0.3819261798	the places in
+0.3805161722	tea or
+0.3778457916	warm and cook food on
+0.3758563323	the conversations with
+0.3745865550	520pdf.taobao.com 3a
+0.3744545788	time for
+0.3740025336	a shower at
+0.3738235263	2a check
+0.3738013441	of ivory
+0.3734804678	a shower at six
+0.3727311333	work last week did
+0.3721126757	bowl of
+0.3704699037	student a
+0.3698648171	modal v
+0.3691548617	dining hall
+0.3690047696	long noodles
+0.3689104520	& adj
+0.3680392108	cant play
+0.3678703541	@ zrf rfra
+0.3671771165	high school
+0.3664720538	a hospital near
+0.3661661193	the trip
+0.3651307602	the farm
+0.3643455892	school at
+0.3630655809	vocabulary index
+0.3627542194	the pandas
+0.3620549360	of noodles
+0.3599674518	beef noodles
+0.3594074490	kinds of
+0.3565489961	house of dumplings
+0.3560339370	* * * * *
+0.3557841968	zrf bfra
+0.3531528798	did lisa
+0.3527090410	a test
+0.3520292421	speak to
+0.3508239018	p.s2 p.s2
+0.3500075585	writing to
+0.3486891160	eat in class
+0.3485056055	the students in
+0.3478495188	a big
+0.3478127105	the clubs
+0.3478127105	the numbers
+0.3473375787	takes about
+0.3462219301	simple past tense
+0.3462219301	present progressive tense
+0.3446218044	rfi rfra
+0.3434518707	zrf arfra
+0.3420357664	a story
+0.3411864497	a restaurant
+0.3410271371	order to make
+0.3374662048	early yesterday |
+0.3361518112	message for
+0.3343070653	unit 3
+0.3340873751	unit 4
+0.3334308189	alan and
+0.3331597370	tents and
+0.3322143473	ping pong
+0.3315984440	| |
+0.3309811842	the bank
+0.3303457480	trees and
+0.3297847631	shouted to
+0.3294931689	teeth and
+0.3289155816	answers with
+0.3274103729	language goals
+0.3260979789	the village
+0.3254912813	large bowl
+0.3246497185	time on
+0.3245585233	the supermarket
+0.3236867407	cut kat
+0.3235123494	on vacation
+0.3229259618	20 minutes
+0.3208295979	diary entry
+0.3181065626	3b complete
+0.3178502587	\ yes
+0.3175648523	for help
+0.3161845485	the sentences
+0.3147048220	mom make
+0.3137477874	zrf fre
+0.3135792451	61 feed
+0.3131988545	the candles
+0.3129345128	3a complete
+0.3127880860	medium build
+0.3127232758	the first
+0.3126450498	at 6
+0.3125644541	language goal
+0.3116677843	1b listen and
+0.3116266758	grew gru
+0.3116149720	answers in
+0.3114787513	the questions
+0.3112108904	the police station
+0.3094678157	summer school
+0.3089826073	doing b
+0.3088260827	the piano
+0.3086416229	dragon boat festival
+0.3076058081	questions with
+0.3073640142	the restaurant
+0.3044088330	the conversation with
+0.3010361625	to school
+0.3005134596	beef soup
+0.2984272451	tall and
+0.2972997872	home to
+0.2959080817	the children
+0.2958613819	the story
+0.2943080007	the cat
+0.2933080517	center street
+0.2927382850	questions about
+0.2918883786	for breakfast
+0.2909420412	the people
+0.2906684509	520pdf.taobao.com 2a
+0.2902064822	the foods
+0.2900501359	cece cece cece
+0.2864522936	bridge street and
+0.2851475888	to bed
+0.2848223596	the museum
+0.2844616199	to get to school
+0.2823742640	description words
+0.2802413025	no place
+0.2781163026	and across from
+0.2778181067	past forms
+0.2770178080	a small
+0.2749342542	listen to music in
+0.2737210232	a good
+0.2736590716	and then
+0.2726580245	in 2b
+0.2702979024	1b listen
+0.2608445935	the best
+0.2598301875	birthday foods
+0.2598246609	a around
+0.2580606938	the conversations
+0.2568728478	the other
+0.2530511138	the hospital
+0.2524918847	the places
+0.2500011900	a ropeway
+0.2489582726	ee eee
+0.2465080586	long does
+0.2444222237	with friends
+0.2428245283	at about
+0.2425135391	unit 1
+0.2372722097	home to school
+0.2368886303	passage with
+0.2364649602	the movies
+0.2356197245	of things
+0.2348937292	write answers
+0.2348937292	3a write
+0.2331242388	the farmer
+0.2321187922	p l
+0.2304900866	the pay
+0.2287334342	medium height
+0.2286358279	school music
+0.2282048047	eee ee
+0.2270663031	the criminal
+0.2246513611	the chart in
+0.2202282273	k n
+0.2195335288	2 complete
+0.2189036671	bridge street
+0.2183905325	eee eee eee
+0.2174126219	to walk
+0.2166396510	to learn
+0.2162825422	a medium
+0.2133375322	great danger
+0.2131872002	the police
+0.2124467024	the picture
+0.2117050841	the street
+0.2104936056	class school
+0.2085392998	a farm
+0.2085392998	a bank
+0.2072939727	the art club
+0.2069897366	last weekend b
+0.2039459897	take to
+0.2039220646	= =
+0.2037626196	to complete
+0.2032051446	520pdf.taobao.com ee
+0.2023840624	to do
+0.1993370976	early yesterday
+0.1982549611	the school
+0.1973225370	good with
+0.1965525752	a very
+0.1956344146	ff p
+0.1952481376	the trees
+0.1939782852	speaking students
+0.1935455827	the food
+0.1933194565	p 41
+0.1919647112	eee eee
+0.1914660491	0 n
+0.1904230077	long straight
+0.1846615795	long street
+0.1825366060	help with
+0.1809510215	arrive late
+0.1804316525	the names
+0.1804316525	the river
+0.1786893905	the drums
+0.1783130719	interesting job
+0.1775653080	and phrases
+0.1761096286	the article
+0.1752364137	to school |
+0.1735380680	the bus
+0.1728372481	brown hair
+0.1722409167	john doing
+0.1713376315	2b listen
+0.1701323049	the pool
+0.1676969367	there b
+0.1669469563	unit 2
+0.1642143353	a quarter
+0.1633398077	person differently
+0.1625093405	a bus
+0.1620995027	the answers
+0.1584716617	hair oo
+0.1576354396	do people
+0.1564504360	a shower
+0.1561727921	at at
+0.1556076777	rules for
+0.1532919720	the kitchen
+0.1524012105	write questions
+0.1483899274	to talk to
+0.1463261053	a partner
+0.1455430168	like b
+0.1447039056	a great
+0.1445317405	and dont
+0.1434763115	a dark
+0.1431465208	the things
+0.1427889824	_ _ _ _ did
+0.1417831489	e |
+0.1402598098	and complete
+0.1400570928	and mary
+0.1384432119	homework and
+0.1365904944	and fill in
+0.1344478032	about 20
+0.1318031650	the beach
+0.1289231739	53 p
+0.1278636098	| zrf rfra
+0.1273120210	yesterday |
+0.1270319497	get to school b
+0.1258701345	the class
+0.1244607992	a picture
+0.1234301453	to go
+0.1198398645	not too
+0.1187018551	go to school at
+0.1180318033	do last
+0.1178525069	to see
+0.1172359404	the club
+0.1172359404	the room
+0.1162298070	7 3
+0.1146453047	to help
+0.1146095632	people in
+0.1128447104	words in
+0.1098669107	in 2a
+0.1084931088	a zrf rfra
+0.1072676611	weather in
+0.1065768313	to eat
+0.1028004634	47 p
+0.1005323058	from school
+0.1004444897	jane and
+0.1000825236	to take
+0.0980038865	p 71
+0.0945139123	the students
+0.0944695743	the train
+0.0935372479	house with
+0.0908772524	im not
+0.0901100553	25 p
+0.0897761993	the evening
+0.0866451538	a short
+0.0847337068	friends with
+0.0822617392	520pdf.taobao.com 2
+0.0821806609	to talk
+0.0814578059	here and
+0.0800022507	the elephants
+0.0788944100	to write
+0.0713886282	not at
+0.0711574455	a person
+0.0700830232	animals in
+0.0700785467	a book
+0.0682651468	| d
+0.0664829172	warm and
+0.0643448339	the subway
+0.0631103217	the dishes
+0.0627539683	and write
+0.0626109469	a p
+0.0606326278	p 14
+0.0598812829	the noodles
+0.0593821086	a special
+0.0591146955	the post
+0.0589887214	and down
+0.0582478376	a girl
+0.0571110862	there by
+0.0563906837	like boy
+0.0537416968	weekend b
+0.0517857518	the right
+0.0514327834	all in
+0.0507993198	the house
+0.0497105109	to work
+0.0494534984	and jim
+0.0476907601	beef and
+0.0466837488	the world
+0.0457455557	eat in
+0.0447220991	| zrf
+0.0442055850	a message
+0.0432798961	the violin
+0.0409657975	in order
+0.0393419577	in 1b
+0.0362698958	sing and
+0.0361499712	to watch
+0.0335104136	and circle
+0.0335104136	and check
+0.0334904655	the dark
+0.0324770802	a zrf
+0.0309770802	a supermarket
+0.0296024163	the weekend

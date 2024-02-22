@@ -1,31 +1,46 @@
 pip install -r requirements.txt
 
-python ./Weiming/clean_txt.py -i ./Weiming/textbook_grade7_termA.txt -o ./Weiming/textbook_grade7_termA_clean.txt
-python ./Weiming/docx_to_txt.py --d ./Weiming/quality_grade7_termA.docx --t ./Weiming/quality_grade7_termA.txt
+python ./AutoPhrase/weiming/quality/batch_clean_txt.py -i ./K12-Vocab/cache -o ./AutoPhrase/weiming/clean`
 
-cp ./auto_phrase.sh ./weiming
+python ./process/docx_to_txt.py --d ./quality/小学英语词表.docx --t ./quality/primary.txt
+python ./process/docx_to_txt.py --d ./quality/初中英语词表.docx --t ./quality/junior.txt
+python ./process/docx_to_txt.py --d ./quality/高中英语词表.docx --t ./quality/senior.txt
+
 cp ./weiming/textbook_grade7_termA_clean.txt ./data/EN
-cp ./weiming/quality_grade7_termA.txt ./data/EN/wiki_quality_extend.txt
-cat ./data/EN/wiki_quality.txt >> ./data/EN/wiki_quality_extend.txt
 
-sudo docker run -v $PWD/models:/autophrase/models -it \
-    -e ENABLE_POS_TAGGING=1 \
-    -e MIN_SUP=30 -e THREAD=10 \
-    remenberl/autophrase
+cat ./quality/primary.txt >> ./EN/junior.txt
 
-sudo docker run \
-    -v $PWD/weiming:/autophrase/data \
-    -v $PWD/models:/autophrase/models \
-    -v $PWD/weiming:/autophrase/weiming -it \
-    -e DATA_DIR=data \
-    -e RAW_TRAIN=data/cache/textbook_grade7_termA_clean.txt \
-    -e ENABLE_POS_TAGGING=1 \
-    -e MIN_SUP=3 -e THREAD=10 \
-    -e MODEL=models/MyModel7A \
-    -e TEXT_TO_SEG=data/EN/textbook_grade7_termA_clean.txt \
-    remenberl/autophrase
 
-./auto_phrase.sh
+declare -A file_model_pairs=()
+
+for grade in {"1","2","3","4","5","6","7","8","R","E"}; do
+    for term in {"A","B"}; do
+        file="data/clean/textbook_grade${grade}_term${term}.txt"
+        model="models/MyModel${grade}${term}"
+        file_model_pairs+=(["$file"]="$model")
+    done
+done
+
+for grade in {"9","R","E"}; do
+    for term in {"C","D"}; do
+        if [[ ("$grade" == "9" || "$grade" == "R") && "$term" == "D" ]]; then
+            continue
+        fi
+        file="data/clean/textbook_grade${grade}_term${term}.txt"
+        model="models/MyModel${grade}${term}"
+        file_model_pairs+=(["$file"]="$model")
+    done
+done
+
+# To print and verify the array
+for key in "${!file_model_pairs[@]}"; do
+    echo "[$key]=${file_model_pairs[$key]}"
+done
+
+# declare -A file_model_pairs=(
+#     ["data/clean/textbook_grade7_termA.txt"]="models/MyModel7A"
+#     # Add more file-model pairs here
+# )
 
 for file in "${!file_model_pairs[@]}"
 do
@@ -35,7 +50,7 @@ do
     
     sudo docker run \
         -v $PWD/weiming:/autophrase/data \
-        -v $PWD/models:/autophrase/models  -it \
+        -v $PWD/models:/autophrase/models -it \
         -e DATA_DIR=data \
         -e RAW_TRAIN="$file" \
         -e ENABLE_POS_TAGGING=1 \

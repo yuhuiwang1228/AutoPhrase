@@ -1,0 +1,126 @@
+0.9400727471	living room
+0.9320330341	play chess
+0.9234703662	read books
+0.9003461987	play sports
+0.8991727471	water bottle
+0.8683292018	draw pictures
+0.8527315161	play football
+0.8520205438	after school
+0.8122341080	mrs chen
+0.8079706548	sing songs
+0.7968069796	dining room
+0.7749373548	play with
+0.7476904211	short hair
+0.7321236435	listen and repeat
+0.7306754111	on monday
+0.7219715511	fun time
+0.7143702857	computer class
+0.6955706132	point and say
+0.6906558973	reading books
+0.6679958379	~ ~
+0.6555779808	cooking lunch
+0.6502798151	lesson 1
+0.6495072265	years old
+0.6459657430	look like
+0.6424180546	classes do
+0.6287102624	science room
+0.6099176939	watching tv
+0.6087024646	listening to music
+0.5986593300	eee eee
+0.5829176939	cooking dinner
+0.5470013435	let's check
+0.5469631789	read again and write
+0.5368706825	listen and chant
+0.5256592884	unit 3
+0.5244823764	art room
+0.4987464068	fun after school
+0.4953916449	@ listen
+0.4944947113	i'm going to
+0.4838786551	the dog
+0.4705654544	@ read
+0.4684320129	second floor
+0.4671643000	im going to
+0.4663653462	computer room
+0.4626226334	@ look
+0.4615115916	write and say
+0.4587739681	going to do
+0.4508366998	the plants
+0.4488974252	music room
+0.4482641169	doing whats
+0.4480919469	@ self assessment
+0.4406988627	read and write
+0.4378843938	an art room
+0.4377447113	want to
+0.4313472365	@ p
+0.4276784720	good to know
+0.4251207186	the first floor
+0.4230355149	unit 2
+0.4207393306	going to do after school
+0.4120070434	the third floor
+0.4115758773	the fish
+0.4053228803	in one hour
+0.4047530391	a family of
+0.3938593300	ee ee
+0.3938140919	_ _
+0.3931960405	@ let's write
+0.3877976278	\ story time
+0.3854875990	going to
+0.3842672610	father now
+0.3842672610	mother now
+0.3824627072	@ let's play
+0.3805159179	@ let's make
+0.3734470284	_ _ _
+0.3694109478	ee ee ee ee ee
+0.3683450387	listen and match
+0.3580987101	the second floor
+0.3561817548	@ read and write
+0.3540567548	@ listen and circle
+0.3533015961	let's check @ listen and
+0.3509016016	like pe
+0.3428098212	want to play with
+0.3410643694	the closet
+0.3370783665	and match
+0.3317661399	listen and
+0.3250280058	@ let's
+0.3232281834	@ let's sing
+0.3177228526	ee ee ee ee ee ee
+0.3127417504	and say
+0.3112734575	@ listen and match
+0.3076894776	a kite
+0.2937792656	a computer room
+0.2900921472	doing shes
+0.2833473059	the children
+0.2731506942	the music room
+0.2680077427	ee ee ee
+0.2425830202	the room
+0.2224966954	to play with
+0.2224354011	the bathroom
+0.2049725945	to do
+0.1996751891	going to play chess
+0.1838588138	let's make
+0.1837802424	let's play
+0.1775782583	the study
+0.1746921472	to get
+0.1656395137	a big
+0.1571478470	| |
+0.1547344660	@ read and
+0.1386728470	a library
+0.1237854761	chinese |
+0.1186364834	the bedroom
+0.1014748312	shes in
+0.0956920390	and science
+0.0859746175	_ |
+0.0850228470	and write
+0.0813245786	| science
+0.0790243650	pe and
+0.0749839581	| _
+0.0748440231	p @
+0.0747654877	the music
+0.0746696724	a bike
+0.0695291241	| pe
+0.0681488211	the library
+0.0548793766	going to play
+0.0414904877	hes in
+0.0359276089	a music
+0.0350109423	and tick
+0.0299654877	a family

@@ -1,0 +1,278 @@
+0.8637524506	at least
+0.8598792633	music club
+0.8598792633	sports club
+0.8593328332	every day
+0.8515208444	fill in
+0.8251515853	study english
+0.8210910906	such as
+0.8139921541	a map of
+0.7982648459	a lot of
+0.7865225954	music room
+0.7837755032	go to school
+0.7784618692	next to
+0.7784150758	look like
+0.7777729935	in china
+0.7770957347	on weekends
+0.7622393971	stay at home
+0.7604669628	talk about
+0.7598160914	look for
+0.7576208762	so many
+0.7530570429	by plane
+0.7479356334	photo club
+0.7461320614	after school
+0.7398467531	primary school
+0.7298084537	ted showed
+0.7294249216	@ act out
+0.7245475254	art gallery
+0.7198585920	one of
+0.7196121544	@ listen and
+0.7126800928	the usa
+0.7119966189	@ read and
+0.6895996223	looking for
+0.6885896809	at home
+0.6853821616	a lot
+0.6748702868	going to
+0.6732390655	really like
+0.6728339576	new york
+0.6690658877	favourite season
+0.6626835439	went to
+0.6625701749	@ p
+0.6595353975	on sunday
+0.6534120834	good at
+0.6519329021	on saturday
+0.6433583734	~ ~
+0.6411851564	goes to
+0.6394723354	bills family
+0.6357691523	let's make
+0.6343246136	on tuesday
+0.6334772686	talking about
+0.6312473324	willow primary school
+0.6308689430	@ let's share
+0.6286404949	the dishes
+0.6255586500	in beijing
+0.6254549377	shouldnt eat
+0.6217361921	@ let's make
+0.6215403179	some animals
+0.6205065989	too much
+0.6199594456	want to
+0.6178232314	the weather like
+0.6177076849	go to
+0.6174057139	mother father do
+0.6150587255	this weekend
+0.6118896321	@ listen and write
+0.6096234372	@ listen and match
+0.6062557095	many beautiful
+0.6053889245	the three mice
+0.6033772162	bill and ted
+0.5975652608	@ let's read and talk
+0.5924352316	or play
+0.5909138480	this season
+0.5891099786	@ let's read
+0.5855682940	likes playing
+0.5850962272	of china
+0.5823064031	magic tree
+0.5798337913	for breakfast
+0.5732850493	very beautiful
+0.5711824732	on friday
+0.5701843776	cocky locky
+0.5677540044	@ listen and number
+0.5630622498	let's read
+0.5624965623	going there
+0.5622618445	write about
+0.5621719508	does ted
+0.5621017139	on wednesday
+0.5615089838	teds family
+0.5607543442	in summer
+0.5601773646	the following
+0.5591218583	in canada
+0.5530511091	does teds
+0.5523993067	the little
+0.5501826031	project time
+0.5490018025	let's talk
+0.5479271645	do for fun
+0.5479127786	@ let's talk
+0.5474548887	did ted buy for
+0.5439084164	sister tina
+0.5436192617	sentence on
+0.5432383587	chinese farmer
+0.5352295812	let's write
+0.5331380275	public library
+0.5322367485	some people
+0.5313568832	the road
+0.5273702077	the sentences in order
+0.5256783499	the magic
+0.5242571358	a picture
+0.5210715224	take with
+0.5204291122	famous for
+0.5191605368	does bill
+0.5158752814	a mammal
+0.5153660544	the sky
+0.5147360905	pulled and pulled and pulled
+0.5141180732	born on
+0.5137458259	welcome party
+0.5117860955	wanted to
+0.5061615557	willow primary
+0.5031418640	let's read and talk
+0.5006911909	the story
+0.4984904429	lion and
+0.4979224432	the magic tree
+0.4976773803	showing bill
+0.4962557207	the farmers wife put
+0.4961401119	and talk
+0.4952820604	in toronto
+0.4945574843	the mother mouse
+0.4941272007	tina linda sherry
+0.4915493395	listen and match
+0.4913152774	from beijing
+0.4904514740	summer vacation
+0.4901250422	hours by
+0.4899940974	and baobao
+0.4891488838	answers in
+0.4884983668	do on weekends
+0.4880072949	little mice
+0.4879791616	weather like
+0.4868201857	going to stay
+0.4841308147	did jack
+0.4836166706	volunteers club
+0.4810193041	does tina
+0.4802224285	going to canada
+0.4756496377	the chart
+0.4720024377	a postcard
+0.4711717480	the sea
+0.4702431191	the tree
+0.4683401091	the snail
+0.4634494317	going to stay there
+0.4622505335	free time
+0.4601957111	the questions
+0.4563082920	a week
+0.4522151877	going to do there
+0.4496502455	time let's read
+0.4493697084	get enough
+0.4464854182	the farmers wife
+0.4456095798	unit 5
+0.4448786455	the australian put
+0.4377961089	some of
+0.4358134451	the turnip
+0.4351574533	lot of water
+0.4341981930	eat more
+0.4332842567	the egyptian
+0.4295697327	good to
+0.4284795745	top of
+0.4284430081	the australian
+0.4276976120	animals spend winter safely
+0.4273885441	the lion
+0.4266520158	shopping centre
+0.4251619155	shopping mall
+0.4224906939	the blanks
+0.4185844038	the farmer
+0.4172074897	enough sleep
+0.4152549256	the wolf
+0.4152321889	a big
+0.4092194014	the autumn
+0.4081739336	the children
+0.4076974628	to keep
+0.4048514790	| | |
+0.4020753992	mid autumn festival
+0.4018619835	fruit and vegetables
+0.3993045325	lake ontario
+0.3990537679	the lion and
+0.3984343182	to fly
+0.3937512508	pulled and pulled
+0.3927162575	the winter
+0.3922845358	miss jackson
+0.3909476938	arms around
+0.3862565168	see on
+0.3860371134	eat too much
+0.3829908059	the door
+0.3772532031	like to
+0.3730428691	lucky ducky
+0.3730428691	washington d.c
+0.3669081485	turnip soup
+0.3669081485	magic fruit
+0.3638762024	goosey loosey
+0.3638762024	mr fox
+0.3632429129	ted ted
+0.3583023431	hot pot
+0.3504195324	roast turkey
+0.3476494097	im going
+0.3475418590	henny penny
+0.3433976418	back home
+0.3430762858	going to take
+0.3398539552	unit 1
+0.3398539552	unit 2
+0.3331678576	the airport
+0.3209429621	to stay at home
+0.3165274846	the cat
+0.3129438490	the park
+0.3123392112	a famous
+0.3004835828	going on
+0.2955626516	a special
+0.2955626516	a star
+0.2929002700	to canada
+0.2912340561	@ let's
+0.2856063853	things to
+0.2814283004	pulled and pulled and
+0.2771602033	do in
+0.2715497892	going \
+0.2622822204	in spring
+0.2609318729	there in
+0.2512615563	the cinema
+0.2496645345	| |
+0.2220248718	stay at
+0.2121511721	food in
+0.2107348798	\ \
+0.2084498335	ted and
+0.2074044706	with ted
+0.2058575647	did bill
+0.1993123045	to stay
+0.1966057171	mum and
+0.1776069153	holiday in
+0.1689644401	to do there
+0.1685954398	the house
+0.1678468251	did ted
+0.1575997053	the school
+0.1428851933	\ _
+0.1424159579	often do
+0.1404938545	and match
+0.1393560366	in canada in
+0.1330351431	_ _
+0.1288269495	the summer
+0.1288269495	the art
+0.1287353015	mother do
+0.1257526052	the weather like in
+0.1243026745	to go to
+0.1167270704	| _
+0.1158486539	bill going
+0.1113849133	going to do
+0.1076445881	to take
+0.1069512837	to make
+0.1055673925	| | | |
+0.1020291668	a day
+0.1020140153	and put
+0.1005798367	to see
+0.0995858369	does bill do
+0.0993022014	jack and
+0.0965429452	friend from
+0.0927388112	| 2
+0.0904786358	the three
+0.0892967925	canada in
+0.0887753495	to go
+0.0867569633	tina and
+0.0867088498	the sports
+0.0842081124	do there
+0.0836625071	a ee
+0.0768863388	the mother
+0.0767276043	and write
+0.0745594763	for food
+0.0739327116	do on
+0.0651309679	to do
+0.0628185357	meat and
+0.0593492985	the top
+0.0581269553	father do
+0.0579799137	_ |
+0.0548457920	| @
+0.0536981396	do for
+0.0508502566	to eat
+0.0505244443	~ \
+0.0487278266	bill and
+0.0469681138	and tina

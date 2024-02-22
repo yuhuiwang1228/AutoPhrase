@@ -1,0 +1,319 @@
+0.8908167153	look at
+0.8782059457	fill in
+0.8758381444	all over
+0.8662830030	very much
+0.8421979812	every day
+0.8316423093	one day
+0.8169318792	according to
+0.8141514238	ive got
+0.8074417821	people use
+0.8048291220	go to bed early
+0.8000904811	computer games
+0.7986263312	doesnt like
+0.7933184664	sports day
+0.7932001801	@ look
+0.7906613022	do chores
+0.7849460068	national day
+0.7798411066	play football
+0.7797898712	out of
+0.7757254720	in class
+0.7754364476	went to
+0.7730015213	watch tv
+0.7684457084	hear from
+0.7666037748	go to bed
+0.7614129000	a lot of
+0.7434399579	go there
+0.7374098203	let's read
+0.7365964675	a little
+0.7322495986	@ choose
+0.7321519983	took photos
+0.7310617309	go to school
+0.7300251591	play music
+0.7256036494	saw flowers
+0.7132436391	last summer
+0.7094170160	all day
+0.7070117474	@ put
+0.7056585227	some gifts
+0.7035821814	watch too much
+0.7017201254	@ good to know
+0.6913875857	@ let's make
+0.6898091617	going to
+0.6858981665	those days
+0.6855510602	too much
+0.6830298243	second sunday
+0.6817634530	@ let's
+0.6811833296	like to do
+0.6805782094	want to
+0.6778281239	marys mother
+0.6768528873	one year old
+0.6767271349	played football
+0.6689623728	learn to
+0.6685759448	played chess
+0.6656975190	the best
+0.6628132814	going to make
+0.6609317883	jan ist
+0.6607072457	let's play
+0.6588604725	saw many
+0.6536651607	a lot
+0.6483148089	@ let's read
+0.6464107840	that day
+0.6460059837	twenty fifth
+0.6448500269	wish for
+0.6445076354	a hill
+0.6406139878	@ p
+0.6403306042	fun time
+0.6334156132	at home
+0.6317326087	before eating
+0.6307461663	terry fox
+0.6294555853	a poster
+0.6261225806	very happy
+0.6243523891	@ act out
+0.6231365731	like to
+0.6173028033	many people
+0.6152867606	flower show
+0.6148542313	the passage
+0.6147931106	went to kindergarten
+0.6137417012	do last weekend on saturday and
+0.6114785229	a video call
+0.6081376203	a boat
+0.6032316977	do there
+0.6013586121	\ \
+0.6009320339	like to do on
+0.5991118851	go to
+0.5987907198	in may
+0.5953887639	the pictures
+0.5951660256	went there
+0.5916975268	the same
+0.5905537670	tree planting
+0.5891421657	shouldnt eat too much
+0.5865378602	the story
+0.5846043534	let's talk
+0.5836484622	think and write
+0.5835729411	@ let's talk
+0.5785985130	going to celebrate
+0.5756951822	@ listen
+0.5755294196	let's write
+0.5745113822	write about
+0.5717491770	im going to
+0.5699213878	shouldnt eat too much candy
+0.5690971017	new years day
+0.5683208794	4 1
+0.5666272259	@ pep.com.cn
+0.5655189544	a computer
+0.5652549234	a new
+0.5638992983	last weekend
+0.5623288427	too much candy
+0.5617546598	do on new years day
+0.5573282982	some flowers
+0.5563550357	@ let's play
+0.5531679729	good to know
+0.5476822276	a present
+0.5457693988	going to do
+0.5455577399	last sunday
+0.5378251145	felt very happy
+0.5350102645	childrens day
+0.5337095859	a phone call
+0.5298320602	the second
+0.5290049641	@ let's write
+0.5283173770	teachers day
+0.5265406188	growing up
+0.5249324890	write and say
+0.5246486658	a day for
+0.5237132355	on saturday
+0.5212671651	fathers day
+0.5204784755	learned to
+0.5200147399	felt happy
+0.5164850257	@ read and write
+0.5147123064	an email
+0.5140302621	months old
+0.5140184872	very cold
+0.5120705133	the piano
+0.5120705133	the window
+0.5107498040	the words
+0.5083811118	summer vacation
+0.5054878340	april 12th
+0.5050610285	the third
+0.5044229943	whats wrong
+0.5037176203	visited grandparents
+0.5033712665	delicious food
+0.5015217051	start to
+0.5010690930	and say
+0.4992244783	in canada
+0.4990663334	the town
+0.4969093632	now listen
+0.4964945169	johns family
+0.4917272480	mothers day
+0.4906637389	started to use
+0.4902673158	a football match with
+0.4871382541	little man
+0.4868264114	on sunday
+0.4864590343	going to play
+0.4849539051	a great trip
+0.4847802961	do last weekend
+0.4843179061	christmas day
+0.4839136966	special days
+0.4832580176	ate ice cream
+0.4816966545	years old
+0.4800484530	to do
+0.4791389487	do last
+0.4767726667	@ think and write
+0.4753515286	went to school
+0.4745253676	played basketball
+0.4689736354	the sentences in order
+0.4689705539	the sea
+0.4689705539	the blanks
+0.4680787757	now listen and number
+0.4632081530	ugly duckling
+0.4619049705	saturday afternoon
+0.4585726625	a long
+0.4565703914	circle and
+0.4522669101	learned to swim
+0.4513572880	special day
+0.4505428424	the cow
+0.4486466253	gp 1
+0.4483274803	the questions
+0.4473715513	xin yuan park
+0.4443895024	interesting things
+0.4422632897	@ let's sing
+0.4410798739	checkpoint structures vocabulary
+0.4403594293	things to do
+0.4392019986	fruit and vegetables
+0.4388771968	eat too much candy
+0.4364174414	| |
+0.4339538589	last summer vacation
+0.4231253486	a special trip
+0.4213526012	drank cold drinks
+0.4212097213	this weekend
+0.4209596465	li jun
+0.4201785413	a headache
+0.4176447728	third sunday in june
+0.4152010257	unit 5
+0.4151776357	@ listen and tick
+0.4136554000	mr bear
+0.4135407054	a letter
+0.4135022247	mrs brown wishes for
+0.4101853832	get ready
+0.4092269389	a big
+0.4084249452	a hill and
+0.4081182555	shouldnt do
+0.4079115836	learned to walk
+0.4059155317	word book
+0.4044349163	a short message
+0.4030567244	mr pigeon
+0.4004936039	the second sunday
+0.3981170900	the stone forest
+0.3978286941	mrs brown
+0.3974660708	@ listen and match
+0.3954742900	let's check
+0.3926442353	the dog
+0.3913037917	french fries
+0.3869726729	the manager
+0.3866039160	eat with dirty hands
+0.3852330787	to send messages
+0.3846211668	let's sing
+0.3834899770	tree planting day
+0.3818741983	great day
+0.3813393434	april 11th
+0.3810035844	a wonderful
+0.3810017996	a football match
+0.3795462808	play music in
+0.3768960089	ice cream
+0.3762703501	listen and number
+0.3741419827	money for cancer research
+0.3738376060	a stomachache
+0.3736903564	to hear from
+0.3724915072	started to speak
+0.3724005340	the robbers
+0.3720213607	jumped rope
+0.3705735844	felt very
+0.3692573110	buy things
+0.3686976003	listen and
+0.3681943146	started to study english
+0.3675213607	washed clothes
+0.3669399059	a great
+0.3640334810	the park
+0.3616890107	\ _
+0.3597826534	born on
+0.3594256897	~ ~ \
+0.3564710106	april 5th
+0.3554565699	love to
+0.3525965491	wanted to
+0.3525526970	listened to music
+0.3516524745	the letter
+0.3489912470	listen and repeat
+0.3484738244	team won
+0.3470728647	@ listen and number
+0.3446957150	a survey
+0.3438703068	@ read and
+0.3437593043	the ugly duckling
+0.3421468653	circle and repeat
+0.3412826869	stayed at home
+0.3400243218	~ ~
+0.3383361497	the cat
+0.3381472256	the manager asked
+0.3380391186	meat and
+0.3360311890	started to buy things
+0.3335630513	the beach
+0.3331455116	watched tv
+0.3308923984	| \
+0.3304949391	hands before eating
+0.3278508763	to walk
+0.3275635319	point and repeat
+0.3260981129	friends and
+0.3258425991	do in
+0.3228765299	ee ee
+0.3207331007	a letter to
+0.3165364298	played computer games
+0.3141575073	to play music in
+0.3103258630	to do on
+0.3103229432	a card
+0.3087991028	the animals
+0.3083845572	a dog
+0.3067338185	like to go
+0.2971930301	the activities
+0.2957783959	the mountain
+0.2902268188	read and write
+0.2838719748	and watched
+0.2779934949	basketball with
+0.2757396696	and ate
+0.2652622642	the lake
+0.2646180335	the elephant
+0.2586022384	shouldnt eat
+0.2531186525	_ _ _
+0.2431983163	and drank
+0.2370644852	_ _
+0.2342969926	the little
+0.2337921350	a special
+0.2322063374	the three
+0.2259785375	@ read
+0.2256656989	the people
+0.2205224667	played on
+0.2045213264	wants to
+0.1918105274	the first
+0.1836400507	and answer
+0.1723609120	\ |
+0.1632244832	to know
+0.1573441655	to hear
+0.1467591779	to beijing
+0.1418167361	the evening
+0.1366445921	day for
+0.1364480668	a party
+0.1220008675	to get
+0.1194030535	to speak
+0.1150484101	started to
+0.0971765049	_ @
+0.0913940118	more and
+0.0898882925	to see
+0.0893522189	to buy
+0.0893522189	to fly
+0.0881771814	a day
+0.0833565376	and rowed
+0.0797286767	eat with
+0.0743173278	to go
+0.0728519382	do on
+0.0710348603	to make
+0.0699994411	and match
+0.0675937217	to eat
+0.0657376042	now |
+0.0647826106	and write
+0.0603209026	read and

@@ -1,0 +1,212 @@
+0.9064160980	every day
+0.8835623135	every week
+0.8688500344	three times
+0.8674881367	get to
+0.8668407995	go boating
+0.8612427672	a lot of
+0.8410592869	t shirt
+0.8241327597	take photos
+0.8217013056	next to
+0.8164152372	turn right
+0.7971745799	the sentences in order
+0.7938697882	go straight
+0.7789538069	go skating
+0.7700094482	look at
+0.7591142715	front of
+0.7584160534	across from
+0.7458128964	@ read again and write
+0.7225723592	the usa
+0.7199528722	so many
+0.7182883424	turn left
+0.7119311332	good to know
+0.7083215861	then listen and check
+0.7015296031	the uk
+0.6968542495	@ self assessment
+0.6806357736	go there
+0.6769226692	doing jigsaw puzzles
+0.6676868991	@ put
+0.6675337624	@ look
+0.6661231983	@ listen
+0.6613675467	want to
+0.6589003063	good at
+0.6482348980	@ p
+0.6451102313	@ let's read
+0.6448867469	fill in
+0.6396422813	the second crossroads
+0.6312042877	go to
+0.6300699472	often do
+0.6296094373	and help
+0.6275766656	@ let's sing
+0.6254991285	please help
+0.6237091348	@ read aloud
+0.6217558367	making models
+0.6095064236	a word book
+0.6089398640	going to
+0.6065323879	point and repeat
+0.6047390725	want to do
+0.6044389947	also like
+0.5972688699	@ let's write
+0.5967156554	and fill in
+0.5955799306	maple leaves
+0.5941644829	west lake
+0.5940716262	post office
+0.5888561785	mickey mouse
+0.5790864655	people there
+0.5779352347	the housework
+0.5744674493	a week
+0.5737478270	@ x
+0.5694456521	ping pong
+0.5673293735	want to go with
+0.5670313001	and match
+0.5669300325	want to see
+0.5653611505	both like
+0.5615463619	in front
+0.5583623923	@ let's make
+0.5573765059	like doing
+0.5531444224	fun time
+0.5479908133	ji eun wears
+0.5397599563	@ listen and write
+0.5368251030	and then
+0.5353400563	get there
+0.5339167484	like to
+0.5298087941	goes to
+0.5294773507	wants to see
+0.5289140328	reading books
+0.5260979108	want to go
+0.5244791400	@ read
+0.5243451733	the mogao caves
+0.5228077452	min jun and ji eun
+0.5191738726	a big
+0.5127219010	the blanks
+0.5102333643	@ let's
+0.5101396872	| |
+0.5024689971	wants to
+0.5013423677	to do there
+0.5012844565	@ listen and match
+0.4983675506	t like
+0.4973893352	listen and repeat
+0.4961355592	goes skating
+0.4906601652	\ \
+0.4896850799	wants to with
+0.4773794575	first crossroads
+0.4769466915	ji eun
+0.4769466915	min jun
+0.4722191828	to do
+0.4706128742	want to do there
+0.4675215922	jun and ji eun go to
+0.4664074917	go with
+0.4624601946	model of big ben
+0.4573646399	| | | |
+0.4526650904	and repeat
+0.4508433918	| | |
+0.4478103067	to go
+0.4475677515	@ good to know
+0.4467961917	free time
+0.4466293417	want to go to
+0.4429216385	a day
+0.4427313265	a bus
+0.4403409838	wants to take
+0.4402979728	country mouse
+0.4385719663	famous for
+0.4372064510	go to australia
+0.4366459854	the violin
+0.4363571035	@ read and fill in
+0.4311949262	go straight and turn left
+0.4287760533	the great wall
+0.4269210540	a maple
+0.4267517212	the city of
+0.4205066631	do in
+0.4175823433	the shark
+0.4143047317	to see
+0.4111250540	and dancing
+0.4104926923	collecting erasers
+0.4072812819	@ read and write
+0.3852598546	| \
+0.3844757808	= |
+0.3815801787	| name
+0.3722752264	summer vacation
+0.3688817207	angel sees
+0.3657256220	the cinema
+0.3633277779	like singing
+0.3610826145	and take photos
+0.3603180857	and take
+0.3498046363	the route
+0.3481820981	big ben
+0.3479152404	like playing
+0.3466673048	do there
+0.3461743164	@ listen and
+0.3442644941	go straight and
+0.3432831164	and turn
+0.3390934118	i like
+0.3381737659	favourite room
+0.3327962326	a boat and
+0.3303299325	left at
+0.3185093803	@ read and
+0.3160413116	city mouse
+0.3152603192	want to buy
+0.3151796415	from canada
+0.3147348770	sports centre
+0.3130849800	on king street
+0.3130129186	great wall
+0.3069811634	a boat
+0.3061961861	from australia
+0.3061961861	from china
+0.3057438144	want to visit
+0.3041686288	eat seafood
+0.3026233348	straight and
+0.2997429810	want to row
+0.2904870914	a t
+0.2898972182	and write
+0.2888723286	country mouse wants to
+0.2887606148	like collecting
+0.2722048925	iam from
+0.2711528964	the first crossroads
+0.2690037766	the toy shop
+0.2678440938	the museum
+0.2631014010	likes to
+0.2622777008	\ _
+0.2559548925	listen and
+0.2436193103	collecting stickers
+0.2409870288	the world
+0.2384702356	to visit
+0.2379174449	the bank
+0.2279845000	turn left at
+0.2233336576	toy shop
+0.2197675631	to dance
+0.2186355553	the post office
+0.2133997636	unit 3
+0.2129649213	the supermarket
+0.2114395477	a toy
+0.2109030781	unit 5
+0.2105612544	the hospital
+0.2103716546	the sports centre
+0.2082780056	the hotel
+0.2071515364	subway station
+0.2045184331	visit big ben
+0.2023996251	the restaurant
+0.2008036126	listen and match
+0.1979778445	_ |
+0.1977379452	dance club
+0.1893390792	| interesting
+0.1876557388	the grocery
+0.1868894460	| _
+0.1862443409	a bank
+0.1849325254	to buy
+0.1830232609	| country
+0.1810820534	unit 4
+0.1769518562	and eat
+0.1767409251	to school
+0.1752224038	likes reading
+0.1695844668	to sanya
+0.1676671768	lucky likes
+0.1656671768	~ ~
+0.1576627948	mother likes
+0.1573841129	king street
+0.1544225609	the city
+0.1523699565	father likes
+0.1522950265	interesting interesting
+0.1515027638	the subway
+0.1431666651	_ _
+0.1293331416	the sea
+0.1276785025	the sports
+0.1267063354	ee ee

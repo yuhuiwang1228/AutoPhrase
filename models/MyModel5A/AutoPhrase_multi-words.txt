@@ -1,0 +1,230 @@
+0.8592545494	every day
+0.8410551002	look at
+0.8144996604	wear glasses
+0.8093694142	fill in
+0.8093188584	a pair of
+0.7982676304	pencil box
+0.7815476205	wash clothes
+0.7803650780	talk about
+0.7724760013	let's check @ listen and
+0.7647102594	play with
+0.7646301534	at home
+0.7501219124	but keep
+0.7499123899	exercise book
+0.7486745368	an elephant
+0.7470484414	play football
+0.7390129064	make new friends
+0.7250179332	blows once
+0.7178140485	in class
+0.7169803937	black and white
+0.7163604862	a lot
+0.7124801734	talking about
+0.7075252883	very much
+0.7063425312	wu peng
+0.7029498790	watch tv
+0.6973994436	@ read
+0.6963434455	look like
+0.6811047729	write about
+0.6802207942	a pair of scissors
+0.6739870573	model planes
+0.6700990919	point and repeat
+0.6651922725	news shows
+0.6642354109	the old
+0.6638803288	miss kitty
+0.6628987428	wants to buy
+0.6552050170	so early
+0.6479395077	now read
+0.6438299552	read and write
+0.6424642814	these things all cost
+0.6424144390	every evening
+0.6405276763	big eyes
+0.6397809349	house down
+0.6346570966	@ good to know
+0.6341676553	on at
+0.6311489290	box of crayons
+0.6289572673	hard working
+0.6263834591	according to part b
+0.6238939271	wears glasses
+0.6229979275	do chores
+0.6204074371	all like
+0.6198315589	dont want
+0.6181273766	very nice
+0.6172345685	small fish
+0.6151251650	the chart
+0.6142512191	helps toms
+0.6111003626	curly hair
+0.6088923836	good at
+0.5946553766	new friend
+0.5921962573	good to know
+0.5911368124	short hair
+0.5895487029	favourite tv
+0.5889031645	write and say
+0.5886809392	gp 1
+0.5876386800	~ ~
+0.5865971404	now listen and answer
+0.5857013242	a little
+0.5842060803	mr zhao
+0.5782230671	not very
+0.5772716286	let's play
+0.5758746542	@ let's talk
+0.5754741725	present for
+0.5750586273	go to
+0.5735692653	lesson 3
+0.5730104717	fun time
+0.5728011085	choose and write
+0.5726335718	long curly hair
+0.5706759185	a blue bag
+0.5702987172	teaches english
+0.5688365463	let's write
+0.5674168278	colour and repeat
+0.5652439838	@ let's read
+0.5628644005	the ice
+0.5612337093	part a
+0.5608895344	like to
+0.5593348867	birthday party
+0.5592689766	small eyes
+0.5566892164	let's read
+0.5558399589	checkpoint structures
+0.5444558949	very big
+0.5429435508	and write
+0.5417364870	lives on
+0.5378324913	@ look
+0.5338812028	the blanks
+0.5338812028	the sentences
+0.5306493782	really like
+0.5297536097	word book
+0.5268101671	favourite animal
+0.5255881957	house with
+0.5244635132	the big bad wolf
+0.5211534866	let's talk
+0.5206911628	wants to
+0.5200137894	@ let's
+0.5187627295	the pictures
+0.5158044756	@ listen
+0.5154195449	mr white
+0.5150119207	a big
+0.5144040752	@ p
+0.5093181882	usually do
+0.5089767938	@ let's write
+0.5070821670	ali ba ba
+0.5067650903	want to buy
+0.5043980026	childrens shows
+0.5004779871	some little
+0.5004083743	sports shows
+0.4964213673	to make
+0.4956900440	20 yuan
+0.4953945466	@ retell
+0.4948040097	come to
+0.4937260666	tv shows
+0.4936708984	nature shows
+0.4909687203	listen and answer
+0.4897155071	the house
+0.4891075896	gp let's check
+0.4882897350	the story
+0.4860511986	going to
+0.4835991973	a word book
+0.4832550059	the big bad wolf comes
+0.4819698531	listen and match
+0.4791768198	toy dog
+0.4756877350	some people
+0.4755566611	music shows
+0.4750055618	favourite teacher
+0.4740109336	to see
+0.4740055827	_ _
+0.4739094015	= =
+0.4738558643	like doing chores
+0.4734044159	for joy
+0.4689195861	listen and repeat
+0.4688869819	now read and
+0.4677250812	| |
+0.4676456400	the picture
+0.4638898927	on tuesday
+0.4610211734	very well
+0.4587691922	@ think and
+0.4580205109	to help
+0.4573636764	a new friend
+0.4564852253	eee eee eee eee eee
+0.4562727196	favourite tv shows
+0.4557620714	@ let's make
+0.4550128941	point and
+0.4529207476	the students
+0.4525649115	new friends
+0.4522832591	the rubbish
+0.4504503852	goes to
+0.4475096265	the chores
+0.4472096265	a great
+0.4458242129	let's make
+0.4446499608	to buy
+0.4438818717	like whats
+0.4413843828	mrs tiger
+0.4412394200	lets do
+0.4405038922	4 1
+0.4391149150	mrs wu
+0.4389414482	@ let's sing
+0.4384748475	@ read and fill in
+0.4380254851	does joy
+0.4309816989	read and fill in
+0.4299540151	a blue
+0.4294756849	very tall
+0.4292529725	day for chores
+0.4289088023	@ think
+0.4278516033	the questions
+0.4266422791	the dialogue
+0.4236909675	@ listen and match
+0.4207731285	and say
+0.4193889220	a little farm
+0.4193189623	the fish
+0.4189672938	and guess
+0.4181351513	oe oe
+0.4181043427	chores does
+0.4176041098	and white
+0.4169850484	want to
+0.4124398097	the wolf
+0.4090516310	the lazy pig
+0.4031977072	think and
+0.4024261285	@ listen and
+0.4014379515	gp let's check @ listen
+0.4007578999	to eat
+0.3998069459	of ali ba ba
+0.3994849306	the floor
+0.3986087671	on sunday
+0.3985676578	want to see
+0.3939116379	the careless pig
+0.3898366356	the plants
+0.3897323601	and fill in
+0.3896620690	chores do
+0.3892353331	the clothes
+0.3884115674	4 @
+0.3867807555	the hard working pig
+0.3864039703	to play
+0.3846852840	like watching
+0.3795429385	and helpful
+0.3771086917	the bed
+0.3720269001	the way
+0.3698545789	animals do
+0.3650054715	usually watch
+0.3649221785	a toy
+0.3645717770	big and
+0.3629974898	a new
+0.3616342247	do at home
+0.3604791178	these shows
+0.3581567089	the puppy
+0.3567331066	eee eee eee ee
+0.3557105318	the floor and
+0.3542867348	a pencil
+0.3542379969	eee eee
+0.3536791330	do chores at home
+0.3533086401	usually do at home
+0.3469561724	little pigs
+0.3400968165	and talk
+0.3298634984	listen and write
+0.3231566712	eee eee ee
+0.3220012187	pig builds
+0.3214347788	bag there
+0.3097846882	ee ee
+0.3087388684	the desk
+0.3085611917	tall and
+0.3036886977	tv show
+0.3017055811	~ good
+0.2732307726	the dog
+0.2647351264	listen and

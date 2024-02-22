@@ -1,481 +1,481 @@
-0.9475646215	present tense
-0.9349673993	target language
-0.9079324953	telephone number
-0.8857830891	ice cream
-0.8771479548	language goal
-0.8742473943	tennis ball
-0.8731479548	language goals
-0.8680782384	soccer ball
-0.8571264347	tape player
-0.8558739621	ping pong
-0.8481198884	units topics functions structures
-0.8479677045	role play
-0.8374450133	baseball bat
-0.8355999389	target language vocabulary recycling
-0.8355999389	lin hai
-0.8348587940	telephone numbers
-0.8312110501	jiang tao
-0.8284909368	pencil box
-0.8239499389	huaxing clothes store
-0.8237315213	watch tv
-0.8231981685	phone number
-0.8162203907	model plane
-0.8137832723	cools clothes store
-0.8099417138	units topics functions
-0.8086153236	uncountable nouns
-0.8064504607	2b read
-0.8018195083	ts dz
-0.7978110501	vocabulary index
-0.7916080003	school trip
-0.7841973748	favorite subject
-0.7795695083	nc sb
-0.7659589216	t shirt
-0.7615740537	watch wotf
-0.7514073871	brown braun
-0.7401275530	class lesson
-0.7365052226	4c practice
-0.7216432096	starter unit 3
-0.7083897464	starter unit 1
-0.7078417305	hiz pron
-0.7005602731	pong ball
-0.6940219780	frank thanks jacket map
-0.6932929376	eee eee eee eee eee
-0.6901330364	281 9176
-0.6892815213	lets play
-0.6886126901	two ping pong bats
-0.6874551504	2d role play
-0.6862775336	starter unit 2
-0.6850529498	play basketball
-0.6843053114	listen and read
-0.6842124903	middle school
-0.6815497558	2a and 2b
-0.6799719780	nice to meet
-0.6781535437	eee eee eee eee
-0.6649600733	play computer games
-0.6646668387	yellow socks
-0.6606791403	ping pong bat
-0.6587497558	listen and repeat
-0.6478694167	hear in la
-0.6461307276	nau adv
-0.6457251721	art festival
-0.6430505689	3a complete
-0.6419164419	listen and number
-0.6408849123	the blue pen
-0.6402061244	soccer game
-0.6384853813	listen and circle
-0.6367935148	words in column
-0.6342807276	english test
-0.6328540487	1b conversation 1
-0.6296875819	ping pong ball
-0.6268274809	the conversations 1 3
-0.6216577117	telephone phone number
-0.6161521562	basketball game
-0.6160034188	big letter or small letter for
-0.6146100205	the conversation and practice
-0.6145637529	pronunciation of letters
-0.6085899628	lunch dinner
-0.6024827117	small letter
-0.5988373127	well wel
-0.5966410451	4b listen and number
-0.5963251721	book sale
-0.5961816489	e mail
-0.5942614996	clothes store
-0.5920900738	each unit
-0.5883508741	conversation 1 girl
-0.5858036713	own conversations
-0.5855821900	talk about
-0.5853221057	big letter
-0.5852274281	greet people
-0.5845674520	no questions and short answers
-0.5843169664	make conversations
-0.5813673438	fa match
-0.5810481158	an art lesson for two hours
-0.5805672355	_ _ _
-0.5692645660	great sale
-0.5688814491	id card
-0.5672147824	look and copy
-0.5659705905	listen again
-0.5659004079	good afternoon
-0.5652648768	p s3
-0.5645211316	ask and answer questions
-0.5614854895	listen and check
-0.5610383034	good morning
-0.5584372572	words and expressions in
-0.5561049700	on january 17th
-0.5545799700	come and buy
-0.5515180653	the questions and answers
-0.5514387918	seven dollars
-0.5476100205	on may 2nd
-0.5464372933	english books
-0.5451582168	ccc cece
-0.5439115190	computer game
-0.5433470169	then close
-0.5433470169	then greet
-0.5428360140	two pairs
-0.5391817571	nine dollars
-0.5389048119	section b
-0.5360453186	2a and 2b conversation 1
-0.5337762543	conversations using
-0.5262701215	grandparents room
-0.5211610667	notes on
-0.5200279498	birthday party
-0.5156909202	listen to
-0.5152959152	~ ~
-0.5152150710	telephone phone
-0.5133057470	these letters mean
-0.5125604756	unit g
-0.5123214785	section a
-0.5107005162	eight dollars
-0.4997962232	the text
-0.4980512377	maryg2 @
-0.4945031691	own conversations using
-0.4933449606	five dollars
-0.4921549700	on october sth
-0.4921309635	two dollars
-0.4917724137	a photo of
-0.4903438423	a pair of
-0.4889196359	you're welcome
-0.4886438423	00 geography |
-0.4876515068	the conversations and number
-0.4865497058	then make
-0.4857815573	for two hours
-0.4846688423	like and dont like
-0.4831442419	the missing
-0.4823481907	gina smith
-0.4818486957	want wont
-0.4817490038	the information
-0.4775957542	next week
-0.4766370768	present tense to
-0.4748601149	the pictures
-0.4726117882	_ _
-0.4693601149	the blanks
-0.4666601149	the notices
-0.4664573149	conversation 3
-0.4657307470	ask for and give
-0.4650067571	ask and answer questions about
-0.4636601149	the passage
-0.4635034743	a good day
-0.4620726301	good evening
-0.4605035298	listen and
-0.4587574231	2b listen and number
-0.4584756771	play soccer
-0.4581470890	4b listen and
-0.4576726301	first f3
-0.4523260961	k e y
-0.4459833084	aset of
-0.4225157731	ee eee eee
-0.4220716922	clothes at
-0.4160735320	that sounds
-0.4150037463	jenny green
-0.4102630869	black trousers
-0.4090193640	6 middle school
-0.4088450161	dale grace
-0.4075354201	the conversations above
-0.4068693112	2e talk about
-0.4061586303	ee ee ee ee
-0.4060179765	each pair
-0.4048722333	a good time
-0.4046305667	like bananas
-0.4014788545	fill in
-0.3974297536	3b write
-0.3973721972	ps last
-0.3967805472	grace frank thanks
-0.3950388084	a soccer ball
-0.3941109946	unit 3
-0.3928443501	a ping
-0.3922472333	these socks
-0.3917179765	six dollars
-0.3902380869	green pen
-0.3875178488	conversation 3 girl
-0.3835361222	the conversation
-0.3810227384	the teacher for
-0.3784998834	conversation 2
-0.3781263098	i'm fine
-0.3779595155	music teacher
-0.3718908647	john likes
-0.3712651987	the conversations above with
-0.3641517094	im ms
-0.3632281857	the picture
-0.3622471223	starter unit 1 good morning
-0.3612071179	3b fill in
-0.3597861389	this in english
-0.3538036908	2d write
-0.3524464202	brother alan
-0.3474365218	name list
-0.3456258769	sounds good
-0.3448573538	thats for sure
-0.3418036908	good prices
-0.3405916805	the correct
-0.3370727384	* * *
-0.3364763820	games with
-0.3346019758	names gina
-0.3316019758	friend jane
-0.3293314852	a ping pong ball
-0.3216251193	an orange
-0.3206060717	the next day
-0.3183977411	the chart
-0.3178155789	look at
-0.3170591187	name's dale
-0.3151929765	the things in
-0.3115035631	name's linda
-0.3089122794	school day
-0.3047085415	happy birthday
-0.2996061799	00 lunch
-0.2987231352	the words
-0.2972319569	the picture above
-0.2953814852	a tennis ball
-0.2939762904	ee ee
-0.2876950494	unit 1
-0.2858303696	dont want to
-0.2850317377	conversation 2 boy
-0.2836720363	come to
-0.2831945998	32 p32
-0.2826149822	pairs of
-0.2808025891	ee ee ee
-0.2771465507	p e n
-0.2757365912	lets go
-0.2753166778	unit 2
-0.2744046814	conversation 4
-0.2733851482	43 p 43 p
-0.2640486402	like vegetables
-0.2630079282	boy 2
-0.2615736402	the things
-0.2607601288	_ history
-0.2536564685	the table
-0.2526184982	a ping pong bat
-0.2497947636	the words in
-0.2482745948	boy 1
-0.2455586691	this t shirt
-0.2427675796	like oranges
-0.2394692557	eee eee
-0.2365958625	in english
-0.2359953380	unit 5
-0.2358953380	unit 9
-0.2326912088	not like oranges
-0.2316756244	three dollars
-0.2304799895	like salad
-0.2292004967	pronunciation of letters a
-0.2197302614	come on
-0.2152050977	the conversations in
-0.2141746503	the chair
-0.2113471612	then practice
-0.2112900572	sports day
-0.2111746503	the sofa
-0.2086064491	unit 6
-0.2072991453	for breakfast
-0.2052900572	english day
-0.2028130342	last name
-0.2020777167	like ice cream
-0.2004451604	& n
-0.2002711150	2a listen and
-0.1959658120	00 math
-0.1941065934	00 to 1
-0.1934129260	the people in
-0.1931610501	at school
-0.1911683761	im dale
-0.1909536713	unit 8
-0.1879713675	first name
-0.1846658120	s z
-0.1836245421	the pictures 1
-0.1759183566	eee ee
-0.1742292874	want to
-0.1715147131	the names with
-0.1710480464	the chart with
-0.1707948718	twenty second
-0.1674499223	think about
-0.1671610334	don't like
-0.1640077700	im cindy
-0.1635341575	the words with
-0.1599249389	c cece
-0.1597497586	on tv
-0.1591699967	| | | |
-0.1586832723	from 12
-0.1570737901	student b
-0.1554221612	on monday
-0.1484741453	00 chinese
-0.1484713675	for lunch
-0.1477149295	the box
-0.1475182345	student a
-0.1456781163	p sl
-0.1454995449	a baseball
-0.1450856532	32 p32 p
-0.1438213675	this in english girl
-0.1424916056	on september
-0.1417702686	the pictures in
-0.1381074786	after class
-0.1375948718	twenty first
-0.1369882867	write about
-0.1364254995	girl 1
-0.1357324786	00 pe
-0.1309107254	easy for
-0.1303087607	| |
-0.1298699439	girl 2
-0.1295852564	00 english
-0.1288217671	the letters
-0.1281422799	k e
-0.1277162116	the desk
-0.1274485154	unit 7
-0.1266662116	a jacket
-0.1266582723	on friday
-0.1265922799	a h
-0.1259157232	00 chinese |
-0.1252706654	theyre on
-0.1243769231	00 art
-0.1236985154	conversation 1
-0.1228893162	the conversation with
-0.1218412116	the numbers
-0.1208109613	the conversations and
-0.1203763292	like oranges do
-0.1143854423	and jane
-0.1138114497	the food
-0.1119860140	2b listen and
-0.1114217671	a basketball
-0.1096236597	for sure
-0.1095826285	letters a
-0.1066146076	im ok
-0.1043157232	| | | | |
-0.1039301005	the conversations
-0.1037919886	49 p
-0.1036581696	no questions
-0.1028920052	like tomatoes
-0.1007485154	_ 2
-0.0973457764	a p
-0.0965780803	letter for
-0.0946151820	unit 4
-0.0943329837	t t
-0.0942067766	next to
-0.0940337773	in english boy
-0.0908775752	hear in
-0.0900371517	my name's
-0.0897102564	00 _
-0.0893551005	in china
-0.0890371517	and eric
-0.0876842824	like likes
-0.0876336719	1 4
-0.0865439893	the bookcase
-0.0849385392	at 9
-0.0819778277	1 8
-0.0814424936	47 p
-0.0809287268	z pron
-0.0804275752	1c and
-0.0790730658	p 4
-0.0788710650	t n
-0.0784576812	1 3
-0.0784576812	p 43
-0.0782189893	a volleyball
-0.0779842824	& adj
-0.0760773227	the sentences
-0.0738392274	this term
-0.0723903263	the questions and
-0.0722490038	words in
-0.0719170052	and apples
-0.0704773227	the questions
-0.0704551005	the names
-0.0701439893	and write
-0.0700401099	think of
-0.0700274004	p e
-0.0694275752	1b and
-0.0693236597	| don't like
-0.0691884338	on october
-0.0685884338	for dinner
-0.0680170052	in august
-0.0679509324	+ +
-0.0679392274	to meet
-0.0679337607	for only
-0.0672490038	books and
-0.0670001554	for school
-0.0661392274	in order
-0.0656170052	this afternoon
-0.0651758270	43 p
-0.0645884338	the hat
-0.0644287268	# 4
-0.0642503386	and answer
-0.0642217671	on january
-0.0627884338	the subjects
-0.0625662116	the schoolbag
-0.0621800644	_ |
-0.0612662116	the afternoon
-0.0612662116	the activities
-0.0610662116	the school
-0.0610662116	the keys
-0.0610662116	in la
-0.0605162116	do not
-0.0600170052	like pe
-0.0600170052	like history
-0.0600170052	2 complete
-0.0592662116	the radio
-0.0575347874	c ccc
-0.0574328782	| thirty
-0.0573133977	letters and
-0.0564328782	the white
-0.0563836719	and complete
-0.0562236597	the conversation in
-0.0558995449	name ps
-0.0557551005	| 09
-0.0557551005	| 02
-0.0543995449	like hamburgers
-0.0541932873	to make
-0.0540995449	in 1a
-0.0540064880	ok with
-0.0529551005	a quilt
-0.0511253025	frank thanks
-0.0505503386	and fun
-0.0498350594	00 to
-0.0492051171	28 watch
-0.0491217671	at 1
-0.0483944944	in 2b
-0.0480611611	and bob
-0.0478722722	in 3a
-0.0476230658	that girl
-0.0475389388	and tom
-0.0463253025	questions about
-0.0453253025	things in
-0.0453253025	names in
-0.0429230492	per n
-0.0412278277	the english
-0.0409563825	the right
-0.0408836719	# 2
-0.0389897325	and number
-0.0386563992	and match
-0.0386563992	the teacher
-0.0383008270	38 p
-0.0378792152	| | |
-0.0373008270	come and
-0.0368722722	| 11
-0.0368008270	32 p
-0.0361519425	does not
-0.0358722722	| 01
-0.0353230658	and 1d
-0.0349235542	| 10
-0.0345674936	4 wheres
-0.0339960650	it's on
-0.0328008270	| one
-0.0326008270	thanks for
-0.0321960650	the same
-0.0319960650	they're on
-0.0319341603	the first
-0.0318008270	45 p
-0.0312674936	doesnt like
-0.0308008270	44 p
-0.0299674936	| twenty
-0.0273627317	the next
-0.0270402209	@ e
-0.0266341603	13 p
-0.0263627317	and find
-0.0247068876	people in
-0.0242402209	a in
-0.0242402209	e @
-0.0242402209	e in
-0.0242402209	= |
-0.0242402209	the name
-0.0239354590	* *
-0.0237068876	for two
-0.0229068876	37 p
-0.0228021257	p or
-0.0227581696	and do
-0.0223735542	& p
-0.0222915029	a a
-0.0221354590	on may
-0.0191867410	i at
-0.0188021257	be p
-0.0181867410	a good
+0.8987508232	basketball game
+0.8976310992	last name
+0.8973431781	ping pong ball
+0.8856779303	first name
+0.8842206027	school trip
+0.8783818147	baseball bat
+0.8767111712	ping pong bat
+0.8678454994	pencil box
+0.8652145260	english day
+0.8624386984	come on
+0.8609854238	school day
+0.8597291012	soccer game
+0.8586434791	play basketball
+0.8572185231	for sure
+0.8560548027	think about
+0.8544803861	next to
+0.8419605621	look at
+0.8386379483	play soccer
+0.8375602654	sports day
+0.8290743454	telephone number
+0.8271683264	watch tv
+0.8271043360	phone number
+0.8161195493	the next day
+0.8150588719	a pair of
+0.8148138265	book sale
+0.8119452177	art festival
+0.8091895772	fill in
+0.8052473379	lunch dinner
+0.8037048656	talk about
+0.8007371944	2b read
+0.7944906500	middle school
+0.7922263614	want to
+0.7918779904	telephone phone number
+0.7904755065	tennis ball
+0.7894045335	on monday
+0.7878596107	class lesson
+0.7866865021	english test
+0.7793572473	clothes store
+0.7763202094	come to
+0.7716641205	tape player
+0.7641244347	happy birthday
+0.7632268035	after class
+0.7617979728	eight dollars
+0.7595714619	thats for sure
+0.7574254710	sounds good
+0.7473544602	this term
+0.7451043213	model plane
+0.7449957654	at school
+0.7442739610	ccc cece
+0.7387801065	favorite subject
+0.7358583168	a photo of
+0.7348527272	in english
+0.7336277447	don't like
+0.7324143384	soccer ball
+0.7307231214	this afternoon
+0.7222557280	in china
+0.7192354816	play computer games
+0.7185611471	ps last
+0.7179904709	3b fill in
+0.7101341531	english books
+0.7082238204	next week
+0.7077126986	telephone numbers
+0.7047119683	then make
+0.7034700874	five dollars
+0.7012417412	nau adv
+0.7003639983	pairs of
+0.6917613179	small letter
+0.6917115344	big letter
+0.6871281947	the conversations above with
+0.6867475723	ask for and give
+0.6865782635	black trousers
+0.6858236640	yellow socks
+0.6818221844	like and dont like
+0.6803945219	* * *
+0.6799959335	4b listen and
+0.6779702698	three dollars
+0.6758925105	birthday party
+0.6755701345	ice cream
+0.6755236795	listen and check
+0.6752615340	2b listen and number
+0.6749176610	from 12
+0.6667250891	listen and number
+0.6662051187	telephone phone
+0.6646144162	you're welcome
+0.6634286364	3a complete
+0.6634056939	twenty second
+0.6616300210	the picture above
+0.6581295149	in august
+0.6574163876	uncountable nouns
+0.6570685284	want wont
+0.6545793895	aset of
+0.6463843019	_ _ _
+0.6459385935	present tense to
+0.6442149532	for breakfast
+0.6424113356	00 lunch
+0.6363661192	4c practice
+0.6351749747	two dollars
+0.6343659159	k e y
+0.6341612204	ts dz
+0.6327725285	unit g
+0.6323576029	grandparents room
+0.6320901931	music teacher
+0.6301594089	each pair
+0.6281223401	eee eee eee eee
+0.6275471371	starter unit 1
+0.6265859378	like oranges
+0.6262762888	nc sb
+0.6244888762	for lunch
+0.6239936137	own conversations using
+0.6239637985	2e talk about
+0.6236505213	thanks for
+0.6210011828	4b listen and number
+0.6195334625	not like oranges
+0.6194637346	00 geography
+0.6186325810	notes on
+0.6163809216	fa match
+0.6146741164	six dollars
+0.6146715059	c cece
+0.6140136809	name list
+0.6133480928	games with
+0.6124527863	on tv
+0.6117881714	an orange
+0.6110543852	good evening
+0.6088454293	3b write
+0.6081214767	like salad
+0.6052035268	words and expressions in
+0.6040273995	00 math
+0.6028694471	& n
+0.6017956697	on friday
+0.6010224464	43 p 43 p
+0.5977558453	00 chinese
+0.5976675942	2d write
+0.5954373115	these letters mean
+0.5940657659	ask and answer questions about
+0.5934676923	these socks
+0.5911661338	maryg2 @
+0.5911252563	good afternoon
+0.5891701129	listen and read
+0.5877932135	twenty first
+0.5854549695	words in column
+0.5847214650	hear in la
+0.5843304345	im ms
+0.5814428718	unit 9
+0.5813467130	on september
+0.5790349563	student b
+0.5779994513	eee eee eee eee eee eee
+0.5749099418	gina smith
+0.5713598035	starter unit 2
+0.5711418122	two pairs
+0.5707326722	on january
+0.5689121336	like bananas
+0.5688628458	that sounds
+0.5682125044	think of
+0.5679395261	nine dollars
+0.5675183825	really like
+0.5650582044	nice to meet
+0.5644190882	listen and
+0.5643528916	like vegetables
+0.5643288342	00 _
+0.5633426594	section a
+0.5598435416	i'm fine
+0.5593238803	section b
+0.5580851429	role play
+0.5579039028	the conversations above
+0.5576898124	~ ~
+0.5569814502	the things
+0.5556999349	6 middle school
+0.5540780493	the words in
+0.5539354005	units topics functions structures
+0.5532966452	starter unit 3
+0.5527319797	ping pong
+0.5504922053	the correct
+0.5481686408	00 english
+0.5481161373	conversation 1 girl
+0.5464626984	good morning
+0.5449535872	then practice
+0.5446923413	this in english
+0.5444838854	watch wotf
+0.5440095075	00 art
+0.5438162414	brown braun
+0.5436955043	00 pe
+0.5425704566	first f3
+0.5378175966	the words
+0.5377947075	look and copy
+0.5367453502	lets go
+0.5353322281	the conversation
+0.5352666925	computer game
+0.5347121081	seven dollars
+0.5346241370	00 to
+0.5331349029	grace frank thanks
+0.5318883516	32 p32
+0.5311394887	huaxing clothes store
+0.5309863777	on october
+0.5308476394	1b conversation 1
+0.5290018901	the chart
+0.5286312571	like tomatoes
+0.5280642807	cools clothes store
+0.5274026058	listen to
+0.5247574096	for dinner
+0.5238115824	easy for
+0.5237562874	for two hours
+0.5223054518	big letter or small letter for
+0.5217145154	pronunciation of letters a
+0.5217128471	john likes
+0.5210830211	p e n
+0.5165154399	2a and 2b conversation 1
+0.5158521894	starter unit 1 good morning
+0.5157519456	ee ee ee ee
+0.5147414988	2a and 2b
+0.5146977333	_ _
+0.5146714919	vocabulary index
+0.5142593337	listen and circle
+0.5127130046	greet people
+0.5121201676	the conversations and number
+0.5102457100	id card
+0.5094184373	conversation 3 girl
+0.5079900435	well wel
+0.5075561833	own conversations
+0.5075519096	each unit
+0.5064680187	ee eee eee
+0.5057746803	the questions and answers
+0.5055295181	a soccer ball
+0.5050400699	conversation 3
+0.5044255332	t t
+0.5028855987	the chart with
+0.5019840648	this in english girl
+0.5008179196	two ping pong bats
+0.4994231745	listen and repeat
+0.4983109045	conversations using
+0.4978243502	im ok
+0.4972844702	im dale
+0.4972067528	pong ball
+0.4958439324	unit 3
+0.4953764123	green pen
+0.4946613260	on may 2nd
+0.4940864896	no questions and short answers
+0.4935280315	for only
+0.4915204418	an art lesson for two hours
+0.4908846160	unit 1
+0.4884382590	the names with
+0.4875757850	on october sth
+0.4874176071	unit 5
+0.4864523038	hiz pron
+0.4860756646	frank thanks jacket map
+0.4847701082	the letters
+0.4818186134	the text
+0.4807072448	listen again
+0.4800695940	conversation 2
+0.4794999214	the things in
+0.4783683135	the conversations
+0.4736451846	jenny green
+0.4733289135	conversation 4
+0.4716920582	write about
+0.4698989274	the chair
+0.4682468800	281 9176
+0.4672629817	s z
+0.4671215197	units topics functions
+0.4670252353	come and buy
+0.4659138588	the box
+0.4649544292	the conversations 1 3
+0.4644400412	unit 6
+0.4628393714	like likes
+0.4598544247	target language vocabulary recycling
+0.4595980173	e mail
+0.4588774096	im cindy
+0.4580928562	make conversations
+0.4578891197	names gina
+0.4569571525	unit 8
+0.4550423790	on january 17th
+0.4541215815	lin hai
+0.4531676138	t shirt
+0.4530347991	good prices
+0.4525773282	jiang tao
+0.4515734948	hear in
+0.4497595987	unit 7
+0.4476069394	the conversation and practice
+0.4474334238	the sentences
+0.4472911352	name's dale
+0.4461037389	the food
+0.4454497178	| 02
+0.4448455841	the blue pen
+0.4442908487	the pictures
+0.4439797991	name's linda
+0.4430878013	* *
+0.4344001785	and apples
+0.4342265536	the picture
+0.4322331367	the numbers
+0.4300480362	00 to 1
+0.4271418865	a ping pong ball
+0.4269150973	dale grace
+0.4267930384	pronunciation of letters
+0.4244335904	ask and answer questions
+0.4184351891	| | | | |
+0.4177245020	2d role play
+0.4105977634	present tense
+0.4105977634	target language
+0.4094696040	language goal
+0.4091175569	unit 2
+0.4071223947	+ +
+0.4070584643	conversation 2 boy
+0.4054958287	the words with
+0.4045827467	z pron
+0.4030428311	32 p32 p
+0.4023862707	language goals
+0.4011410675	it's on
+0.3997986913	2a listen and
+0.3956625962	then close
+0.3956625962	then greet
+0.3952797064	this t shirt
+0.3877248667	the conversations in
+0.3814292125	p sl
+0.3787668502	a tennis ball
+0.3782312752	name b
+0.3777746702	k e
+0.3776239568	the conversation with
+0.3762951109	the missing
+0.3716681150	per n
+0.3687753586	at 9
+0.3660384191	the blanks
+0.3656233173	the people in
+0.3637288946	the desk
+0.3553491777	e @
+0.3553048151	this one
+0.3494958853	a ping
+0.3435171404	name ps
+0.3420257607	the passage
+0.3409525627	to make
+0.3406962169	| | | | | |
+0.3405393950	49 p
+0.3391954078	4 wheres
+0.3387175563	the notices
+0.3339182750	brother alan
+0.3324054716	| |
+0.3317449719	the information
+0.3299936379	do not
+0.3293420685	like history
+0.3282780899	t n
+0.3267898238	boy 2
+0.3265841397	ok with
+0.3216831099	& adj
+0.3178544572	p s3
+0.3155424141	c ccc
+0.3121559876	letter for
+0.3069802894	ee ee
+0.3068942189	| 01
+0.3068942189	| 09
+0.3068602608	and answer
+0.2989829548	like pe
+0.2928097438	eee eee
+0.2909504349	# 4
+0.2894951375	does not
+0.2876279355	the pictures 1
+0.2863650044	boy 1
+0.2830239936	like oranges do
+0.2820767663	28 watch
+0.2813438783	2 complete
+0.2789598526	2b listen and
+0.2788826901	the names
+0.2763533437	conversation 1
+0.2757937514	like ice cream
+0.2715968375	the activities
+0.2704082998	on may
+0.2703569413	a baseball
+0.2683394384	ee ee ee
+0.2671987935	frank thanks
+0.2644376751	student a
+0.2608418056	questions about
+0.2564676156	a ping pong bat
+0.2554595080	lets play
+0.2549573066	47 p
+0.2532788150	the questions
+0.2465102937	the pictures in
+0.2459352107	@ e
+0.2391503695	the conversations and
+0.2355663164	in english boy
+0.2342046342	e in
+0.2280091537	the hat
+0.2263532540	in 3a
+0.2251414232	| don't like
+0.2237308012	in la
+0.2225647042	hear 1
+0.2199389022	favorite subject b
+0.2175117467	doesnt like
+0.2163981110	the next
+0.2157368547	a basketball
+0.2147866603	that girl
+0.2134278154	a jacket
+0.2123793968	the keys
+0.2109092814	in 2b
+0.2056935591	| | |
+0.2004999577	like hamburgers
+0.1985925709	43 p
+0.1971323888	00 chinese |
+0.1915848192	girl 1
+0.1913425161	in order
+0.1905378419	in column
+0.1798654130	to meet
+0.1784602756	a volleyball
+0.1777951524	for school
+0.1724574251	50 |
+0.1695876063	girl 2
+0.1653184721	my name's
+0.1589018045	clothes at
+0.1522522373	the radio
+0.1465770073	eee ee
+0.1459724426	what's =
+0.1438350081	and 1d
+0.1436780143	books b
+0.1320543908	come and
+0.1296173483	books and
+0.1285556453	45 p
+0.1274099481	the people
+0.1268002541	_ 2
+0.1262450624	the schoolbag
+0.1217277137	the subjects
+0.1206239197	the same
+0.1185010854	| one
+0.1181458768	44 p
+0.1165707909	the table
+0.1163827646	32 p
+0.1154287657	and find
+0.1150883822	letters a
+0.1097737540	1b and
+0.1071054736	1c and
+0.1058072642	unit 4
+0.1048415155	at 1
+0.1047001450	and write
+0.1035153072	and complete
+0.1033409055	| twenty
+0.1029471574	38 p
+0.1014659911	_ history
+0.0976978609	in 1a
+0.0952217368	# 2
+0.0946342498	and jane
+0.0945630292	do does
+0.0936912050	for two
+0.0900252976	a h
+0.0888937655	and fun
+0.0874823336	the first
+0.0839707324	5 |
+0.0827857197	i at
+0.0826598639	37 p
+0.0820217131	1 4
+0.0811089682	| 11
+0.0791175319	p or
+0.0776309086	schoolbag b
+0.0775877314	| thirty
+0.0764466032	the white
+0.0761011848	words in
+0.0750710644	and eric
+0.0744806272	be p
+0.0744080661	like and
+0.0718353514	7 p
+0.0692701166	no questions
+0.0676338694	2 b
+0.0671766820	| don't
+0.0667134353	13 p
+0.0659401654	the school
+0.0652529048	p 4
+0.0646801103	a quilt
+0.0637346544	not like
+0.0619700791	the sofa
+0.0613124293	= |
+0.0586244672	a p
+0.0568845056	names in
+0.0568404073	& p
+0.0558540959	a in
+0.0548656700	number b
+0.0546345056	things in
+0.0534983647	and bob
+0.0523027941	and tom
+0.0507059430	_ |
+0.0489952156	letters and
+0.0487617457	and number
+0.0449072477	p 43
+0.0426148900	the english
+0.0423075304	the teacher
+0.0418716329	and match
+0.0416306612	teacher b
+0.0360960698	| 10
+0.0336020052	and do

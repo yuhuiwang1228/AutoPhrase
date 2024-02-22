@@ -1,0 +1,1267 @@
+0.9234092757	rather than
+0.9176658351	every day
+0.9176643650	even though
+0.9111937435	make sure
+0.9040012677	at least
+0.9033266702	more than
+0.9015992166	such as
+0.9001445306	right now
+0.8920182980	for example
+0.8822183751	look at
+0.8820809671	look for
+0.8762471064	different from
+0.8717578588	at once
+0.8714885446	according to
+0.8712409827	last year
+0.8709549048	less than
+0.8672134301	regardless of
+0.8608990521	in front of
+0.8596323656	as well as
+0.8591382552	many different
+0.8584043370	full of
+0.8525768775	not only
+0.8503153580	at first
+0.8467889218	away from
+0.8448574396	kind of
+0.8431090067	many people
+0.8362378658	fill in
+0.8360128721	learn about
+0.8354791389	did not
+0.8324900395	if necessary
+0.8321625306	speak up
+0.8305234693	instead of
+0.8304068023	halfway through
+0.8282316334	all kinds of
+0.8261004241	name =
+0.8252067014	deal with
+0.8245170570	hard work
+0.8231974861	act as
+0.8208654162	suffer from
+0.8195915406	the rest of
+0.8173662320	much more
+0.8171481890	put up
+0.8164542755	talk about
+0.8160852772	learn from
+0.8144563262	agree with
+0.8126655497	learn more about
+0.8114759979	able to
+0.8098995000	thousands of
+0.8098597573	thanks to
+0.8087120329	once and for
+0.8068785396	going to
+0.8049518559	came from
+0.8019719819	impact on
+0.7988829738	side of
+0.7985486608	prepare for
+0.7962818820	a few
+0.7954528043	consist of
+0.7924653306	lots of
+0.7875196801	in charge of
+0.7871055457	sentences into
+0.7866627160	know about
+0.7861181623	look after
+0.7825010622	busy with
+0.7814232792	years later
+0.7811030221	no one
+0.7808138780	a lot
+0.7806825072	because of
+0.7806418125	need to
+0.7798351413	fascinated by
+0.7791612723	part of
+0.7790991065	in addition
+0.7779755080	picture or
+0.7775892459	decide on
+0.7756946532	other people
+0.7749640255	piece of
+0.7746088230	pay attention to
+0.7738400001	especially within
+0.7734377211	go on
+0.7709116411	scientific research
+0.7697228103	looking for
+0.7686953248	take notes
+0.7675592628	going into
+0.7666943327	so much
+0.7659864004	chinese culture
+0.7630670735	engage in
+0.7617110334	year old
+0.7609673170	then take
+0.7608153765	too much
+0.7607338531	first and most important step in
+0.7604877108	likely to
+0.7601469485	impressed by
+0.7596153306	capital of
+0.7588954773	well done
+0.7582508014	arrived at
+0.7572187289	a bit
+0.7569244606	afraid to
+0.7569244606	talk to
+0.7564030726	thanks for
+0.7558724019	does not
+0.7556017434	fatty food
+0.7539304617	one of
+0.7535465301	the purpose of
+0.7532675456	conversations with
+0.7529425583	build up
+0.7528392645	a whole new
+0.7525507202	some medicine to
+0.7524656574	choose one
+0.7523083313	the following
+0.7514110330	take place
+0.7513865208	covered in
+0.7508716245	even more
+0.7504305643	no longer
+0.7491322281	the sides of
+0.7466470862	learning about
+0.7454193838	seem to
+0.7439223862	poor people
+0.7437690413	call for help
+0.7428997253	unit 3 food and culture =
+0.7428779684	draft with
+0.7428384757	willing to
+0.7422380589	to help
+0.7403678031	this checklist to help
+0.7402029143	these quotes with
+0.7401586724	far as | know
+0.7399761427	one or two
+0.7396015687	a little
+0.7387843490	familiar with
+0.7383419416	young people
+0.7373805677	passage about
+0.7369099131	feel at home
+0.7353074072	t f
+0.7349327256	sentences using
+0.7342515754	caused by
+0.7337919733	of course
+0.7329450410	kinds of
+0.7324554905	interested in
+0.7300969611	in class after just
+0.7300351431	a lot of
+0.7296033037	breath away
+0.7268865526	want to
+0.7243751965	one hundred and
+0.7229464377	chinese cuisine
+0.7206946121	in order to
+0.7188171092	to sum
+0.7167426262	think outside
+0.7164786326	a bunch of
+0.7160484107	chinese people
+0.7152509121	science and technology
+0.7143831572	responsible for
+0.7129186661	returned to
+0.7118557724	the best
+0.7114185423	vote on
+0.7096768738	mobile phone
+0.7093190579	the call of
+0.7073586787	take turns
+0.7071395488	depth of
+0.7071395488	sense of
+0.7069228343	not yet
+0.7068000269	took part
+0.7060735752	= =
+0.7057922865	desire to
+0.7054313867	think of
+0.7045687391	understanding of
+0.7042375021	as necessary
+0.7037537750	words and expressions in
+0.7021316377	the first time
+0.7012866405	to see
+0.7002616256	table with
+0.6995125356	seemed strange before now appears quite
+0.6995094180	chinese food
+0.6989746238	and then
+0.6984593930	surrounded by
+0.6984519805	came to
+0.6979952004	see if
+0.6969187436	a list of
+0.6962931505	eating habits
+0.6961633346	write about
+0.6958655569	an essay about
+0.6954889750	millions of people
+0.6948737075	little or
+0.6947521680	the table below
+0.6943680315	do not
+0.6943038117	other countries
+0.6931509116	in fact
+0.6890529788	paying attention to
+0.6889275307	germs in
+0.6878695283	to move
+0.6873516337	as far as
+0.6872420604	a long walk
+0.6871352529	to see if
+0.6853850036	on display
+0.6839232422	prior to
+0.6838503240	from different
+0.6831420506	mountain climbing
+0.6825237048	in china
+0.6813286174	~ =
+0.6793087795	characteristics of
+0.6791793938	served with
+0.6783705228	so many
+0.6775868837	* video time
+0.6773998881	this week
+0.6770201851	exchange students
+0.6754047761	this video
+0.6724117467	face up down
+0.6710674435	talking about
+0.6706598470	didnt know
+0.6703775929	y does
+0.6698398792	no time
+0.6697561577	hundred years
+0.6690074110	ls there
+0.6676782150	the same
+0.6671699149	side with
+0.6655236375	healthy food
+0.6653092931	type of
+0.6638444559	workbook =
+0.6635985926	the function of
+0.6632883804	the whole
+0.6629529977	at home
+0.6619645923	important to
+0.6599574099	decide if
+0.6596073874	so many people
+0.6594217371	| m
+0.6591861118	the wilderness alone
+0.6588245291	the centre of
+0.6578312229	the development of
+0.6573049787	man with great scientific thought and
+0.6568084194	more deeply
+0.6565448631	comes from
+0.6559053776	need for
+0.6554762626	journey across
+0.6552474603	an emergency call
+0.6542569423	listen to
+0.6535509750	local food
+0.6534222553	so so
+0.6523862054	close to
+0.6520253220	said if
+0.6513955873	these two
+0.6513202823	in addition to
+0.6506795593	enough to
+0.6498523830	to look after
+0.6494492103	2 listen to
+0.6484539865	way of
+0.6450385079	social activities
+0.6444571869	information about
+0.6442775351	theoretical framework
+0.6438977161	& vt
+0.6438507907	began to
+0.6423971905	tried to
+0.6423971905	trying to
+0.6405557970	a part of
+0.6402014911	daily life
+0.6400609417	* project
+0.6398078796	out of
+0.6396654885	cooperating with
+0.6394531064	slipped and fell on
+0.6389936997	interest in
+0.6387703885	ready to
+0.6383450625	* expanding
+0.6374703313	these questions
+0.6353960062	dont know
+0.6353215622	the sentences below
+0.6350520239	the words below
+0.6349080654	some of
+0.6345582852	or false
+0.6345158090	suffered from
+0.6342153637	in groups
+0.6340112885	used to
+0.6302833271	the university of
+0.6298242465	but also
+0.6295371258	parts of
+0.6292533192	an ambulance
+0.6291518623	no idea
+0.6290132488	& vi
+0.6285057676	distance away
+0.6284589068	point of
+0.6274567078	below to help
+0.6270683389	difference between
+0.6270035884	welcome to
+0.6261191190	the writer use
+0.6247824040	learning about language build up
+0.6243965518	unable to
+0.6242755249	insight into
+0.6237849757	tour of
+0.6224313236	day by
+0.6224057073	using language talk about
+0.6222281810	the questions below to help
+0.6217595291	all over
+0.6209734438	to make
+0.6208995504	study abroad
+0.6205647599	try to
+0.6203470992	napoleon ill
+0.6203236121	by matching
+0.6188281147	a few weeks
+0.6185977955	contrary to
+0.6185977955	moved to
+0.6183566637	this new
+0.6183494425	differences between
+0.6156803667	each unit
+0.6153745693	these burns
+0.6153587365	* video time #
+0.6138979476	the article again
+0.6128285037	the correct forms of
+0.6122005172	important to explore
+0.6118850021	but |
+0.6109767828	link between
+0.6107065897	took part in
+0.6105520448	wanted to
+0.6105313795	best to
+0.6103079135	the correct words
+0.6102536915	new cookbook
+0.6092967867	listen again
+0.6089594597	review of
+0.6088891522	a restaurant in
+0.6075747962	help others
+0.6050884175	the next
+0.6036705366	the top
+0.6028918083	giving first aid
+0.6028001815	proceed to
+0.6027244430	in time
+0.6023755630	the us
+0.6021293633	a good
+0.6017801391	this unit
+0.6003663982	a chance to
+0.5997084017	get burnt
+0.5991959604	a short
+0.5985878535	types of
+0.5984800052	participate in
+0.5984800052	mistakes in
+0.5982141094	international students
+0.5973115185	stages of
+0.5972044100	the world around
+0.5962689453	some people
+0.5962519122	then put
+0.5957580502	the use of
+0.5948861518	a partner to
+0.5948337117	noodles with
+0.5947215255	decided to
+0.5936771564	an arm and
+0.5934477064	learnt in
+0.5932106909	high school
+0.5926202902	four great
+0.5922983261	to study in
+0.5895532755	the video
+0.5891228243	standing in
+0.5888835471	way to
+0.5888383832	tutor explained
+0.5885640113	in times of
+0.5884670473	the passage with
+0.5879103174	a big
+0.5878388070	normal to
+0.5868880218	water pump
+0.5865807836	unit5 firstaid =
+0.5865574664	in pairs
+0.5864492792	spicy food
+0.5858788663	progress 1
+0.5841762095	call 120
+0.5841368500	3 listen to
+0.5838019676	fresh food
+0.5837482784	three parts
+0.5813560238	as well
+0.5811939326	burns caused by
+0.5809738158	arrived in
+0.5809349292	the first
+0.5797264974	medical emergency
+0.5791720791	freezing cold
+0.5790068287	the water from
+0.5783829963	| dont know
+0.5781382401	the top of
+0.5772296406	the items
+0.5760110694	visiting students
+0.5756622874	first time
+0.5745765596	the new place
+0.5744619233	the pictures below
+0.5743849215	went to
+0.5709620536	the train
+0.5709492619	hot water
+0.5707655112	using language
+0.5702425049	the following questions
+0.5702202673	the words in
+0.5697852604	exchange programme
+0.5691035711	a day
+0.5686576058	the city of
+0.5667549056	really love
+0.5652603795	so |
+0.5642989265	story about
+0.5640498030	| want to
+0.5634618890	the usa
+0.5627604241	emergency services
+0.5625675131	with people from
+0.5622402836	determined to
+0.5620217232	invention *
+0.5619550416	continued to
+0.5610130406	the most important
+0.5600814120	able to create
+0.5595795181	the help of
+0.5593274515	getting burnt
+0.5590060412	| think
+0.5584497550	this problem
+0.5571306190	home country
+0.5564102799	beautiful scenery
+0.5548288497	the questions below
+0.5542688349	rocket science
+0.5536597146	few weeks
+0.5525477251	needed to
+0.5520112547	listen again and
+0.5515591776	the information from
+0.5513946650	see in
+0.5509582090	not really
+0.5506667728	of shape
+0.5504290733	the world
+0.5499098582	and talk about
+0.5493468675	noun clauses
+0.5492102560	as far as |
+0.5486008093	medical emergencies
+0.5485940982	bones and
+0.5476102585	the words from
+0.5449689304	come to
+0.5443824668	the blanks
+0.5426376888	a short story
+0.5423239812	| |
+0.5420560666	the sentences with
+0.5413214243	e use
+0.5405434189	think like
+0.5405351145	d d
+0.5404447074	forms of
+0.5402704929	words to complete
+0.5398503467	young boy
+0.5391184229	the wounded
+0.5389244629	iv needle
+0.5377813607	heart disease
+0.5369374574	after just
+0.5362355270	generally called
+0.5359746162	in many
+0.5354198414	or other
+0.5353154249	saving thousands of
+0.5343176560	not knowing
+0.5339806630	listen again and complete
+0.5336769517	the most interesting
+0.5334540494	the new
+0.5332346886	prepared food
+0.5331829603	_ _
+0.5329880150	like to
+0.5327001566	the most difficult
+0.5319997516	a liquid
+0.5310002949	a great scientist
+0.5303672388	if so
+0.5290136913	the following questions using
+0.5288129421	begin to
+0.5285656985	the previous
+0.5284461113	trip across
+0.5283973587	_ _ _ _
+0.5273942431	ordering food
+0.5259727878	to go to
+0.5253702938	years ago
+0.5251939495	to suit
+0.5246739693	examples include
+0.5235636463	the box
+0.5231852573	people do
+0.5228867805	a new
+0.5226833278	to deal with
+0.5223216509	the pacific
+0.5218573957	to tell
+0.5218058025	answers to
+0.5215171187	processed foods
+0.5206043328	discover useful structures 1
+0.5202577020	talking to
+0.5201380952	back home
+0.5192996786	the story of
+0.5169893987	unit 4 journey across avastland
+0.5169746371	the most famous
+0.5164543113	each place
+0.5158621190	first aid
+0.5156386928	also helps
+0.5147397960	people there
+0.5138059411	used for
+0.5127770357	| | |
+0.5124647982	research paper
+0.5119404219	visit to
+0.5118205453	work in
+0.5117435165	choking victims
+0.5109198911	chinese boy
+0.5107950385	| e
+0.5099408924	the boy
+0.5087966229	much of
+0.5085001992	across canada
+0.5081995745	chinese language
+0.5076971179	this period
+0.5076055043	the descriptions
+0.5076004080	then took
+0.5070676333	ever eaten
+0.5070497761	linking words
+0.5052684309	choice of
+0.5044306619	bridge tofu
+0.5044306619	comfort zone
+0.5037842636	li daiyu and
+0.5034259475	first hand
+0.5031127577	form of
+0.5028207729	follow instructions
+0.5027594095	by using
+0.5022669723	behave in
+0.5020661236	or not
+0.5013228135	chemical burns
+0.5008150842	ask questions
+0.5002889987	first aid techniques
+0.4991394478	2 3 4 5
+0.4990114328	e design
+0.4989393814	different categories
+0.4981267492	to learn more
+0.4980524802	easy to
+0.4979139141	the next morning
+0.4967509440	and thus
+0.4965724075	each sentence
+0.4965481681	conversation naturally
+0.4964142790	the writer
+0.4963702402	by consuming
+0.4960316102	correct forms
+0.4947921686	scientific spirit
+0.4938660619	watch discuss
+0.4926499092	people from
+0.4926112523	| got
+0.4924556400	red braised
+0.4904495116	presentation to
+0.4903340791	time to
+0.4899064698	essay about
+0.4898042898	role play
+0.4896178093	the victim
+0.4879731178	1 before
+0.4873054167	slow food
+0.4872148834	of people
+0.4868425382	2 3 4
+0.4864001316	first aid kit
+0.4862207793	learnt to
+0.4861509428	work with
+0.4859453730	outbreak of cholera
+0.4857793382	again and answer
+0.4857462227	work as
+0.4854477298	the people
+0.4847700154	ancient china
+0.4845938942	vast land
+0.4837190365	the pilot
+0.4836536926	the door
+0.4832821107	reading and thinking
+0.4831132642	just as
+0.4828470555	broad street
+0.4823213677	travelled to
+0.4820724676	to many
+0.4820504972	packaged meals
+0.4817189555	down to
+0.4815942757	a year
+0.4807634112	the bill
+0.4799673092	six months
+0.4787860455	the tub
+0.4787516303	down on
+0.4768491317	niagara falls
+0.4761238651	to find
+0.4755300571	ing form
+0.4749820894	the fire
+0.4746453441	in season
+0.4741285918	work in pairs
+0.4740920843	unit5 first aid
+0.4739394887	sweets and
+0.4734974529	as many
+0.4727819297	fast food
+0.4724332255	unit 3 food and culture
+0.4718074416	para life
+0.4710541732	the sun
+0.4696109744	go to
+0.4686700765	the girls
+0.4686580668	healthy eating
+0.4684623184	rail journey
+0.4683899694	first aid instructor
+0.4677942301	| dont
+0.4677149124	home safe
+0.4674731879	many of
+0.4672587100	patriotic and served
+0.4667287214	| thought
+0.4665483936	take care
+0.4662183620	culture and cuisine
+0.4658727881	kinds of things
+0.4655206011	to show
+0.4638671968	the wild
+0.4635339757	a minute
+0.4632226237	the conversation
+0.4629043822	sentences with
+0.4627900135	coming to china
+0.4620406727	notes to write
+0.4617636536	zhang tao
+0.4616636306	for help
+0.4608263190	using structures 1
+0.4602183785	to show relationships
+0.4598411462	science and scientists
+0.4589886636	a single
+0.4581134706	a word of chinese
+0.4578007890	chinas aerospace
+0.4576350437	to pursue
+0.4574332290	any reason
+0.4569626612	many students
+0.4567975586	sense of touch
+0.4562390308	john snow
+0.4557289205	shopping malls
+0.4557289205	generally speaking
+0.4557110241	4 journey across a vast land
+0.4546352375	the last
+0.4545410425	in activity 1
+0.4542237479	british museum
+0.4529764080	watch 1
+0.4526338685	people in
+0.4524669689	international students in china
+0.4508521870	the sentences using
+0.4508405092	space and
+0.4504996754	saving thousands of lives
+0.4500992683	read about
+0.4487035586	culture shock
+0.4483288195	not so much fatty food
+0.4482541529	2 read
+0.4481817370	vocabulary 1
+0.4476758171	using structures 1 complete
+0.4473995631	like |
+0.4473712215	unit 5 first aid
+0.4473243436	giving first aid instructions
+0.4464836787	two of
+0.4461477193	a fire
+0.4456852369	su bo
+0.4443944470	one theory
+0.4440412487	these questions in groups
+0.4437384005	to say
+0.4434635255	1 a
+0.4433471513	and not knowing
+0.4428441791	red cross
+0.4428411960	eat fast food
+0.4426868470	unit 2 bridging cultures
+0.4426062185	the most
+0.4425545426	the ground
+0.4424639325	to carry
+0.4423654128	short story
+0.4423339654	in brackets
+0.4420008799	in class
+0.4418016318	the power line
+0.4416905658	reading and writing 1
+0.4416905658	listening and speaking 1
+0.4416656066	clean cloth
+0.4404632650	to become
+0.4403698822	daiyu and liu qian
+0.4401470965	an american doctor
+0.4388245041	big bang
+0.4386003467	at home and
+0.4380060179	studying abroad
+0.4368579786	and sometimes
+0.4363669282	the heimlich manoeuvre
+0.4362252836	in 1974
+0.4356999777	to do
+0.4323830696	call for
+0.4322891524	put in
+0.4322177310	thousands of lives
+0.4322075733	everything in
+0.4320439985	cause and effect
+0.4304453806	the far north
+0.4295359072	dry pot
+0.4285213935	the different
+0.4282425012	discover useful structures
+0.4273280436	about providing first aid
+0.4273195264	| see
+0.4270822403	the father of
+0.4267972093	all humans
+0.4255991250	the other
+0.4251111803	3 now
+0.4243186419	words in brackets
+0.4240395760	and |
+0.4238649880	food and culture
+0.4237047734	the questions in groups
+0.4232744222	the uk
+0.4232459759	| find
+0.4226505574	in most
+0.4224508315	unit 1 science and scientists
+0.4217605611	to work
+0.4214723534	liu qian
+0.4214325263	to use
+0.4213806649	the following questions in groups
+0.4196364546	li chen
+0.4188442226	the conversation and answer
+0.4179647063	own culture
+0.4178931555	_ _ _
+0.4174249646	a very large area
+0.4167590158	an email
+0.4163803419	lead to very serious injuries
+0.4157816830	to try
+0.4154966257	a e
+0.4147438000	cultural backgrounds
+0.4135638167	para life rescue
+0.4131985393	in two particular streets
+0.4119560858	to explore
+0.4105648669	| also
+0.4104398451	help to
+0.4099148824	the red cross
+0.4098353389	the road
+0.4080483930	got to
+0.4063949603	used in
+0.4056462143	and make
+0.4048000467	suitable words
+0.4044334073	to get
+0.4037146440	the work
+0.4031866835	and take
+0.4029806232	bridging cultures
+0.4027442853	deep sea
+0.4023064887	restaurant before
+0.4018449106	li daiyu and liu qian
+0.4017073832	using words and expressions
+0.4009494083	2 if
+0.4008518030	the given words
+0.4004927135	young chinese
+0.3999095132	in need
+0.3996330955	to go
+0.3990830073	in other words
+0.3989509606	a small child
+0.3988333118	to know
+0.3974970415	journey across canada
+0.3974697105	weak forms
+0.3971432356	a different
+0.3970461170	back to
+0.3957318193	the other hand
+0.3955462516	do to
+0.3948540307	the article and
+0.3945930093	the universe
+0.3940475009	mainly wanted
+0.3932371529	the burnt area
+0.3929500587	better for
+0.3924952453	mrs taylor
+0.3924746131	qian xuesen
+0.3923137606	and even
+0.3921871251	an open country
+0.3914239464	possible to
+0.3913376154	use of
+0.3910022695	cold in winter
+0.3906711926	power line
+0.3905942612	the chef just began
+0.3902377155	an emergency
+0.3892586111	to learn more about
+0.3890749711	ten minutes
+0.3884461938	the time
+0.3874286600	reading passage
+0.3868565041	rescue breathing
+0.3867710169	words and phrases
+0.3864131561	a very
+0.3858407867	to call
+0.3854644143	and other
+0.3841693393	a rail journey across canada
+0.3835694659	to discover
+0.3829458315	third degree
+0.3820786928	the first ten minutes
+0.3817836073	to think
+0.3816686416	again and complete
+0.3808274150	the ing form
+0.3798037155	not so
+0.3769290935	in one
+0.3769211828	the father of chinas
+0.3769157444	eat fast
+0.3763532845	the two
+0.3761743494	first aid for burns
+0.3761144215	the passage
+0.3755302974	to talk to
+0.3748486584	to come
+0.3746873969	the canadian rockies
+0.3744393102	and doing
+0.3738454350	journey across a vast land
+0.3738390714	to stay
+0.3730206921	a narrative
+0.3729918668	using words and expressions 1
+0.3727783460	the chef just began filling
+0.3724181146	more about
+0.3722281178	li daiyu
+0.3719103185	more convenient
+0.3718868891	the belt and road initiative
+0.3717020652	the right
+0.3715676763	heimlich manoeuvre
+0.3713486018	first aid for
+0.3707579208	the jet propulsion
+0.3690289318	to learn about
+0.3685589889	the questions
+0.3675512838	things do
+0.3672435051	the treatment of burns
+0.3668698465	place burns under cool running water
+0.3659783354	reading and writing
+0.3655855203	narrative essay
+0.3648151756	every minute counts
+0.3643038006	home safety manual
+0.3638910011	thought of
+0.3636779277	life changing experience
+0.3636718261	unit1 science and scientists
+0.3631480022	the classroom or read
+0.3622940065	to form
+0.3621753230	people from diverse cultural backgrounds
+0.3605988646	the big bang theory
+0.3605232827	meaning and
+0.3603909271	listening and speaking
+0.3591902577	the great canadian prairie
+0.3582365249	the way
+0.3577434557	remember to
+0.3564459053	2 complete
+0.3561403566	the father of chinas aerospace
+0.3553720723	electrical wires
+0.3540462525	the four
+0.3534084300	an extremely well respected man
+0.3528586833	an international student
+0.3525842357	third degree burns
+0.3517580797	the heimlich
+0.3506796112	the farm to table movement
+0.3502397848	in north
+0.3488952021	a loose clean cloth
+0.3476255548	understand text types
+0.3459198708	an essay
+0.3454452033	the best food
+0.3442954360	chinese language learning abroad
+0.3419827004	first degree
+0.3417768560	first degree burns
+0.3415004516	the exact
+0.3411291432	the cn tower
+0.3405408076	point in
+0.3402252890	part in
+0.3390573686	in conclusion
+0.3383596328	on long journeys
+0.3379471840	lake louise
+0.3369409151	the steady state
+0.3364774513	the three
+0.3361687407	confucius institute
+0.3358441432	a drowning victim
+0.3355133435	a global perspective
+0.3353163900	a scientist
+0.3346559239	learn to
+0.3320725387	to prevent
+0.3303144535	the past perfect passive voice
+0.3297804669	unit 5
+0.3291822771	and use
+0.3287192324	the slow food movement
+0.3283588686	draft back and revise
+0.3279992469	| head
+0.3277900595	words from
+0.3262237183	do people
+0.3259160001	the exact places
+0.3253125813	electric shocks
+0.3250843622	an opinion
+0.3248572179	trip to
+0.3247849065	the real driver of poor health
+0.3247784866	canadian prairie
+0.3243085823	the past perfect tense
+0.3229729672	grizzly bear
+0.3229701583	hand in hand
+0.3226782996	the words in brackets
+0.3207391227	john snow defeats king cholera
+0.3186929098	| past participle
+0.3183570319	of technology
+0.3177988555	again and
+0.3167875288	hear in
+0.3156561574	zhan tianyou and
+0.3155811784	journey across avastland
+0.3154334666	| hope
+0.3148140913	the new culture
+0.3127781956	as |
+0.3115416226	categories of
+0.3094724688	da vinci's
+0.3094724688	ing forms
+0.3094724688	heart attack
+0.3087320059	to canada
+0.3087265836	about first aid for burns
+0.3081193599	people to
+0.3077028541	a leg
+0.3066413614	the letters
+0.3062182377	from taking
+0.3052261586	food or
+0.3043626244	bean curd
+0.3031660880	the first and
+0.3027762251	in beijing
+0.3012476944	the true north via rail
+0.3012013667	1 read
+0.3010407374	but in
+0.3002441551	the answers
+0.2989856752	as one
+0.2987457646	dim sum
+0.2967753025	food movement
+0.2967003850	the article
+0.2964764380	a farm to table restaurant
+0.2955276884	bitten by mosquitoes
+0.2954740084	food from
+0.2943227766	an important
+0.2942349796	mei lin and su bo
+0.2941927881	| know
+0.2932422809	one or
+0.2928699485	the floor
+0.2926608013	second degree burns
+0.2920767480	home safety
+0.2913114704	new and
+0.2912675477	a bad idea
+0.2905948702	difficult to
+0.2903363941	about first aid
+0.2903063424	red cross and red crescent societies
+0.2897669251	the menu
+0.2892557996	the man
+0.2890415503	a long
+0.2877244876	involved in
+0.2874980292	want to study
+0.2867293983	the yukon
+0.2856384396	the passage and
+0.2854333049	non newtonian fluid
+0.2853507386	water from
+0.2851566586	the fact
+0.2850949309	the canadian
+0.2827651215	do in
+0.2813058609	to eat
+0.2803138213	dry pot duck with golden
+0.2799781255	a first aid
+0.2797740977	a conclusion
+0.2784428541	years of
+0.2775383277	1 in groups
+0.2768244227	the author
+0.2759263623	or read
+0.2742730996	of canada
+0.2741194540	an arm
+0.2740386130	from edmonton
+0.2734461558	other hand
+0.2729522410	stephen hawking
+0.2716328534	the scientific spirit
+0.2713840780	farm to table restaurant
+0.2711958432	unit 4
+0.2711725695	words to
+0.2711100715	the cem
+0.2699566941	the reading passage
+0.2698607665	then complete
+0.2690722199	the real
+0.2684564393	life in
+0.2675497744	farm to table
+0.2671770959	covered with
+0.2669836810	a bath
+0.2631072390	1 ingroups
+0.2629516492	unit 3
+0.2628292911	the key
+0.2618982440	and many
+0.2617609346	world of
+0.2607678225	an international
+0.2601688553	discourse markers
+0.2601422714	a person
+0.2595908327	miss conner
+0.2587020784	the weak forms
+0.2574774142	st andrews
+0.2564857429	the largest
+0.2563440411	words in
+0.2562643198	people died
+0.2561615325	the pump
+0.2558159411	da vinci
+0.2541200102	to set
+0.2539034380	sweet drinks
+0.2535519789	and exciting
+0.2522281125	and devotion
+0.2518441749	zhan tianyou
+0.2512466450	mr clark
+0.2510755275	jean philippe
+0.2508205401	to lake louise
+0.2505148523	nova scotia
+0.2505148523	ming dynasty
+0.2505148523	queen victoria
+0.2500478348	the correct
+0.2488528944	verb pasttense | past participle
+0.2483270776	irregular verbs
+0.2466679094	the words
+0.2450671787	in canada
+0.2444014693	the hospital
+0.2430448439	mouth to mouth rescue breathing
+0.2425395567	culture and
+0.2422158477	homeland with effort
+0.2421683993	a young
+0.2413685770	an american
+0.2409814145	brillat savarin
+0.2407846427	years in
+0.2392670401	unit5 firstaid
+0.2387612714	the medical emergencies
+0.2379562397	information from
+0.2374181510	quantum computing machine
+0.2369210768	a non newtonian fluid
+0.2351280374	a friend
+0.2348866301	on to
+0.2342381013	5 discuss
+0.2337063541	the text
+0.2330941342	to share
+0.2329784653	china and
+0.2329349824	of studying
+0.2322689915	the photos
+0.2317199820	the conversation and
+0.2309609964	research in
+0.2305548994	of fresh
+0.2301823127	the linking words
+0.2295461477	and help
+0.2292621041	steamed fish head covered with chillies
+0.2288465493	a small
+0.2287463395	xu xiake
+0.2280489482	a journey
+0.2262748453	mei lin
+0.2251657357	questions with
+0.2243275824	the following sentences
+0.2234688702	chen wei
+0.2232337021	st lawrence
+0.2229044394	sth to
+0.2227238871	| feel
+0.2203094112	to solve
+0.2190328771	most important
+0.2190325323	coming to
+0.2176775223	xie leis
+0.2170737653	xie lei
+0.2168469917	science and
+0.2166194459	a strong
+0.2152848253	past participles
+0.2147381010	lin fei
+0.2145646748	about studying abroad
+0.2130694673	a rail journey
+0.2125371837	the big bang
+0.2124034034	henry heimlich
+0.2121380780	to create
+0.2115349597	the story
+0.2109462420	in london
+0.2107390616	lu yao
+0.2104628396	the red
+0.2100145995	to visit
+0.2096220548	order of
+0.2066377195	the first aid
+0.2062513086	and talk
+0.2054619287	and revise
+0.2047645979	care of
+0.2044722205	to healthy eating
+0.2035310758	1 match
+0.2035014276	a large
+0.2023736727	restaurant in
+0.2017145445	a great
+0.2010318707	the station
+0.2001342647	essay in
+0.1996602781	the question
+0.1995975454	a volunteer
+0.1985585088	in summary
+0.1983540969	of view
+0.1973854707	a famous
+0.1967457765	and write
+0.1966216557	living in
+0.1959996410	study in
+0.1952292838	| past
+0.1947943512	a word
+0.1941305208	the city
+0.1940699356	the hotel
+0.1914572802	to protect
+0.1914572802	to build
+0.1904345786	the pages
+0.1904345786	the texts
+0.1900734262	healthy and
+0.1896352070	the underlined
+0.1896352070	the worlds
+0.1884640831	time in
+0.1880583744	to support
+0.1874684625	the ambulance
+0.1867987419	in life
+0.1861193626	the mistakes
+0.1860995690	the chinese
+0.1858685269	the supermarket
+0.1856832950	the conversations
+0.1852616133	new life
+0.1847944390	restaurants and
+0.1842914831	more important
+0.1841860298	chance to
+0.1841006312	the operator
+0.1832826623	the restaurant
+0.1828483118	hard to
+0.1819553298	people today
+0.1816382818	to study abroad
+0.1806695499	of studying abroad
+0.1802364583	the autumn
+0.1802107421	the farm to table
+0.1799349410	with suitable
+0.1799159486	questions in
+0.1795785931	students in
+0.1793252946	places in
+0.1763881958	a restaurant
+0.1753017723	below to
+0.1749986327	the food
+0.1745164658	age of
+0.1743087932	father of
+0.1743087932	centre of
+0.1738064410	in order
+0.1736839837	development of
+0.1736628293	and discuss
+0.1732279138	the conclusion
+0.1723841317	times of
+0.1711178597	about china
+0.1709173587	the emergency
+0.1699130726	a simple
+0.1697669626	university in
+0.1690902324	to give
+0.1688437955	the class
+0.1678167720	the river
+0.1673751050	number of
+0.1673751050	group of
+0.1669643279	a victim
+0.1668278668	a life
+0.1667559921	to learn
+0.1662235887	attention to
+0.1659054646	the kitchen
+0.1659054646	the map
+0.1654358480	unit 1
+0.1652244316	to take
+0.1650542092	in activity
+0.1649012825	phrases in
+0.1649012825	died in
+0.1646627596	the life
+0.1645258665	of chinese
+0.1645252416	a chinese
+0.1632006315	to study
+0.1628422553	reading and
+0.1625841734	emergencies in
+0.1613637777	to send
+0.1610712683	the left
+0.1607119773	the students
+0.1593325784	the things
+0.1592537369	of writing
+0.1584703445	in america
+0.1582988568	the weekend
+0.1576820187	and so
+0.1571598141	the big
+0.1567920316	the sentences
+0.1551633731	end of
+0.1550633490	of china
+0.1548072871	a way
+0.1537333807	1 discuss
+0.1531121480	the great
+0.1523515532	of burns
+0.1519021989	to talk
+0.1519021989	to walk
+0.1517681600	business in
+0.1515634001	food in
+0.1507372750	and traditions
+0.1506949972	and complete
+0.1506103128	to complete
+0.1505115391	unit 2
+0.1492809030	to act
+0.1485755451	with chinese
+0.1481735578	a first
+0.1477991935	to live
+0.1477240705	of water
+0.1474932958	the sentence
+0.1474932958	the disease
+0.1470024382	of food
+0.1468224423	the mountain
+0.1466674801	and improve
+0.1465914054	the school
+0.1454135518	the painting
+0.1453422594	a problem
+0.1452732309	the book
+0.1452732309	the italian
+0.1452732309	the window
+0.1447790101	the greatest
+0.1444796284	the chef
+0.1423387628	the email
+0.1420265139	4 5
+0.1419197830	the ing
+0.1418146459	2 choose
+0.1412850014	the falls
+0.1409054475	to write
+0.1408462911	the information
+0.1399513731	to china
+0.1398932521	the problem
+0.1396982309	the paramotor
+0.1396982309	the final
+0.1389720512	to order
+0.1383860311	the predicative
+0.1381777201	the order
+0.1377949115	a farm
+0.1375279028	the heart
+0.1373524862	the draft
+0.1372520023	3 read
+0.1360639278	in toronto
+0.1349517508	the water
+0.1347673766	the foods
+0.1347673766	the trip
+0.1340255841	the burn
+0.1337151531	a business
+0.1335790874	and experience
+0.1327432780	the country
+0.1326637515	to explain
+0.1314430885	| felt
+0.1312998399	to cook
+0.1312998399	to leave
+0.1309461827	the advice
+0.1308003950	the pictures
+0.1307332632	the american
+0.1304967394	to reach
+0.1304883847	to read
+0.1302357333	the accident
+0.1285618678	and finally
+0.1279496120	a partner
+0.1278128179	the elderly
+0.1275203045	to develop
+0.1271994592	a local
+0.1262181979	and teach
+0.1244230285	with great
+0.1237860800	a foreign
+0.1225829371	the help
+0.1215386373	the future
+0.1212504355	a dog
+0.1199941114	to express
+0.1189415054	the weak
+0.1182222971	a place
+0.1176773332	the home
+0.1173935385	the summer
+0.1173402833	of cholera
+0.1155597101	the burnt
+0.1150909911	the street
+0.1150199685	the main
+0.1140885106	back and
+0.1139300384	a conversation
+0.1135690098	the open
+0.1135690098	the blue
+0.1132953479	and phrases
+0.1115707761	e in
+0.1111547983	food and
+0.1105545404	of human
+0.1093633352	to change
+0.1092290155	in winter
+0.1088826011	and nutrition
+0.1085999539	a man
+0.1082609778	a high
+0.1082609778	a result
+0.1081628194	to happen
+0.1079960978	the scenery
+0.1073126096	to add
+0.1069845295	a healthy
+0.1069467018	the table
+0.1066682469	the language
+0.1064510666	the bathtub
+0.1062901400	language and
+0.1058419291	to travel
+0.1052443208	the cave
+0.1050005346	the skin
+0.1044022375	the situations
+0.1042378135	and answer
+0.1040541828	the beautiful
+0.1038256428	and tick
+0.1032851660	of life
+0.1029279847	and culture
+0.1027884034	the university
+0.1023618470	a group
+0.1003602546	the dishes
+0.0998490187	the invention
+0.0985651799	the lives
+0.0981875807	a story
+0.0978928860	the night
+0.0978794238	a human
+0.0978048390	to handle
+0.0977981531	of things
+0.0971833756	china in
+0.0970392766	the idea
+0.0961492734	fresh and
+0.0960988132	of sentences
+0.0936064093	the phrases
+0.0930506748	the child
+0.0924330016	the setting
+0.0923910231	the journey
+0.0917667331	a hot
+0.0917354702	the group
+0.0912242343	the lake
+0.0900740160	the cold
+0.0899382140	the conflict
+0.0895550349	the scientific
+0.0858760422	and human
+0.0853685107	al and
+0.0620733009	home and

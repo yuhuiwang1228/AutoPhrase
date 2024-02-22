@@ -1,0 +1,994 @@
+0.8903990427	such as
+0.8886382653	hardly ever
+0.8881815623	near here
+0.8843956525	look after
+0.8817364707	for example
+0.8801168377	look at
+0.8777567159	of course
+0.8751025665	every day
+0.8748307367	at least
+0.8539042133	talk about
+0.8489510180	last year
+0.8459925311	next year
+0.8432820246	go shopping
+0.8356526004	the beginning of
+0.8354130717	i'd love to
+0.8324155959	lots of
+0.8323108480	over and over again
+0.8308153208	different from
+0.8274468771	next week
+0.8260124148	turn on
+0.8259846783	go on vacation
+0.8208090544	the same as
+0.8199981067	fill in
+0.8178573887	cut up
+0.8141090647	junk food
+0.8138166402	play volleyball
+0.8087324035	last month
+0.8079875244	look forward to
+0.8077768758	more than
+0.8070499766	less free time
+0.8060704746	go to college
+0.8058667320	all kinds of
+0.8051596316	computer programmer
+0.7981539225	write down
+0.7977516274	im not available
+0.7963412388	couldn't see
+0.7963009937	traditional food
+0.7959960814	a picture of
+0.7946526131	primary school
+0.7942650440	a lot of
+0.7939057673	the day after tomorrow
+0.7922828098	as long as
+0.7893904689	soccer game
+0.7880936708	another time
+0.7857780706	good idea
+0.7856754790	right now
+0.7849900294	play tennis
+0.7819825383	went to
+0.7816703271	sounds great
+0.7816038704	much many
+0.7813348428	watch tv
+0.7804667408	the united states
+0.7788415603	work hard
+0.7781978926	very much
+0.7779896758	play soccer
+0.7775479172	the old man and
+0.7769806891	one day
+0.7753916944	less than
+0.7752134472	soap opera
+0.7750863169	the day before yesterday
+0.7746117946	make sure
+0.7740396585	sports show
+0.7730778427	rice noodles
+0.7727964979	go to bed
+0.7724740977	best friend
+0.7708095932	think of
+0.7700060082	maybe once
+0.7692346831	kinds of
+0.7690096506	hear from
+0.7685794646	look for
+0.7675786901	on weekends
+0.7652793513	hundreds of
+0.7620738775	three times
+0.7586621683	talk show
+0.7561650730	because of
+0.7559072799	swing dance
+0.7556365077	at home
+0.7556232480	on monday
+0.7550950204	stay at home
+0.7545940448	an engineer
+0.7540162435	as hard as
+0.7539169938	feel like
+0.7527996332	at night
+0.7515804774	years ago
+0.7508698308	at school
+0.7506699130	world peace
+0.7502459885	prepare for
+0.7489538203	talk to
+0.7477435792	usually often sometimes
+0.7460990327	by friday
+0.7460685917	action movie
+0.7457781402	run fast
+0.7451188214	sounds good
+0.7450195945	find someone
+0.7426717279	00 p.m
+0.7420091689	a lot
+0.7414407621	fewer trees
+0.7394112520	taller than
+0.7382537072	free time activities
+0.7379274289	the most comfortable seats
+0.7377295643	4d listen again
+0.7336016866	listen again
+0.7307782853	the passage again and
+0.7305645511	more less fewer
+0.7292428130	after school
+0.7278614005	the milk into
+0.7277026053	thanks for
+0.7274259064	help with housework
+0.7268759094	eat fruit
+0.7266897721	some water
+0.7258716139	buy tickets
+0.7247088266	dont mind
+0.7245990197	go with anyone
+0.7227901034	get good grades
+0.7223334330	ican go to
+0.7207038786	a great idea
+0.7201386457	sometimes see
+0.7201319267	many people
+0.7196932047	also remember
+0.7196221158	tomorrow night
+0.7184048510	party games
+0.7183625003	they'll study at home on
+0.7177321474	talent show
+0.7169107671	more outgoing than
+0.7168060694	one spoon
+0.7167855954	play sports
+0.7158798121	kind of
+0.7156137251	on special holidays
+0.7148275443	game show
+0.7144559944	they'll just
+0.7142669840	talking about
+0.7134654421	role play
+0.7123986896	this morning
+0.7106746332	read english books
+0.7105900383	pretty bad
+0.7103839079	more pollution
+0.7101725679	study for
+0.7099026069	an astronaut
+0.7089038032	always there to
+0.7085260612	look like
+0.7082112404	id love to
+0.7077198401	go to
+0.7055288052	drink coffee
+0.7046298333	better than
+0.7043914626	going to
+0.7043474243	talk shows
+0.7042806699	care about
+0.7038773969	i'm sorry
+0.7037872878	better planning
+0.7018958671	an expert like
+0.7016273891	each question
+0.6986583949	study harder
+0.6979495578	ask and answer
+0.6974871606	do anything special
+0.6969429544	good at
+0.6965034590	im afraid
+0.6963547136	anything below
+0.6956311041	some scientists
+0.6950446905	every night
+0.6946316832	hard working
+0.6943244520	with karen and
+0.6938859730	dont worry
+0.6932983636	many students
+0.6907618034	some fish
+0.6905629485	notes on
+0.6899489857	come to
+0.6899363964	free time
+0.6898419303	on saturday afternoon
+0.6898107190	the surprise party on saturday
+0.6890062921	cant stand
+0.6888454048	dont know
+0.6885075856	also interesting
+0.6883453745	no one
+0.6873055994	talking to someone
+0.6865963904	halfway to
+0.6854137709	more loudly
+0.6849232720	only one
+0.6846839103	words and expressions in
+0.6830014342	in china
+0.6828334925	sentences using
+0.6825950393	adverbs of
+0.6824710102	people under
+0.6814964352	both tall
+0.6798163384	on saturday
+0.6793203042	just by
+0.6790593413	drink milk
+0.6788157815	questions about
+0.6781525696	study at home on computers
+0.6777986604	one of
+0.6775131790	fewer people
+0.6774209095	& pron
+0.6766076347	make fruit
+0.6760225906	wants to
+0.6759162889	in town
+0.6755388341	a good friend
+0.6736524091	words from
+0.6730639720	everything tasted really good
+0.6724889133	do with
+0.6707485107	reply to
+0.6699200486	section b
+0.6699038332	the lions
+0.6695707634	idea of
+0.6695252697	saturday afternoon
+0.6691630031	970 am
+0.6688162002	ee ee ee
+0.6686514909	the correct forms of
+0.6682034194	for lunch
+0.6672510494	in 100 years
+0.6671221638	fa match
+0.6667724734	some people say
+0.6650543158	the hollywood walk of fame
+0.6646284834	over and over
+0.6640980580	won't go to school
+0.6628799054	movie theater
+0.6617603756	too seriously
+0.6616252915	think i'll
+0.6615002568	people use money in 100 years
+0.6609755129	buy anything special
+0.6606634857	like cutting
+0.6606434646	section a
+0.6605660196	this person
+0.6603480296	went to new york city
+0.6598934452	a math test
+0.6598770734	2a listen
+0.6587411335	cares about
+0.6581481079	only one country
+0.6581368946	more hard working at school tina
+0.6575451994	talk to someone
+0.6574424238	add more
+0.6571868855	really hard
+0.6562508032	some people
+0.6556169940	feel better
+0.6551791861	a true friend reaches for
+0.6544977995	mickey mouse
+0.6531024210	didnt bring
+0.6526545605	almost always
+0.6524230092	last night
+0.6523070080	won't come
+0.6520636924	im going to
+0.6520309816	potato chips
+0.6516270934	finish high school
+0.6514925067	works harder than
+0.6508948087	years old
+0.6502648356	a few times
+0.6501059287	two spoons
+0.6499459346	words and phrases
+0.6498876917	talent shows
+0.6495694736	school evening
+0.6488617174	movie world
+0.6485767494	~ ~
+0.6482929429	vocabulary index
+0.6469317189	2c read
+0.6466665305	smarter than
+0.6455438660	listen and circle
+0.6454074156	love watching
+0.6446994012	the same
+0.6444177381	this weekend
+0.6443378817	bowl of rice and
+0.6441685747	want to
+0.6428592479	four times
+0.6409391252	4c listen
+0.6405680962	these shows
+0.6398765667	then ask
+0.6397150046	then make conversations
+0.6396424798	good habits
+0.6393414352	& prep
+0.6385271512	the most popular
+0.6384039353	3b complete
+0.6381385131	birthday party
+0.6377335543	2d role play
+0.6366443777	high school
+0.6363019592	listen and read
+0.6362194525	too bad
+0.6359846427	november 18
+0.6357977763	a piece of
+0.6353806036	3b to help
+0.6347575465	computer science
+0.6344586394	bring anything
+0.6340383696	in fact
+0.6338111270	unit 10
+0.6334947875	space station
+0.6310231520	new york
+0.6310231520	new year's
+0.6303372821	work as hard as tina
+0.6292247100	game shows
+0.6280858415	action movies
+0.6272535524	im more outgoing than
+0.6267557035	in half
+0.6264375902	next to
+0.6261284589	the text
+0.6261048058	never go shopping
+0.6258133605	1d girl
+0.6256410477	but im not
+0.6249039207	& n
+0.6243095244	the following questions
+0.6240834154	tried paragliding
+0.6236331279	this invitation
+0.6233795088	the following
+0.6224564883	ask and answer questions about
+0.6220695113	way to relax
+0.6217303773	went with
+0.6204915606	the article again
+0.6196302076	something very special
+0.6195197538	i'm more outgoing
+0.6190426536	in la
+0.6185531920	here in highville
+0.6180347841	10 years ago
+0.6173594719	take sbs place
+0.6168606185	a little
+0.6158877826	finish high school and college
+0.6157091117	lb conversation 1
+0.6150847327	superlative forms of
+0.6149256254	cartoon character
+0.6138687197	never get bored
+0.6135033176	ask and answer questions
+0.6120928488	percent of
+0.6120474146	years from now
+0.6119002489	dont need
+0.6118822879	some food
+0.6118822879	this cartoon
+0.6113781899	often do
+0.6109337013	im going to study computer science
+0.6107295754	than most
+0.6104187197	something for everyone at greenwood park
+0.6103731100	im sorry
+0.6100046089	screen city
+0.6097373168	3b think of
+0.6096935432	language goals
+0.6092605555	going to study computer
+0.6090848926	got talent
+0.6078587537	die hard
+0.6075437523	special malaysian
+0.6073502307	verb past tense
+0.6066212322	the words in brackets
+0.6064449607	think about
+0.6061740832	each unit *
+0.6058969837	unit 7 will people
+0.6057834797	the closest to home
+0.6053117336	then match
+0.6046860703	do anything interesting
+0.6043318140	on vacation
+0.6038555756	movie review
+0.6015439932	make conversations about
+0.6014395375	the same things as
+0.6011356214	tv shows
+0.6008798350	use money
+0.6006921084	2b listen again
+0.5990108711	beable to
+0.5984315112	soap operas
+0.5979369228	ask people to bring food
+0.5969987246	cheng han
+0.5969220227	the best movie theater
+0.5967362064	like books
+0.5966361535	go to school
+0.5965404813	each unit
+0.5954653408	something very special malaysian yellow noodles
+0.5942230395	radio station
+0.5942230395	radio stations
+0.5935623266	the most important
+0.5931188684	blue moon
+0.5929932636	want to watch
+0.5928625719	plan to watch
+0.5924813559	town cinema
+0.5923364488	a game show
+0.5919868056	phrases in
+0.5916355910	the worst thing
+0.5909317758	soccer team
+0.5908763010	other people
+0.5907773672	* * *
+0.5906480908	soccer player
+0.5904756725	days of our past
+0.5900668977	unit 9
+0.5898212588	modal v
+0.5886760861	a good job
+0.5883270641	& adv
+0.5881137571	at town cinema
+0.5873589156	we're going to
+0.5869278820	bad badly
+0.5864280739	ice cream
+0.5863802368	the blanks with
+0.5856702821	fun to watch
+0.5849758365	penang hill
+0.5847458563	dream clothes
+0.5844943088	scary movies
+0.5839704125	write five sentences
+0.5839110648	milk shake
+0.5833386315	comfortable seats
+0.5828679917	clothes store in
+0.5821252678	in english
+0.5819260416	unit 8
+0.5817098660	irregular verbs
+0.5815676041	the first cartoon character
+0.5813475930	unit g
+0.5798313613	these activities
+0.5792160913	going on
+0.5780658370	often help with housework
+0.5770568358	party on saturday
+0.5763365521	piano lesson
+0.5763248667	an exam
+0.5759076155	do people usually make resolutions
+0.5758984516	students often
+0.5757085211	about twice
+0.5745653433	the verbs in brackets
+0.5739896111	100 years
+0.5738214960	long time
+0.5737807536	peel three bananas
+0.5735663486	family and friends
+0.5735217498	dont want to go
+0.5729038545	with karen and anna
+0.5727635289	3a read
+0.5725102544	best places things
+0.5720982170	walt disney
+0.5720982170	robert hunt
+0.5710532891	stayed at home
+0.5704527816	more people
+0.5688093356	basketball player
+0.5683519446	too late
+0.5679910207	cant go
+0.5670248323	picture above
+0.5665153272	that sounds
+0.5655636725	piano lessons
+0.5654983713	whos got talent
+0.5649713952	going to practice basketball
+0.5614390385	food and drinks
+0.5613056547	hand and touches
+0.5602843669	vegetables and fruit
+0.5597628559	the most expensive
+0.5583204738	the best
+0.5570462738	live in
+0.5568553333	diary entries
+0.5564179873	the most quickly
+0.5561339301	piece of bread
+0.5556443029	went to penang hill
+0.5546814977	3b write
+0.5543421789	unit 6
+0.5538466776	ready to try
+0.5532793242	a great soccer player
+0.5529913454	harder than
+0.5525869016	the conversation
+0.5521898455	the best clothes store
+0.5515373880	reply in writing
+0.5513488795	fa write
+0.5492712540	difficult to keep
+0.5487267008	wear jeans to
+0.5486101817	helps to
+0.5471901031	watches tv
+0.5465960892	listen and number
+0.5458235529	expect to learn from
+0.5449943557	listen to
+0.5438752380	107.9 fm
+0.5428618717	go on
+0.5424481524	mind maind
+0.5411696078	self improvement
+0.5411694685	going to do
+0.5393892073	smarter than tom
+0.5383527414	more outgoing
+0.5372128979	bad habits
+0.5362406829	forms of
+0.5353927209	the words in
+0.5353392723	then tell
+0.5349393290	the pictures
+0.5308725381	the most talented
+0.5301041395	restaurant in
+0.5300302909	t n
+0.5295595489	again and answer
+0.5285694963	the worst service
+0.5278434776	the blanks in
+0.5274141002	great because
+0.5272132413	the math teachers
+0.5266644677	a piano lesson
+0.5263569702	good grades
+0.5261979554	then talk
+0.5256810494	working in factories
+0.5249313871	conversation 3 boy
+0.5248098456	than tara
+0.5244639458	page 81
+0.5238113582	a star
+0.5234973845	unit 7
+0.5229880462	a week
+0.5214404372	many much
+0.5213073344	2b read
+0.5205269891	ac write
+0.5204885307	most of
+0.5196631369	special day
+0.5196543311	greenwood park
+0.5195684053	one cup
+0.5190980176	happen if
+0.5184755259	hope so
+0.5180786051	xiang hua
+0.5164149325	i'm going to study
+0.5163832347	surprise party
+0.5159936397	200 years
+0.5158326518	the top
+0.5152424674	the party
+0.5139569052	sun ning
+0.5125644912	reasons for
+0.5122850345	the passage
+0.5121231844	do homework
+0.5120034242	questions and answers
+0.5115449344	lin hui
+0.5111664886	going to study computer science
+0.5107094565	# 4
+0.5102383340	hong kong
+0.5102383340	steamboat willie
+0.5096405578	conversation 2 girl
+0.5091128435	36 action
+0.5090831373	reaches for
+0.5083509862	decided to
+0.5082991896	student b
+0.5071873711	3a fill in
+0.5066124570	past tense
+0.5052382363	a great time
+0.5049487179	cheng tao
+0.5038584502	can cant
+0.5020488936	watch days of our past
+0.5016690566	try to
+0.5007795795	uncountable nouns
+0.5001825548	carrots and potatoes
+0.4997472806	tiananmen square
+0.4997472806	huang lei
+0.4987361223	the worst music
+0.4984920775	like to
+0.4977581860	special day in
+0.4965416720	human like
+0.4953239034	the information in
+0.4949525113	central park
+0.4949511611	personal traits
+0.4949511611	past midnight
+0.4946591357	write questions and answers
+0.4932077057	| b
+0.4930496543	expect to learn
+0.4925669682	a good
+0.4911997578	much yogurt do
+0.4906449247	going to study math
+0.4898054851	with anyone
+0.4893645821	the other
+0.4887236833	sure about
+0.4885407270	tomatoes and onion
+0.4881250396	+ +
+0.4862764389	people say
+0.4858983812	write about
+0.4851072933	something for
+0.4845352512	going to move to
+0.4843757512	i'm going to
+0.4838324864	unit 5
+0.4836309564	the box
+0.4824147110	thats tara
+0.4822749992	a = 0
+0.4812393427	play tennis with
+0.4806342910	the news
+0.4803621895	im going to study
+0.4790435283	then write
+0.4789670228	ee ee ee ee
+0.4786689585	the questions with
+0.4779889099	conversation 2
+0.4771558518	live to
+0.4763538237	additional material
+0.4757395187	_ _ _
+0.4749661019	to help
+0.4745555366	best sound
+0.4730494128	partner about
+0.4715712724	unit 2
+0.4715186902	the correct
+0.4712014096	think 970 am
+0.4711126153	the answers to
+0.4701085465	1b listen and
+0.4700944047	conversation 3
+0.4698213883	the chart
+0.4689321154	in factories
+0.4676459537	the stress
+0.4674247703	good for
+0.4669408008	im not
+0.4664588203	not so
+0.4659964605	language goal
+0.4656994012	sentences with
+0.4653452529	unit 4
+0.4637117939	up to
+0.4635170667	= p
+0.4629680018	ideas for
+0.4616703506	dont think
+0.4609613962	help with
+0.4606655824	in 1a
+0.4596011852	the guitar
+0.4581177250	_ _
+0.4578723903	going to study math really hard
+0.4546895901	conversation 4
+0.4543520041	and more
+0.4534827605	the desk
+0.4520887251	unit 3
+0.4499243504	if people
+0.4496954950	to school
+0.4486059397	the most
+0.4481625404	weld quay
+0.4476793532	liu lili
+0.4473867126	buy anything
+0.4469369735	movie theater to go to
+0.4466450930	this time
+0.4454592281	a few
+0.4451349033	the mountains
+0.4451349033	the linking
+0.4427999018	the games
+0.4408043884	think ill
+0.4394069229	10 swing
+0.4393398289	* *
+0.4388681238	people usually
+0.4385836442	study hard
+0.4381608576	going to start
+0.4379573314	like to watch
+0.4373617893	the blanks
+0.4348048225	time to
+0.4343562233	| think i'll
+0.4338321001	student a
+0.4324839997	need three bananas
+0.4304329547	or different
+0.4301424515	the first
+0.4297992597	got to
+0.4270201638	kids won't go
+0.4267631590	the last
+0.4266146909	the blender
+0.4257351612	to play
+0.4237904684	to study
+0.4233224661	13 such
+0.4222796248	always exercise
+0.4220226762	mei ling
+0.4216751332	a taxi
+0.4215361490	best friends
+0.4212056814	boy 2
+0.4203486690	1b listen
+0.4203411868	likes to
+0.4200461257	because shes
+0.4198580897	the best way to
+0.4193342845	the words
+0.4176491827	need one cup
+0.4176207262	not very
+0.4158163423	i'm going to practice
+0.4141733344	for making
+0.4132005002	some questions
+0.4117584325	not free
+0.4115257185	the future
+0.4105484917	and because of
+0.4096879719	in common
+0.4074427180	did everyone
+0.4069332540	ifyou do
+0.4042803817	= =
+0.4039923233	go with
+0.4032341326	wants to watch
+0.4020275382	to do
+0.4016409688	ready to
+0.4011426211	_ _ _ _ _
+0.4003504329	conversation 1
+0.3996154329	role in
+0.3994762406	make conversations
+0.3970655357	_ _ _ _
+0.3953257895	need to
+0.3939822698	a day
+0.3938688331	usually do on weekends
+0.3935184650	that b
+0.3935041630	1 fillin
+0.3934974384	want to make
+0.3924743081	the people
+0.3924046422	boy 1
+0.3912676891	or more
+0.3894668228	a month
+0.3892564842	the questions
+0.3857988970	a talk show
+0.3844704239	| |
+0.3843669634	wanted to
+0.3822059029	hope to
+0.3821563697	hours do
+0.3817225353	a great
+0.3808602554	thats not
+0.3788827101	conversations about
+0.3782899321	to make
+0.3732815121	the best clothes
+0.3731228793	from here
+0.3705377462	the train
+0.3702182559	questions with
+0.3698804666	plan to
+0.3697343232	too much
+0.3696439117	students about
+0.3693804798	to watch
+0.3689198281	girl 2
+0.3681581986	did lisa
+0.3674428890	robots in
+0.3672204823	a large
+0.3655436066	way to
+0.3645347907	im going
+0.3644975852	the milk shake
+0.3642947757	to see
+0.3633793314	the job
+0.3625756201	im more outgoing
+0.3612706642	then make
+0.3602680675	dont do
+0.3601808757	some students
+0.3599904528	unit 1
+0.3592531885	and chocolate
+0.3591444875	three bananas
+0.3588862323	do people celebrate
+0.3587591027	do on weekends
+0.3581168372	another 10 minutes
+0.3577608393	answer to
+0.3549380371	the food
+0.3539646134	the tv shows
+0.3531968884	most creative
+0.3513968884	most comfortable
+0.3492378546	the messages
+0.3467663606	listen and
+0.3457724716	wallet and
+0.3457072307	dont want to
+0.3451797507	an expert
+0.3448249969	tomatoes and
+0.3414942212	think so
+0.3405959706	a basketball player
+0.3394975507	v +
+0.3369640282	the cabbage
+0.3337761652	| | |
+0.3324495892	girl 1
+0.3288055839	able to
+0.3287383606	won't go
+0.3267790770	more less
+0.3253324644	the predictions
+0.3248214970	some robots
+0.3245547168	the sentences
+0.3239333601	the world
+0.3229187411	the movie
+0.3223701532	the weather
+0.3197852908	the beach
+0.3196391733	+ v
+0.3193035175	food in
+0.3192969229	most expensive
+0.3183404290	to tell
+0.3169908069	a problem
+0.3169244865	similar to
+0.3155807645	like about
+0.3153052074	as so
+0.3151499502	= 1
+0.3148924554	move to
+0.3142028877	always ready to
+0.3135658441	bananas do
+0.3132544214	always ready
+0.3121899959	this special
+0.3113718490	trip to
+0.3098938838	= 2
+0.3085848113	a computer programmer
+0.3073776129	the same things
+0.3057679736	to work
+0.3053317693	important to
+0.3044575548	things in
+0.3042798572	a partner
+0.3042141972	and cook for
+0.3034946955	likes to do
+0.3027983695	the closest
+0.2979773603	a =
+0.2978306604	the turkey
+0.2908395826	the english
+0.2889209682	20 years
+0.2889006757	10 minutes
+0.2885239377	best in
+0.2862855714	10 years
+0.2859295405	part in
+0.2854866147	77 p
+0.2848132915	not available
+0.2843642805	a part in
+0.2838813873	br p
+0.2835561352	going to make
+0.2826286243	a bird
+0.2826286243	a doctor
+0.2813444268	and then
+0.2810468501	first cartoon
+0.2808052595	most popular
+0.2806125221	not as
+0.2778963336	much yogurt
+0.2777646502	good job
+0.2776283025	69 p
+0.2767109462	the article and
+0.2756096395	another 10
+0.2750415802	a a
+0.2737667466	there for
+0.2722522660	61 p
+0.2706733221	p 61
+0.2704859356	like in
+0.2695445913	than tom
+0.2694244801	always there
+0.2692351049	the bananas
+0.2687757783	and answer
+0.2671735171	37 p
+0.2663309325	help to
+0.2625938974	do if
+0.2623649381	_ _ _ _ _ _
+0.2618749753	the winner
+0.2614920032	to someone
+0.2610499437	going to practice
+0.2607298325	for people
+0.2596953669	and mary
+0.2591187065	do next
+0.2586889880	the movies
+0.2580602403	learn to
+0.2573470974	the country
+0.2573093911	the pictures 1
+0.2558845316	an invitation
+0.2558344676	d n
+0.2545206360	a pot
+0.2544029195	to watch days of our past
+0.2539912730	the worst
+0.2523484509	to penang hill
+0.2521585398	the best in
+0.2499780217	write questions
+0.2493611371	a very
+0.2477228905	the invitation
+0.2471651440	school student
+0.2465641531	| 3
+0.2452521039	a new
+0.2451214221	44 p
+0.2444090316	with more
+0.2433513548	and put
+0.2419704247	the report
+0.2417935782	the boy
+0.2413979931	im going to take
+0.2409542249	the next
+0.2408052251	= 0
+0.2387253100	a computer
+0.2386667531	to say
+0.2378051965	a robot
+0.2376604037	most interesting
+0.2373370856	do people usually
+0.2370773377	and make
+0.2368577602	n n
+0.2365792400	the students
+0.2346893300	the order
+0.2346000443	like humans
+0.2340009307	_ |
+0.2335628006	to go to
+0.2330061129	the right
+0.2329117773	| dont
+0.2323108302	people in
+0.2314143582	do people
+0.2303794242	about one
+0.2301752749	the chart with
+0.2295046966	in 3b
+0.2272117313	and fill in
+0.2265645384	will people
+0.2262049760	a part
+0.2255527222	better at
+0.2251170349	usually do
+0.2250688683	the biggest
+0.2249869928	need three
+0.2248809067	the people in
+0.2247597047	eat vegetables
+0.2244333151	53 p
+0.2242086425	the first cartoon
+0.2237781683	the party tomorrow
+0.2220872349	a conversation
+0.2214778964	things as
+0.2193555983	to keep
+0.2192020406	problems and
+0.2185979401	a piece of bread
+0.2183986319	the sea
+0.2174927450	the instructions
+0.2161619853	to improve
+0.2161619853	to penang
+0.2161431416	the pie
+0.2156431416	the moon
+0.2152472378	kinds of resolutions
+0.2149566081	the time
+0.2146235252	to come
+0.2137143198	again and
+0.2122720579	to decide
+0.2120521390	going to study
+0.2101291836	to other
+0.2100976717	the performers
+0.2091531710	to come to
+0.2087384003	this day
+0.2078422269	the conversation in
+0.2070928707	the activities
+0.2066423685	going to take
+0.2023782472	the funniest
+0.2022083799	the chart and
+0.2013928553	the box to
+0.2011000820	the article
+0.2001581461	the bad
+0.1994196758	| 1
+0.1964643033	the old
+0.1964017014	to add
+0.1950107292	| 2
+0.1945696865	students in
+0.1914832187	one more
+0.1910535931	2a listen and
+0.1909362863	the chart in
+0.1908228358	the questions and
+0.1907106696	the best movie theater to
+0.1906584153	in 2a
+0.1901191633	to bring
+0.1890549336	like mickey
+0.1876338670	to meet
+0.1874426945	party tomorrow
+0.1844436871	to relax
+0.1840718974	usually watch
+0.1835350511	love to
+0.1808060677	1 3
+0.1778036110	a reporter
+0.1775816636	the street
+0.1757182831	people think
+0.1713523560	a time
+0.1679373965	most boring
+0.1678846101	the picture
+0.1674760824	a fun
+0.1674760824	a big
+0.1652627755	p 53
+0.1652048718	do things
+0.1644870613	the most comfortable
+0.1590367017	working in
+0.1585254635	the answers
+0.1584572523	p 77
+0.1572992061	the man
+0.1569033532	p 74
+0.1539010215	do in
+0.1531602933	the internet
+0.1531179098	cook for
+0.1526412859	1 5
+0.1525808146	the main
+0.1518108772	a movie
+0.1496507411	the city
+0.1496236359	| 4
+0.1489642986	to play soccer
+0.1481775673	p 69
+0.1477926167	friends and
+0.1474640506	anything interesting
+0.1470389634	the sun
+0.1439315402	parents about
+0.1425891019	the school
+0.1419009704	people celebrate
+0.1394307431	party on
+0.1361567523	words and
+0.1361290970	and add
+0.1359904459	the resolutions
+0.1324771224	to write
+0.1317587036	a teacher
+0.1311464790	a role
+0.1299778136	the phrases
+0.1298601650	a resolution
+0.1273667204	more hard working
+0.1261764727	forward to
+0.1249618898	a p
+0.1245992768	party for
+0.1227858465	expect to
+0.1218472599	| _ _
+0.1216576660	words in
+0.1199182136	a banana
+0.1199182136	a surprise
+0.1198496316	party today
+0.1192742877	with housework
+0.1187424473	verbs in
+0.1172386094	a friend
+0.1158857261	and write
+0.1153878585	than sam
+0.1152487339	in writing
+0.1149981234	the weekend
+0.1123922677	_ 2
+0.1121521884	stress and
+0.1118997421	hear in
+0.1073747574	| _
+0.1073327844	jobs in
+0.1072843985	of talk shows
+0.1047038038	a piece
+0.1044872837	make resolutions
+0.1023449064	the morning
+0.0997909881	the bus
+0.0991789170	a book
+0.0971611310	answers to
+0.0968448540	a test
+0.0968346366	p 3
+0.0951713497	the class
+0.0945468974	on page
+0.0942964281	the things
+0.0937622654	a sandwich
+0.0931095527	a class
+0.0930444630	a game
+0.0928763985	and complete
+0.0923087395	a man
+0.0909716479	the story
+0.0908959633	questions and
+0.0900740492	the doctor
+0.0895088726	hand and
+0.0883589841	to live
+0.0871583336	| reply
+0.0830157807	a long
+0.0795908317	the soccer
+0.0774866153	the cinema
+0.0758344996	the sky
+0.0740511203	the information
+0.0707438829	the earth
+0.0684500398	a basketball
+0.0639977124	the dentist
+0.0639799663	a party

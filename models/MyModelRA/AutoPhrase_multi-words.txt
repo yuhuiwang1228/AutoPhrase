@@ -1,0 +1,1045 @@
+0.9246604132	look at
+0.9132983165	such as
+0.9122307134	more than
+0.9110010448	fill in
+0.9098366213	every day
+0.9070774634	rather than
+0.9041476661	give up
+0.8999255212	talk about
+0.8952431391	according to
+0.8934865630	at least
+0.8917847308	focus on
+0.8915247896	agree with
+0.8874140894	refer to
+0.8864399204	concentrate on
+0.8827863238	deal with
+0.8827789530	look through
+0.8779707867	clean up
+0.8756493911	instead of
+0.8749601643	come here
+0.8722045251	hundreds of
+0.8722045251	thousands of
+0.8708290662	learn about
+0.8680035251	especially name
+0.8664236634	different from
+0.8662397871	a few
+0.8653927671	live in
+0.8603021800	each other
+0.8567282017	even though
+0.8545130336	now and then
+0.8532941429	write down
+0.8436965564	get used to
+0.8431940180	caused by
+0.8415598080	talk to
+0.8387745351	fall apart
+0.8364216226	at last
+0.8360254688	known as
+0.8358028804	check out
+0.8357186456	part of
+0.8340153821	worried about
+0.8332062936	lots of
+0.8266943081	check in
+0.8250108366	prepare for
+0.8229257821	even if
+0.8225113013	of course
+0.8173543702	think about
+0.8162443327	apply for
+0.8158928505	pay attention to
+0.8140214364	a little
+0.8136380559	one third
+0.8135846967	in order to
+0.8123829416	began to
+0.8079963942	go shopping
+0.8073688863	choose one
+0.8044149106	almost went
+0.8043923544	other than
+0.8040687213	wants to
+0.8031735800	millions of
+0.8027330812	so many
+0.8019334228	next year
+0.8018602143	looking for
+0.8013136394	the end of
+0.7958090806	a lot of
+0.7954966745	wanted to
+0.7934697333	come from
+0.7914791313	you're right
+0.7908828111	sign up
+0.7892440391	talking about
+0.7851217406	make sure
+0.7847001144	going to
+0.7838293481	take notes
+0.7828186486	this year
+0.7809041052	next week
+0.7808574110	an example
+0.7808024528	decided to
+0.7798112611	around the world
+0.7793623806	so much
+0.7743929230	learn from
+0.7742771714	prep +
+0.7731401853	not sure
+0.7702338255	junior high school
+0.7694454954	package tour
+0.7676909351	computer games
+0.7665492019	not only
+0.7659476652	planning to
+0.7641952593	any other
+0.7600109394	dont know
+0.7590320188	interested in
+0.7588402263	good idea
+0.7578904292	preparing for
+0.7568818846	date back
+0.7566985917	suitable for
+0.7526116068	young people
+0.7507296504	listen to
+0.7492452220	chinese characters
+0.7478221715	this morning
+0.7461285788	soccer game
+0.7449096270	sounds great
+0.7436210974	want to
+0.7421565908	on hand
+0.7417036201	20 volumes
+0.7390230086	00 p.m
+0.7387945180	british english
+0.7382359952	related to
+0.7357807034	huge earthquake
+0.7333184496	billion people
+0.7329150130	kind of
+0.7310749327	oes or
+0.7299054673	one or two
+0.7298827947	make sentences
+0.7276685423	few days
+0.7239110621	im sorry
+0.7216188120	one of
+0.7201900552	not just
+0.7188479667	add more
+0.7176573495	much more
+0.7170450106	based on
+0.7165391058	really want to
+0.7164136352	credit card
+0.7150049506	seem to
+0.7138770225	the rest of
+0.7131367990	im going to
+0.7128869602	travelling around
+0.7127013237	attracted to
+0.7097799062	filled with
+0.7097760772	the same
+0.7089243080	writing system
+0.7082138659	asking for
+0.7080921818	volcanic eruption
+0.7062038446	the same as
+0.7046649396	strange things
+0.7040688547	this afternoon
+0.7038169165	words from
+0.7017839420	i'm going to
+0.7016653081	decide whether
+0.7011659619	plenty of
+0.6977710014	role in
+0.6977581948	plans for
+0.6968217398	as if
+0.6955104391	ready to
+0.6955104391	relate to
+0.6948873929	looking forward to
+0.6933791558	dates back
+0.6933612764	decide on
+0.6932391999	think of
+0.6925114056	dictionary to help
+0.6916477044	quite well
+0.6914612250	a lot
+0.6898620674	chinese culture
+0.6896731348	im good at
+0.6882169202	parts of
+0.6871429444	addicted to
+0.6856475281	different kinds of english
+0.6851130325	at school
+0.6837963778	most of
+0.6816361503	key words
+0.6810436797	able to
+0.6807553102	local people
+0.6799460631	student at
+0.6796305361	take part in
+0.6774724752	bea good tourist by
+0.6768017686	destroyed by
+0.6721955002	lose heart
+0.6704337194	any more
+0.6703881500	too much
+0.6690047709	* video time
+0.6684500466	a blog about
+0.6684460542	pictures below
+0.6678724989	unit 3 sports and fitness =
+0.6674735954	go to school
+0.6645834976	words and expressions in
+0.6641768412	put up
+0.6622009585	officials said
+0.6612577535	in english
+0.6607919570	on tv
+0.6606334339	the words below
+0.6578207842	other countries
+0.6568487661	ups and downs
+0.6551830277	* project
+0.6546193348	an important part of
+0.6546156321	come to
+0.6539701464	name ization
+0.6537679099	natural disaster
+0.6536425013	very well
+0.6513323732	day after
+0.6508512825	| tried
+0.6507147270	& vt
+0.6505269184	exchange student
+0.6503872357	at 12
+0.6494859987	big challenge
+0.6486215302	& vi
+0.6470418549	each sentence
+0.6454427139	thousands of people
+0.6450060211	first day
+0.6447694176	advanced literature
+0.6435309547	a travel brochure
+0.6422108956	too many
+0.6417499994	for example
+0.6403545954	unit 2 travelling around
+0.6402947382	difficult to
+0.6399719996	many more
+0.6398512169	several days
+0.6380385778	next to
+0.6353014925	the passage with
+0.6350344624	used to
+0.6349508614	this weekend
+0.6337523268	in china
+0.6326754892	need to
+0.6317944072	some tourists
+0.6307263855	push up
+0.6305888144	air tickets
+0.6285799736	the checklist to give feedback on
+0.6263494857	three days
+0.6229975329	foreign language
+0.6229642405	t f
+0.6222705858	text quickly to find
+0.6209927689	use to describe
+0.6203736907	an end
+0.6198525558	american english
+0.6190462711	art form
+0.6186337472	~ ~
+0.6179253776	future plans
+0.6165278417	the number of
+0.6162172022	grade 10
+0.6158745423	hundreds of thousands of
+0.6139579543	each unit
+0.6113679826	if im talking to
+0.6107318935	the words and phrases below
+0.6090621923	because of
+0.6067759472	never forget
+0.6064748020	dos and don'ts
+0.6022649278	a form of
+0.5992578396	chemistry class
+0.5985092892	relative pronouns
+0.5983616171	youth camp
+0.5979681972	each group
+0.5978848309	2 listen again
+0.5966945280	like to do
+0.5960744910	volleyball team
+0.5953867983	rescued from
+0.5942014823	did not know
+0.5936337978	chinese calligraphy
+0.5929563097	track and field
+0.5928716140	main idea
+0.5928538511	into english
+0.5904484649	the pronunciation of
+0.5896460811	words and phrases
+0.5895811382	written chinese
+0.5894581753	rescue workers
+0.5886365393	then discuss
+0.5872917535	number of
+0.5868993850	the situations below
+0.5868993850	the expressions below
+0.5868850560	modern times
+0.5866049906	the old town
+0.5863283449	the second part of
+0.5849014804	teenage life
+0.5847678362	todays teenagers
+0.5847346083	felt like
+0.5839877066	4 put up
+0.5821143501	extra curricular activities
+0.5811691575	at sea
+0.5805567603	to keep
+0.5802422852	more words to
+0.5785578535	any plans for
+0.5784444067	a little confusing
+0.5779768580	high school
+0.5776974011	ancient chinese people
+0.5764860199	want to go
+0.5759485220	using structures
+0.5755802299	communicate in
+0.5746634861	| think
+0.5723633426	quite get
+0.5715266566	no matter
+0.5702542063	~ does
+0.5696858442	the correct forms of
+0.5695925587	try to
+0.5695267623	student profile
+0.5690459154	favourite subject
+0.5684648063	then add
+0.5680264297	never quite get
+0.5677617118	answers to
+0.5676015648	rescue worker
+0.5654362179	work with
+0.5645545116	travel plans
+0.5641813291	emergency supplies
+0.5627743720	to help
+0.5626030730	tried to
+0.5623910952	exchange drafts
+0.5620695324	years ago
+0.5617246037	the conversation with
+0.5604352915	neuschwanstein castle
+0.5601005218	out of
+0.5548835050	wellness book
+0.5548336231	example a
+0.5540139763	want to study
+0.5536189723	the chinese writing system
+0.5529960306	main ideas
+0.5528646040	the phrases below
+0.5523903003	progress 1
+0.5519561258	most important
+0.5516887142	the writer use
+0.5508673571	listening to
+0.5505960624	first started
+0.5484247571	to make
+0.5483160656	tea culture
+0.5479743344	plan to
+0.5475695313	water and food
+0.5475625197	the main idea of
+0.5473623696	easy to
+0.5473306929	the underlined parts
+0.5470665205	this saturday
+0.5464996385	to meet
+0.5454446764	the sentences into
+0.5452280204	the sentences below
+0.5450971506	00 a.m
+0.5450551215	the first part of
+0.5447102596	business class
+0.5423250485	y does
+0.5420190173	olympic games
+0.5415465904	each paragraph
+0.5410144390	correct answers
+0.5402868148	going from junior high school to
+0.5394412016	on page
+0.5389046529	restrictive relative clauses
+0.5383399172	very difficult
+0.5382175688	inca empire
+0.5371676768	no one
+0.5360581276	unique to
+0.5354173297	in ruins
+0.5351503826	born in
+0.5349895708	the correct word
+0.5343682616	an earthquake
+0.5343484379	all of
+0.5340068527	* expanding
+0.5328351449	interests and needs
+0.5328039823	| m
+0.5327844494	the blanks with
+0.5319717224	and then
+0.5313749563	= =
+0.5312108092	south america
+0.5307928408	like to go to
+0.5296600453	talking to
+0.5289669885	more information
+0.5287882583	zhou wei
+0.5287882583	sri lanka
+0.5281892580	the questions below
+0.5279654448	listen to conversation
+0.5274951185	a lot more
+0.5269087354	hope to
+0.5260897701	chinese people
+0.5247870362	good morning
+0.5240127903	word group with
+0.5237493259	most interesting
+0.5231291609	so |
+0.5226699597	do not
+0.5225985094	then complete
+0.5206080042	sports interests and needs
+0.5203916950	new words
+0.5198697609	sentence structures
+0.5198180980	does not
+0.5192508894	languages around the world
+0.5183507128	many people
+0.5182895184	as many
+0.5175480881	the best players
+0.5175187094	really hard
+0.5173112600	words and expressions
+0.5166905321	a new
+0.5143982627	name ize
+0.5140641978	but |
+0.5139181097	a good
+0.5138194694	on saturday
+0.5136247325	reading and thinking
+0.5127007156	| want to
+0.5119541473	get to
+0.5116860631	or even
+0.5111880963	the number of deaths
+0.5102198750	two weeks
+0.5093347430	able to do
+0.5092833846	news report
+0.5086142117	an increasing
+0.5083960797	and then write
+0.5073902825	a few words
+0.5067603922	sentences into
+0.5066526332	chinese team
+0.5063580531	make sentences with
+0.5061762014	a list of
+0.5054316344	help do
+0.5052014076	english speaking
+0.5043470761	very interested in
+0.5038156322	work in groups
+0.5023651735	at home and abroad
+0.5016294439	living legends
+0.5012751368	many of
+0.5007829380	an english
+0.5007350701	good tourist
+0.5005485117	work in pairs
+0.5004267739	the pictures below
+0.4985667985	some of
+0.4982075894	chinese tea
+0.4981311565	workbook reading
+0.4977772714	noun phrase
+0.4972914597	used in
+0.4968621658	watch work in groups
+0.4964889129	adverb phrases
+0.4944038074	to get
+0.4942215838	not know
+0.4936225394	a partner
+0.4936108899	like to
+0.4935080282	reading for writing write
+0.4933654153	and think about
+0.4933413797	going to do
+0.4926893853	the words and phrases in brackets
+0.4925450269	senior high school
+0.4913871791	because |
+0.4909460391	appropriate tag questions
+0.4909339279	go to
+0.4902844374	again and answer
+0.4897208339	adjective phrase
+0.4892109512	unit 1 teenage
+0.4886147551	learning english
+0.4870816574	the sentences with
+0.4869390562	percent of
+0.4863961243	3 use
+0.4857631433	natural disasters
+0.4843570185	1 read
+0.4830047767	the young
+0.4828775118	2 read
+0.4827689817	way to
+0.4825693484	30 push
+0.4813382214	a letter of advice
+0.4788965037	and |
+0.4784430541	| dont
+0.4779077498	| know
+0.4775732945	know about
+0.4766933872	plants and animals
+0.4761359694	an emergency
+0.4758090999	purpose for
+0.4758059942	dear talking teens
+0.4752737392	to become
+0.4747165750	the andes mountains
+0.4746619850	the survey results
+0.4745265242	1 listen and repeat
+0.4739450791	1 look at
+0.4721222855	2 listen to
+0.4720477909	ballet club
+0.4718398507	watch complete
+0.4699405311	learning styles
+0.4697648317	many reasons
+0.4695054578	3 read
+0.4690895862	the most famous
+0.4678202825	continuous tense
+0.4676245691	listening and speaking
+0.4674303889	the text again and answer
+0.4673586739	the whole
+0.4653622474	phrases in brackets
+0.4651356055	soccer football
+0.4647465581	pictures of
+0.4646654604	more about
+0.4644851333	kinds of
+0.4633432152	good at
+0.4629734784	unit 4 natural disasters
+0.4629265540	work in
+0.4624652237	tag questions
+0.4623275488	unit 5 languages around the world
+0.4613981441	words and phrases from
+0.4613685760	english english
+0.4606807162	people in
+0.4605892600	and more
+0.4604892948	| really want to
+0.4603968029	the present continuous tense
+0.4592290454	extra curricular
+0.4576211810	coming to
+0.4570654013	a travel plan
+0.4568023889	in learning english
+0.4565765090	each word
+0.4563693503	the first
+0.4562381597	adverb phrase
+0.4557586744	the new words from
+0.4536098384	| cant
+0.4527247882	machu picchu
+0.4524398609	the outline below
+0.4508805584	a day
+0.4501679786	started to
+0.4498950528	in brackets
+0.4498791616	and make
+0.4497231311	restrictive relative
+0.4496527775	nature club
+0.4495613642	the most
+0.4494541612	and fill in
+0.4481882346	discovering useful structures
+0.4477261483	cao jing
+0.4477261483	chandra theeravit
+0.4470172376	a person
+0.4461793007	word bank
+0.4460669465	the conversation and
+0.4455304154	but now
+0.4444405735	for sth
+0.4439434595	an important
+0.4439404786	common era
+0.4437169322	the best
+0.4426171416	south africa
+0.4417136965	the face down generation
+0.4411509787	to win
+0.4408140417	to give
+0.4399846454	unit 1 teenage life
+0.4392102467	learnt to
+0.4390301946	an e sports event
+0.4388348009	useful just ok difficult
+0.4383481606	to find
+0.4381386618	role play
+0.4368324445	sentences with restrictive relative clauses
+0.4357323622	unit 3 sports and fitness
+0.4353805290	this unit
+0.4344273088	point of view
+0.4339390723	the writer give
+0.4334578864	warning signs
+0.4333724478	_ _ _ _ _ _
+0.4331017483	students from
+0.4329525988	im not
+0.4323620990	think people
+0.4323617116	the new
+0.4313396629	and see
+0.4312578644	listening and talking
+0.4304229956	soup kitchen
+0.4291149823	the writer use correct
+0.4283717472	school life in
+0.4282817365	interested in learning
+0.4279682766	the text again and
+0.4279629912	to focus on
+0.4264805826	student profiles
+0.4251525043	lake titicaca
+0.4237093691	on one
+0.4229733327	the words in
+0.4227345542	the passage and
+0.4226662780	time for
+0.4209864012	english study
+0.4208079540	like to learn
+0.4204743066	the story of
+0.4202256362	to go
+0.4201598306	the winter olympic games
+0.4198940818	head word
+0.4198318533	the team captain
+0.4197127245	the following
+0.4194459326	home and abroad
+0.4185674768	noun adjective adverb phrases
+0.4183847698	2 circle
+0.4176196059	think so
+0.4173528111	below to help
+0.4170404607	the text quickly
+0.4162765300	to play
+0.4160360564	james murray
+0.4160046580	and answer
+0.4159869562	the present continuous
+0.4157581340	the oxford english dictionary
+0.4157338502	li ming
+0.4152182371	listen for
+0.4148778737	draft back and revise
+0.4138101976	love to
+0.4137151961	and hand out food
+0.4136075148	at senior high
+0.4131773957	food and
+0.4126336548	did not
+0.4126264919	_ _ _
+0.4121290910	learning about
+0.4106324049	an increasing number of international students
+0.4101156911	at senior high school
+0.4100627377	4 work in pairs
+0.4099495401	done to
+0.4096121789	verbs in
+0.4095781100	the tour
+0.4095664048	to show similarities and differences
+0.4087011032	| day
+0.4076175738	_ _
+0.4073417264	then |
+0.4069251951	| |
+0.4064599346	lang ping
+0.4059673339	main purpose
+0.4057322575	idea of
+0.4054573656	# 2
+0.4052058039	for something
+0.4045606935	sports and fitness
+0.4044257894	using words and expressions 1
+0.4043515937	| can't
+0.4043313186	san francisco
+0.4040702979	for people
+0.4026537552	all great athletes
+0.4026119499	started in
+0.4025493790	= at
+0.4024260547	michael jordan
+0.4003941392	welcome unit
+0.3999113753	w does
+0.3997777134	the text for
+0.3987977199	to describe
+0.3976381591	1 work in groups
+0.3969876406	terracotta army
+0.3968725845	great athletes
+0.3963445245	the paragraph
+0.3962896706	world cup
+0.3957428032	the october holiday
+0.3949862071	people speak
+0.3945409996	using words and expressions
+0.3940930939	3 listen to
+0.3940734494	the two
+0.3940200550	chinese language
+0.3937936114	the organisation and language features
+0.3937546736	2 listen again and
+0.3914121765	boys and girls
+0.3914092382	2 b
+0.3906841356	first aid kit
+0.3895231655	people think
+0.3891383670	bones and shells
+0.3890918606	han jing
+0.3884926086	volunteer club
+0.3881581059	increasing number
+0.3876742955	| thought
+0.3868162462	the letters in bold
+0.3854082973	5 choose
+0.3841820787	any advice
+0.3841316861	using structures 1
+0.3829514459	struck stricken
+0.3795517234	eiffel tower
+0.3790081309	a time
+0.3784258978	the questions
+0.3772787020	a beautiful
+0.3768297690	time of
+0.3762912648	senior high
+0.3761244917	to prepare for
+0.3759277652	guide and
+0.3732095237	listen to conversation 1
+0.3730622476	| ll
+0.3703521401	stay in
+0.3697626300	to learn
+0.3674100408	pairs of words
+0.3666418447	the people
+0.3645507552	to think
+0.3645433359	with appropriate tag questions
+0.3643175798	irregular verbs
+0.3643175798	tian hua
+0.3642026788	a short
+0.3635495540	the window
+0.3626954417	sport or event
+0.3622075867	lot of
+0.3609501204	talking teens
+0.3609462890	the writer
+0.3587837314	especially amazing
+0.3587290613	_ _ _ _ _
+0.3576114545	travel plan
+0.3574195646	the gym
+0.3554058786	im very
+0.3539087403	the world
+0.3519085360	a local
+0.3503313040	the day
+0.3500384528	to work
+0.3494126588	incas dry stone method of building
+0.3479406150	workbook 4
+0.3474977167	the uk
+0.3468289132	language learning
+0.3467052122	want to learn
+0.3465281457	a country
+0.3461050220	unit1 teenage life
+0.3458072995	tim doner
+0.3444718469	a conversation
+0.3437273660	for teenagers
+0.3435903070	to explore
+0.3432753597	verb pasttense | past participle
+0.3417280945	find and
+0.3391796272	the correct answers
+0.3385498798	then make
+0.3384905521	only in
+0.3365239001	a foreign language
+0.3360633106	han jings
+0.3350872471	the fire
+0.3342645253	school adviser
+0.3340343316	to see
+0.3340230287	winter olympics
+0.3339627044	to use
+0.3324562810	speed and
+0.3322024914	culture and
+0.3320158685	number of people
+0.3316862618	a very
+0.3308752223	a team
+0.3305928228	and discuss
+0.3288483909	the ground
+0.3262626138	the text and
+0.3254683336	future plans and
+0.3222557004	unit 3
+0.3214269972	the eiffel tower
+0.3207282276	a tsunami
+0.3206406468	part in
+0.3204530111	sports and
+0.3194699861	unit 4
+0.3190947663	and field
+0.3190590179	a game
+0.3186010707	| past participle
+0.3178523538	the text
+0.3172441921	2 n
+0.3166100734	the correct relative
+0.3160739703	amazon rainforest
+0.3149087483	to start
+0.3147450383	for tourists
+0.3123749747	read about
+0.3117497310	english and
+0.3069977219	emperor qinshihuang
+0.3061429741	day of
+0.3059994879	responsible for
+0.3058007305	people of
+0.3052761218	unit 5
+0.3048721870	in life
+0.3047427582	the teenagers
+0.3042260214	to do
+0.3036188296	3 write
+0.3033587044	in groups
+0.3026897998	the classroom or read
+0.3019823577	i i
+0.3001669818	a large
+0.3000759525	the table
+0.2981584230	from junior high school
+0.2980943990	i |
+0.2978717508	a better
+0.2978206502	the teacher
+0.2970146349	with people
+0.2970129345	| really
+0.2962677617	the terracotta
+0.2961605754	a chance
+0.2959778642	of great
+0.2959629383	a book
+0.2948576572	of thousands of
+0.2943343403	the right
+0.2935019623	a student
+0.2929272004	0 n
+0.2924452408	of words
+0.2916908227	back to
+0.2905834479	now and
+0.2903604592	below with
+0.2901390153	the last
+0.2901126129	and extra curricular activities
+0.2897712175	the student
+0.2890953093	| didnt
+0.2889409887	the seven
+0.2876470649	unit 2
+0.2874607173	1 match
+0.2856851626	the time
+0.2842897590	to stay
+0.2834062410	the restrictive relative clauses
+0.2833148944	the most important
+0.2825900052	the next
+0.2824492595	a blue paint run
+0.2824084349	the team
+0.2799827263	seen in
+0.2795063516	use to
+0.2789068379	the sentences and
+0.2786396075	the terracotta army
+0.2780478597	to try
+0.2776051543	of china
+0.2775179591	unit 1
+0.2762253256	for two
+0.2761901187	and repeat
+0.2759628878	a sports event
+0.2754726363	| love
+0.2753323456	a lot to
+0.2751698383	the statements
+0.2738670752	away in
+0.2725193160	the conversation
+0.2724557678	the city
+0.2723820454	a student club
+0.2712686290	a wonderful
+0.2706674920	3 complete
+0.2688721740	the changes
+0.2675445851	again and
+0.2663256155	the amazon
+0.2662606065	the train
+0.2656925802	the phrases
+0.2656717017	the correct
+0.2654588244	people and
+0.2646300976	sports event
+0.2643789024	the students
+0.2627989590	2 study
+0.2618874193	a clear
+0.2614600228	to travel
+0.2609275886	the room
+0.2592900916	and even
+0.2585851597	to live in
+0.2585851597	to talk about
+0.2583948135	difficult for
+0.2579282741	the other
+0.2576243052	to write
+0.2557651117	below and
+0.2552573400	and im
+0.2549472630	words for
+0.2547489362	a disaster
+0.2546329385	paragraph 2
+0.2544047966	and help
+0.2543701331	a class
+0.2527052080	then write
+0.2524672174	the tag questions
+0.2520308947	the school adviser
+0.2518943172	the rescue
+0.2518035585	the skeleton
+0.2515065802	to leave
+0.2507284651	the plants and animals
+0.2503399697	people to
+0.2501865491	the amazon rainforest
+0.2485776758	school life
+0.2485270112	the words and phrases
+0.2481139380	a high school
+0.2476896052	come and
+0.2475592073	to ask
+0.2473736073	honour and
+0.2460772501	and tick
+0.2459161167	and fm
+0.2457032354	to show
+0.2432434348	a great
+0.2431811309	the main idea
+0.2416363831	the blanks
+0.2405316553	words in
+0.2383508865	the great
+0.2369816629	do to
+0.2352006663	the sentences
+0.2346435363	| hope
+0.2342833654	a trip
+0.2335507915	a way
+0.2330232872	the student profiles
+0.2321553472	chance to
+0.2319735676	words and
+0.2319235012	the buildings
+0.2313672303	the reason
+0.2304040647	the pictures
+0.2303427617	the place
+0.2287284357	pretend to
+0.2270534132	the english
+0.2265320778	the future
+0.2250953404	the words
+0.2250059136	a senior high school
+0.2241908572	the hotel
+0.2238047845	a dictionary
+0.2234420120	paragraph 3
+0.2233681805	a school
+0.2230232430	group of
+0.2209104059	the rescue worker
+0.2208435386	| like
+0.2208184915	sentence in
+0.2203109114	the andes
+0.2196313237	and many
+0.2195592704	a strong
+0.2195282950	of chinese characters
+0.2193150807	a language
+0.2192622393	and other
+0.2176888329	read chinese
+0.2168136345	the school
+0.2159793003	a student profile
+0.2155743402	of people
+0.2141128807	into chinese
+0.2134832209	the one
+0.2129426822	the old
+0.2116755226	the ideas
+0.2107427835	the earthquake
+0.2090749550	a city
+0.2074701831	control of
+0.2061593352	student club
+0.2055433021	a friend
+0.2047551358	the island
+0.2042172906	the classroom
+0.2041722278	a a
+0.2036802376	| make
+0.2036110486	a survey
+0.2032326694	of thousands
+0.2021758358	the class
+0.2013660095	the game
+0.2007853045	the disaster
+0.2007500486	the second
+0.2007010347	the coming
+0.2007010347	the man
+0.2007010347	the coach
+0.2004327587	the internet
+0.2003234546	the email
+0.2000342538	to choose
+0.1991423765	the middle
+0.1984451937	a long
+0.1983180128	the night
+0.1977747576	in beijing
+0.1977608905	a letter
+0.1976851507	to pay
+0.1960693330	learning chinese
+0.1951965897	of english
+0.1943024698	a summary
+0.1941188804	a soccer
+0.1935741149	the uros
+0.1933788254	a huge
+0.1928997408	to invite
+0.1900104653	work and
+0.1887700844	life in
+0.1881982753	and underline
+0.1875774239	of chinese culture
+0.1874956024	the 5
+0.1873100117	the present
+0.1858010682	in ecuador
+0.1856629527	the title
+0.1853839294	forms of
+0.1846001103	history and
+0.1838253540	the pacific
+0.1836041387	in seoul
+0.1831813062	the chinese
+0.1825783610	the question
+0.1824806425	the citys
+0.1823177715	a week
+0.1817213590	about natural disasters
+0.1812959454	city of
+0.1810073629	classmates and
+0.1799569452	a presentation
+0.1794530018	and do
+0.1785284772	the reader
+0.1784336169	the tsunami
+0.1772575242	the olympics
+0.1771220632	a cruise
+0.1770199752	the library
+0.1767411038	to live
+0.1765129356	the mountains
+0.1765129356	the results
+0.1762107784	and culture
+0.1738215364	chinese writing
+0.1728819632	the dead
+0.1727402768	the local
+0.1722682212	the weather
+0.1720639163	the main
+0.1711584631	a sport
+0.1707996584	the typhoon
+0.1690601211	the sky
+0.1690426801	to grow
+0.1690052231	the inca
+0.1683510823	the incas
+0.1673433816	the baby
+0.1669440369	a difference
+0.1667122144	to visit
+0.1661316385	a girl
+0.1657994312	the difference
+0.1653796163	list of
+0.1640848497	the idea
+0.1639610528	of peru
+0.1635998441	and mark
+0.1631660978	the underlined
+0.1614261880	the holiday
+0.1607533983	the checklist
+0.1604772493	and friends
+0.1590683306	of food
+0.1580250641	injured in
+0.1579967851	to buy
+0.1575406759	to complete
+0.1571832154	the terrible
+0.1564065472	a small
+0.1555017190	the ship
+0.1552998821	the summary
+0.1544387369	a big
+0.1539938229	the sentence
+0.1536352071	the news
+0.1536326707	the karsts
+0.1527518733	to improve
+0.1527455295	the ancient
+0.1516235115	the verbs
+0.1495020535	2 listen
+0.1491143060	the past
+0.1478655994	the list
+0.1470430572	the earth
+0.1453417675	the army
+0.1423436808	method of
+0.1421256770	and organised
+0.1402250618	the building
+0.1400892112	the situations
+0.1400853393	and fitness
+0.1393089770	and check
+0.1389998233	to hear
+0.1389807762	a word
+0.1385052044	2 write
+0.1384959878	to study
+0.1367432901	passage and
+0.1363948160	the water
+0.1359863897	e sports
+0.1357455934	the sun
+0.1353500601	the government
+0.1345550034	the quake
+0.1337907033	a teacher
+0.1337192424	and complete
+0.1336575033	the beautiful
+0.1334832611	world and
+0.1333258705	the passage
+0.1324696556	the trip
+0.1318202788	4 read
+0.1309913947	the video
+0.1300223432	important to
+0.1298442691	the survey
+0.1294389658	the photos
+0.1289413947	the rainforest
+0.1289229351	to understand
+0.1287709621	the fires
+0.1261024377	the problem
+0.1259064825	the things
+0.1255836267	the outline
+0.1240547336	and choose
+0.1222431637	school and
+0.1208270014	a travel
+0.1204675886	the final
+0.1202500383	the story
+0.1199709670	a high
+0.1198784305	1 circle
+0.1190339418	earthquake in
+0.1189951442	a sports
+0.1188234113	the event
+0.1181308170	to save
+0.1176530716	| _
+0.1170249230	of information
+0.1167237579	expressions in
+0.1163993339	listen and
+0.1156048286	volunteer to
+0.1148199525	and decide
+0.1142803530	listening and
+0.1107940132	the gold
+0.1107097561	and expressions
+0.1096611918	games and
+0.1095825175	of todays
+0.1090913681	to read
+0.1087130134	water and
+0.1075925270	to catch
+0.1071261070	language and
+0.1070152095	the country
+0.1061936921	of local
+0.1061648966	to bridge
+0.1056239936	of water
+0.1052062362	conversation 2
+0.1045714378	the speaker
+0.1045714378	the soldier
+0.1043047711	the interpreter
+0.1037253041	a chinese
+0.1020532181	and speaking
+0.1012317293	and animals
+0.1003648942	the parts
+0.0982650626	a list
+0.0982650626	a car
+0.0979123159	the expressions
+0.0979123159	the countryside
+0.0968773651	to watch
+0.0959266907	in south
+0.0945550441	in sports
+0.0941010423	a group
+0.0934846617	and explain
+0.0915781500	the history
+0.0904604815	and write
